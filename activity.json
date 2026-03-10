@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-03-10T20:29:30Z",
+  "updated_at": "2026-03-10T21:02:30Z",
   "commits": [
+    {
+      "hash": "ee3be1b",
+      "type": "feat",
+      "message": "add creación masiva de categorías y gestión de tokens",
+      "repo": "CashSurfAI",
+      "repo_display": "CashSurfAI",
+      "timestamp": "2026-03-10T18:01:03-03:00"
+    },
+    {
+      "hash": "7adb277",
+      "type": "other",
+      "message": "add action for update commits to public view in whoami.virgilitech.dev",
+      "repo": "CashSurfAI",
+      "repo_display": "CashSurfAI",
+      "timestamp": "2026-03-10T17:29:33-03:00"
+    },
     {
       "hash": "5b0fa84",
       "type": "other",
@@ -40,6 +56,30 @@
       "repo": "Alva",
       "repo_display": "Alva",
       "timestamp": "2026-03-08T19:06:32Z"
+    },
+    {
+      "hash": "9ce312b",
+      "type": "other",
+      "message": "Categorización semántica inteligente y mejoras en transcripción de voz",
+      "repo": "CashSurfAI",
+      "repo_display": "CashSurfAI",
+      "timestamp": "2026-02-27T16:18:06-03:00"
+    },
+    {
+      "hash": "dc7e7d1",
+      "type": "fix",
+      "message": "corregir aislamiento de datos en busqueda de embeddings",
+      "repo": "CashSurfAI",
+      "repo_display": "CashSurfAI",
+      "timestamp": "2026-02-27T01:46:53-03:00"
+    },
+    {
+      "hash": "68e1d96",
+      "type": "other",
+      "message": "lecura de json para tipo dict",
+      "repo": "CashSurfAI",
+      "repo_display": "CashSurfAI",
+      "timestamp": "2025-06-08T19:16:11-03:00"
     }
   ]
 }
