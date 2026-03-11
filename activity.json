@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-03-10T21:02:30Z",
+  "updated_at": "2026-03-11T23:30:05Z",
   "commits": [
+    {
+      "hash": "1b35c3e",
+      "type": "other",
+      "message": "TOOLS.md: add IMAP/SMTP email tool reference",
+      "repo": "Alva",
+      "repo_display": "Alva",
+      "timestamp": "2026-03-11T23:27:06Z"
+    },
     {
       "hash": "ee3be1b",
       "type": "feat",
