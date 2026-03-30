@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-03-30T19:15:28Z",
+  "updated_at": "2026-03-30T19:17:10Z",
   "commits": [
+    {
+      "hash": "9d3980e",
+      "type": "fix",
+      "message": "resolve booking creation failures and improve availability validation",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-03-30T16:16:54-03:00"
+    },
     {
       "hash": "fc952cd",
       "type": "fix",
@@ -48,6 +56,14 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-03-30T14:47:27-03:00"
+    },
+    {
+      "hash": "8da9968",
+      "type": "feat",
+      "message": "add calendar bookings endpoint with multi-resource filtering",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-03-30T14:02:39-03:00"
     },
     {
       "hash": "f84f191",
@@ -144,22 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-03-28T20:59:40-03:00"
-    },
-    {
-      "hash": "0bcd340",
-      "type": "fix",
-      "message": ": fix Traefik routing — add certresolver, IPv6 listener and healthcheck",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-03-28T20:10:48-03:00"
-    },
-    {
-      "hash": "10b5295",
-      "type": "fix",
-      "message": ": authenticate to GHCR on VPS before docker pull and fix missing DEPLOY_PATH secret",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-03-28T13:59:52-03:00"
     }
   ]
 }
