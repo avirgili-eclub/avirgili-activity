@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-03-12T00:40:12Z",
+  "updated_at": "2026-03-30T03:50:37Z",
   "commits": [
+    {
+      "hash": "9b15030",
+      "type": "feat",
+      "message": "update github workflow action",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-03-30T00:50:23-03:00"
+    },
+    {
+      "hash": "02e7e04",
+      "type": "feat",
+      "message": "Update activity yml",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-03-29T21:16:29-03:00"
+    },
+    {
+      "hash": "96ed63a",
+      "type": "fix",
+      "message": "correct day_of_week offset in availability seed and add V31 migration",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-03-29T15:51:43-03:00"
+    },
+    {
+      "hash": "9ace28d",
+      "type": "fix",
+      "message": "use phone as fallback full_name when creating client from WhatsApp",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-03-28T21:55:56-03:00"
+    },
+    {
+      "hash": "490b6db",
+      "type": "other",
+      "message": "Merge branch master of github.com:avirgili-eclub/agendate-ya",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-03-27T18:40:46-03:00"
+    },
     {
       "hash": "59a500a",
       "type": "feat",
