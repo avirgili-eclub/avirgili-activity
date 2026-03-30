@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-03-30T03:50:58Z",
+  "updated_at": "2026-03-30T03:51:26Z",
   "commits": [
+    {
+      "hash": "c8ba648",
+      "type": "feat",
+      "message": "update github workflow action",
+      "repo": "whoami-virgilitech",
+      "repo_display": "Whoami Virgilitech",
+      "timestamp": "2026-03-30T00:51:14-03:00"
+    },
     {
       "hash": "8330d3c",
       "type": "feat",
@@ -16,6 +24,22 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-03-30T00:50:23-03:00"
+    },
+    {
+      "hash": "b5662a6",
+      "type": "other",
+      "message": "add Cloudflare Pages auto-deploy workflow",
+      "repo": "whoami-virgilitech",
+      "repo_display": "Whoami Virgilitech",
+      "timestamp": "2026-03-30T00:30:31-03:00"
+    },
+    {
+      "hash": "9c7d644",
+      "type": "feat",
+      "message": "update update-activity.yml",
+      "repo": "whoami-virgilitech",
+      "repo_display": "Whoami Virgilitech",
+      "timestamp": "2026-03-29T21:24:20-03:00"
     },
     {
       "hash": "83b284a",
@@ -82,6 +106,14 @@
       "timestamp": "2026-03-27T18:40:46-03:00"
     },
     {
+      "hash": "402ad1f",
+      "type": "feat",
+      "message": "add bilingual CV system with preview/download panel",
+      "repo": "whoami-virgilitech",
+      "repo_display": "Whoami Virgilitech",
+      "timestamp": "2026-03-26T20:18:32-03:00"
+    },
+    {
       "hash": "59a500a",
       "type": "feat",
       "message": "add imap-smtp-email skill and update deploy pipeline",
@@ -96,6 +128,14 @@
       "repo": "Alva",
       "repo_display": "Alva",
       "timestamp": "2026-03-11T23:27:06Z"
+    },
+    {
+      "hash": "c9f680f",
+      "type": "feat",
+      "message": "replace initials avatar with illustrated photo",
+      "repo": "whoami-virgilitech",
+      "repo_display": "Whoami Virgilitech",
+      "timestamp": "2026-03-10T20:12:23-03:00"
     },
     {
       "hash": "ee3be1b",
@@ -120,46 +160,6 @@
       "repo": "Alva",
       "repo_display": "Alva",
       "timestamp": "2026-03-10T17:29:11-03:00"
-    },
-    {
-      "hash": "cc8836c",
-      "type": "other",
-      "message": "Add TOOLS.md with all available tools, update AGENTS.md with audio rules",
-      "repo": "Alva",
-      "repo_display": "Alva",
-      "timestamp": "2026-03-10T01:40:54Z"
-    },
-    {
-      "hash": "2cf45fb",
-      "type": "other",
-      "message": "AGENTS.md: add Google Workspace quick reference",
-      "repo": "Alva",
-      "repo_display": "Alva",
-      "timestamp": "2026-03-10T00:16:19Z"
-    },
-    {
-      "hash": "fa0fe80",
-      "type": "other",
-      "message": "AGENTS.md: add mandatory date command for time queries",
-      "repo": "Alva",
-      "repo_display": "Alva",
-      "timestamp": "2026-03-08T19:10:15Z"
-    },
-    {
-      "hash": "145e7db",
-      "type": "other",
-      "message": "deploy-client.sh: add timezone fix, alva-reminders skill",
-      "repo": "Alva",
-      "repo_display": "Alva",
-      "timestamp": "2026-03-08T19:06:32Z"
-    },
-    {
-      "hash": "9ce312b",
-      "type": "other",
-      "message": "Categorización semántica inteligente y mejoras en transcripción de voz",
-      "repo": "CashSurfAI",
-      "repo_display": "CashSurfAI",
-      "timestamp": "2026-02-27T16:18:06-03:00"
     }
   ]
 }
