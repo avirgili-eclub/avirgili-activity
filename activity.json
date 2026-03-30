@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-03-30T19:19:20Z",
+  "updated_at": "2026-03-30T20:23:45Z",
   "commits": [
+    {
+      "hash": "8686980",
+      "type": "fix",
+      "message": "align tests with current production API signatures",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-03-30T17:23:33-03:00"
+    },
     {
       "hash": "c1b379d",
       "type": "other",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-03-29T15:51:43-03:00"
-    },
-    {
-      "hash": "9ace28d",
-      "type": "fix",
-      "message": "use phone as fallback full_name when creating client from WhatsApp",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-03-28T21:55:56-03:00"
     }
   ]
 }
