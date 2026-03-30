@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-03-30T21:50:26Z",
+  "updated_at": "2026-03-30T22:21:16Z",
   "commits": [
+    {
+      "hash": "debd5cb",
+      "type": "fix",
+      "message": "correct docker-compose image default and deploy script issues",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-03-30T19:21:03-03:00"
+    },
     {
       "hash": "b9862bc",
       "type": "fix",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-03-30T00:50:23-03:00"
-    },
-    {
-      "hash": "36904cc",
-      "type": "other",
-      "message": "Merge pull request #7 from avirgili-eclub/dev",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-03-30T00:41:07-03:00"
     }
   ]
 }
