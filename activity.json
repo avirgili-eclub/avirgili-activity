@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-03-30T21:18:54Z",
+  "updated_at": "2026-03-30T21:32:48Z",
   "commits": [
+    {
+      "hash": "926f1da",
+      "type": "fix",
+      "message": "align unit tests with current production API and fix CI pipeline",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-03-30T18:32:35-03:00"
+    },
     {
       "hash": "7784fb3",
       "type": "fix",
@@ -152,14 +160,6 @@
       "repo": "whoami-virgilitech",
       "repo_display": "Whoami Virgilitech",
       "timestamp": "2026-03-30T00:30:31-03:00"
-    },
-    {
-      "hash": "9c7d644",
-      "type": "feat",
-      "message": "update update-activity.yml",
-      "repo": "whoami-virgilitech",
-      "repo_display": "Whoami Virgilitech",
-      "timestamp": "2026-03-29T21:24:20-03:00"
     }
   ]
 }
