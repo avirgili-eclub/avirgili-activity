@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-03-30T03:51:26Z",
+  "updated_at": "2026-03-30T03:54:00Z",
   "commits": [
+    {
+      "hash": "f84f191",
+      "type": "other",
+      "message": "Merge pull request #8 from avirgili-eclub/dev",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-03-30T00:53:51-03:00"
+    },
     {
       "hash": "c8ba648",
       "type": "feat",
@@ -24,6 +32,14 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-03-30T00:50:23-03:00"
+    },
+    {
+      "hash": "36904cc",
+      "type": "other",
+      "message": "Merge pull request #7 from avirgili-eclub/dev",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-03-30T00:41:07-03:00"
     },
     {
       "hash": "b5662a6",
@@ -144,22 +160,6 @@
       "repo": "CashSurfAI",
       "repo_display": "CashSurfAI",
       "timestamp": "2026-03-10T18:01:03-03:00"
-    },
-    {
-      "hash": "7adb277",
-      "type": "other",
-      "message": "add action for update commits to public view in whoami.virgilitech.dev",
-      "repo": "CashSurfAI",
-      "repo_display": "CashSurfAI",
-      "timestamp": "2026-03-10T17:29:33-03:00"
-    },
-    {
-      "hash": "5b0fa84",
-      "type": "other",
-      "message": "add action for update commits to public view in whoami.virgilitech.dev",
-      "repo": "Alva",
-      "repo_display": "Alva",
-      "timestamp": "2026-03-10T17:29:11-03:00"
     }
   ]
 }
