@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-03-30T21:32:48Z",
+  "updated_at": "2026-03-30T21:50:26Z",
   "commits": [
+    {
+      "hash": "b9862bc",
+      "type": "fix",
+      "message": "correct test data in CreateBookingUseCaseTest and ManageResourceUseCaseTest",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-03-30T18:50:15-03:00"
+    },
     {
       "hash": "926f1da",
       "type": "fix",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-03-30T00:41:07-03:00"
-    },
-    {
-      "hash": "b5662a6",
-      "type": "other",
-      "message": "add Cloudflare Pages auto-deploy workflow",
-      "repo": "whoami-virgilitech",
-      "repo_display": "Whoami Virgilitech",
-      "timestamp": "2026-03-30T00:30:31-03:00"
     }
   ]
 }
