@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-03-30T20:24:15Z",
+  "updated_at": "2026-03-30T21:18:54Z",
   "commits": [
+    {
+      "hash": "7784fb3",
+      "type": "fix",
+      "message": "align CI/CD with actual branch strategy",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-03-30T18:18:43-03:00"
+    },
     {
       "hash": "d94251d",
       "type": "other",
@@ -152,14 +160,6 @@
       "repo": "whoami-virgilitech",
       "repo_display": "Whoami Virgilitech",
       "timestamp": "2026-03-29T21:24:20-03:00"
-    },
-    {
-      "hash": "83b284a",
-      "type": "feat",
-      "message": "update update-activity.yml",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-03-29T21:20:48-03:00"
     }
   ]
 }
