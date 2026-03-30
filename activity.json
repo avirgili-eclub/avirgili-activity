@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-03-30T03:50:37Z",
+  "updated_at": "2026-03-30T03:50:58Z",
   "commits": [
+    {
+      "hash": "8330d3c",
+      "type": "feat",
+      "message": "update github workflow action",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-03-30T00:50:46-03:00"
+    },
     {
       "hash": "9b15030",
       "type": "feat",
@@ -8,6 +16,14 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-03-30T00:50:23-03:00"
+    },
+    {
+      "hash": "83b284a",
+      "type": "feat",
+      "message": "update update-activity.yml",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-03-29T21:20:48-03:00"
     },
     {
       "hash": "02e7e04",
@@ -32,6 +48,30 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-03-28T21:55:56-03:00"
+    },
+    {
+      "hash": "117e7ad",
+      "type": "fix",
+      "message": ": hardcode GHCR image name and fix deploy script",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-03-28T20:59:40-03:00"
+    },
+    {
+      "hash": "0bcd340",
+      "type": "fix",
+      "message": ": fix Traefik routing — add certresolver, IPv6 listener and healthcheck",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-03-28T20:10:48-03:00"
+    },
+    {
+      "hash": "10b5295",
+      "type": "fix",
+      "message": ": authenticate to GHCR on VPS before docker pull and fix missing DEPLOY_PATH secret",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-03-28T13:59:52-03:00"
     },
     {
       "hash": "490b6db",
@@ -120,22 +160,6 @@
       "repo": "CashSurfAI",
       "repo_display": "CashSurfAI",
       "timestamp": "2026-02-27T16:18:06-03:00"
-    },
-    {
-      "hash": "dc7e7d1",
-      "type": "fix",
-      "message": "corregir aislamiento de datos en busqueda de embeddings",
-      "repo": "CashSurfAI",
-      "repo_display": "CashSurfAI",
-      "timestamp": "2026-02-27T01:46:53-03:00"
-    },
-    {
-      "hash": "68e1d96",
-      "type": "other",
-      "message": "lecura de json para tipo dict",
-      "repo": "CashSurfAI",
-      "repo_display": "CashSurfAI",
-      "timestamp": "2025-06-08T19:16:11-03:00"
     }
   ]
 }
