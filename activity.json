@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-03-30T17:54:07Z",
+  "updated_at": "2026-03-30T18:21:23Z",
   "commits": [
+    {
+      "hash": "3fbd852",
+      "type": "feat",
+      "message": ": use wa.me deeplink for whatsapp booking outreach",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-03-30T15:21:11-03:00"
+    },
     {
       "hash": "8eb9f20",
       "type": "fix",
@@ -152,14 +160,6 @@
       "repo": "Alva",
       "repo_display": "Alva",
       "timestamp": "2026-03-12T00:39:54Z"
-    },
-    {
-      "hash": "1b35c3e",
-      "type": "other",
-      "message": "TOOLS.md: add IMAP/SMTP email tool reference",
-      "repo": "Alva",
-      "repo_display": "Alva",
-      "timestamp": "2026-03-11T23:27:06Z"
     }
   ]
 }
