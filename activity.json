@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-03-30T22:21:16Z",
+  "updated_at": "2026-03-30T22:39:15Z",
   "commits": [
+    {
+      "hash": "eb51cfa",
+      "type": "other",
+      "message": "trigger deploy pipeline",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-03-30T19:39:03-03:00"
+    },
     {
       "hash": "debd5cb",
       "type": "fix",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-03-30T00:50:46-03:00"
-    },
-    {
-      "hash": "9b15030",
-      "type": "feat",
-      "message": "update github workflow action",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-03-30T00:50:23-03:00"
     }
   ]
 }
