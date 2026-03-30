@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-03-30T17:47:43Z",
+  "updated_at": "2026-03-30T17:54:07Z",
   "commits": [
+    {
+      "hash": "8eb9f20",
+      "type": "fix",
+      "message": ": simplify booking card actions and remove duplicate cancel option",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-03-30T14:53:56-03:00"
+    },
     {
       "hash": "c93a2c1",
       "type": "feat",
@@ -152,14 +160,6 @@
       "repo": "Alva",
       "repo_display": "Alva",
       "timestamp": "2026-03-11T23:27:06Z"
-    },
-    {
-      "hash": "c9f680f",
-      "type": "feat",
-      "message": "replace initials avatar with illustrated photo",
-      "repo": "whoami-virgilitech",
-      "repo_display": "Whoami Virgilitech",
-      "timestamp": "2026-03-10T20:12:23-03:00"
     }
   ]
 }
