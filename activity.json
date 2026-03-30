@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-03-30T03:54:00Z",
+  "updated_at": "2026-03-30T17:47:43Z",
   "commits": [
+    {
+      "hash": "c93a2c1",
+      "type": "feat",
+      "message": ": integrate calendar endpoint and polish booking UX",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-03-30T14:47:27-03:00"
+    },
     {
       "hash": "f84f191",
       "type": "other",
@@ -152,14 +160,6 @@
       "repo": "whoami-virgilitech",
       "repo_display": "Whoami Virgilitech",
       "timestamp": "2026-03-10T20:12:23-03:00"
-    },
-    {
-      "hash": "ee3be1b",
-      "type": "feat",
-      "message": "add creación masiva de categorías y gestión de tokens",
-      "repo": "CashSurfAI",
-      "repo_display": "CashSurfAI",
-      "timestamp": "2026-03-10T18:01:03-03:00"
     }
   ]
 }
