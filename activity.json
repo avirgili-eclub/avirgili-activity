@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-03-31T16:09:21Z",
+  "updated_at": "2026-03-31T16:28:29Z",
   "commits": [
+    {
+      "hash": "d7bda78",
+      "type": "feat",
+      "message": ": improve multi-resource overlap readability",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-03-31T13:26:51-03:00"
+    },
     {
       "hash": "92a872d",
       "type": "feat",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-03-30T00:53:51-03:00"
-    },
-    {
-      "hash": "c8ba648",
-      "type": "feat",
-      "message": "update github workflow action",
-      "repo": "whoami-virgilitech",
-      "repo_display": "Whoami Virgilitech",
-      "timestamp": "2026-03-30T00:51:14-03:00"
     }
   ]
 }
