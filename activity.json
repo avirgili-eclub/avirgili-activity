@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-03-31T18:19:29Z",
+  "updated_at": "2026-03-31T19:07:50Z",
   "commits": [
+    {
+      "hash": "f310e9d",
+      "type": "fix",
+      "message": "default validFrom to today when not provided in availability rule creation",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-03-31T16:07:40-03:00"
+    },
     {
       "hash": "8cb3b05",
       "type": "refactor",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-03-30T14:53:56-03:00"
-    },
-    {
-      "hash": "c93a2c1",
-      "type": "feat",
-      "message": ": integrate calendar endpoint and polish booking UX",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-03-30T14:47:27-03:00"
     }
   ]
 }
