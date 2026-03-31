@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-03-31T21:43:32Z",
+  "updated_at": "2026-03-31T21:49:11Z",
   "commits": [
+    {
+      "hash": "a856a8b",
+      "type": "fix",
+      "message": "update unit tests after capacity and location schedule changes",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-03-31T18:48:54-03:00"
+    },
     {
       "hash": "3da4430",
       "type": "other",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-03-30T17:24:04-03:00"
-    },
-    {
-      "hash": "da107e0",
-      "type": "chore",
-      "message": "merge dev into master — calendar endpoint, booking fixes, test alignment",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-03-30T17:23:56-03:00"
     }
   ]
 }
