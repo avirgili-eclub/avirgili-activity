@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-03-31T21:10:38Z",
+  "updated_at": "2026-03-31T21:36:29Z",
   "commits": [
+    {
+      "hash": "2362e6d",
+      "type": "feat",
+      "message": "enrich LocationResponse with business hours and add replace endpoint",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-03-31T18:36:19-03:00"
+    },
     {
       "hash": "19d5586",
       "type": "feat",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-03-30T15:48:53-03:00"
-    },
-    {
-      "hash": "3fbd852",
-      "type": "feat",
-      "message": ": use wa.me deeplink for whatsapp booking outreach",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-03-30T15:21:11-03:00"
     }
   ]
 }
