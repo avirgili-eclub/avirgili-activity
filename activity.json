@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-03-31T21:40:38Z",
+  "updated_at": "2026-03-31T21:43:32Z",
   "commits": [
+    {
+      "hash": "3da4430",
+      "type": "other",
+      "message": "Merge pull request #10 from avirgili-eclub/dev",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-03-31T18:43:22-03:00"
+    },
     {
       "hash": "41e01d4",
       "type": "other",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-03-30T17:23:56-03:00"
-    },
-    {
-      "hash": "8686980",
-      "type": "fix",
-      "message": "align tests with current production API signatures",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-03-30T17:23:33-03:00"
     }
   ]
 }
