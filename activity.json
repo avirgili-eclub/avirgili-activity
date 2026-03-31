@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-03-31T21:36:29Z",
+  "updated_at": "2026-03-31T21:40:38Z",
   "commits": [
+    {
+      "hash": "41e01d4",
+      "type": "other",
+      "message": "Merge pull request #3 from avirgili-eclub/dev",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-03-31T18:40:30-03:00"
+    },
+    {
+      "hash": "697e3a4",
+      "type": "feat",
+      "message": ": align business hours contract fields",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-03-31T18:37:04-03:00"
+    },
     {
       "hash": "2362e6d",
       "type": "feat",
@@ -16,6 +32,30 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-03-31T18:10:26-03:00"
+    },
+    {
+      "hash": "37717d6",
+      "type": "other",
+      "message": "Merge pull request #2 from avirgili-eclub/dev",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-03-31T17:17:34-03:00"
+    },
+    {
+      "hash": "e5f880f",
+      "type": "chore",
+      "message": ": update resources panel wording to equipo",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-03-31T17:14:38-03:00"
+    },
+    {
+      "hash": "75ec4b3",
+      "type": "other",
+      "message": "Merge pull request #1 from avirgili-eclub/dev",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-03-31T16:12:54-03:00"
     },
     {
       "hash": "f310e9d",
@@ -120,46 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-03-30T17:23:33-03:00"
-    },
-    {
-      "hash": "c1b379d",
-      "type": "other",
-      "message": "Merge pull request #9 from avirgili-eclub/dev",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-03-30T16:19:10-03:00"
-    },
-    {
-      "hash": "9d3980e",
-      "type": "fix",
-      "message": "resolve booking creation failures and improve availability validation",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-03-30T16:16:54-03:00"
-    },
-    {
-      "hash": "fc952cd",
-      "type": "fix",
-      "message": ": prevent action button overflow in cards",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-03-30T16:15:06-03:00"
-    },
-    {
-      "hash": "4fca649",
-      "type": "feat",
-      "message": ": use shared confirm dialog for cancel action",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-03-30T15:49:00-03:00"
-    },
-    {
-      "hash": "b17a421",
-      "type": "feat",
-      "message": ": add locales module and shared confirm dialog",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-03-30T15:48:53-03:00"
     }
   ]
 }
