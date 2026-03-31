@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-03-31T16:28:29Z",
+  "updated_at": "2026-03-31T18:14:14Z",
   "commits": [
+    {
+      "hash": "4a778f0",
+      "type": "fix",
+      "message": "implement Persistable<UUID> on BookingEntity to prevent merge on new entities",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-03-31T15:13:56-03:00"
+    },
     {
       "hash": "d7bda78",
       "type": "feat",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-03-30T14:02:39-03:00"
-    },
-    {
-      "hash": "f84f191",
-      "type": "other",
-      "message": "Merge pull request #8 from avirgili-eclub/dev",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-03-30T00:53:51-03:00"
     }
   ]
 }
