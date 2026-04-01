@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-01T21:40:37Z",
+  "updated_at": "2026-04-01T22:08:03Z",
   "commits": [
+    {
+      "hash": "a85af63",
+      "type": "feat",
+      "message": "enrich GET /api/v1/bookings with resourceName, serviceName, clientName, clientPhone",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-01T19:07:53-03:00"
+    },
     {
       "hash": "56a557d",
       "type": "feat",
@@ -152,14 +160,6 @@
       "repo": "whoami-virgilitech",
       "repo_display": "Whoami Virgilitech",
       "timestamp": "2026-03-31T13:08:44-03:00"
-    },
-    {
-      "hash": "eb51cfa",
-      "type": "other",
-      "message": "trigger deploy pipeline",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-03-30T19:39:03-03:00"
     }
   ]
 }
