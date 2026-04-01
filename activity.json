@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-01T20:09:24Z",
+  "updated_at": "2026-04-01T21:40:37Z",
   "commits": [
+    {
+      "hash": "56a557d",
+      "type": "feat",
+      "message": ": add multi-status calendar filtering",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-04-01T18:40:19-03:00"
+    },
     {
       "hash": "d1a3467",
       "type": "test",
@@ -16,6 +24,14 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-04-01T15:18:16-03:00"
+    },
+    {
+      "hash": "2173cbd",
+      "type": "feat",
+      "message": ": integrate chat history cursor pagination",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-04-01T10:00:46-03:00"
     },
     {
       "hash": "a856a8b",
@@ -98,6 +114,14 @@
       "timestamp": "2026-03-31T16:07:40-03:00"
     },
     {
+      "hash": "faa4b67",
+      "type": "fix",
+      "message": ": remove max-width wrapper from navbar",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-03-31T15:52:53-03:00"
+    },
+    {
       "hash": "8cb3b05",
       "type": "refactor",
       "message": "delegate UUID generation to JPA instead of domain layer",
@@ -136,30 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-03-30T19:39:03-03:00"
-    },
-    {
-      "hash": "debd5cb",
-      "type": "fix",
-      "message": "correct docker-compose image default and deploy script issues",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-03-30T19:21:03-03:00"
-    },
-    {
-      "hash": "b9862bc",
-      "type": "fix",
-      "message": "correct test data in CreateBookingUseCaseTest and ManageResourceUseCaseTest",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-03-30T18:50:15-03:00"
-    },
-    {
-      "hash": "926f1da",
-      "type": "fix",
-      "message": "align unit tests with current production API and fix CI pipeline",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-03-30T18:32:35-03:00"
     }
   ]
 }
