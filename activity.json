@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-03-31T21:49:11Z",
+  "updated_at": "2026-04-01T18:18:27Z",
   "commits": [
+    {
+      "hash": "8965109",
+      "type": "fix",
+      "message": "not copying id — causing INSERT instead of UPDATE",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-01T15:18:16-03:00"
+    },
     {
       "hash": "a856a8b",
       "type": "fix",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-03-30T18:18:43-03:00"
-    },
-    {
-      "hash": "d94251d",
-      "type": "other",
-      "message": "Merge branch master of github.com:avirgili-eclub/agendate-ya",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-03-30T17:24:04-03:00"
     }
   ]
 }
