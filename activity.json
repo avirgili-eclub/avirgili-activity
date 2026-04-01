@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-01T22:37:42Z",
+  "updated_at": "2026-04-01T23:04:01Z",
   "commits": [
+    {
+      "hash": "47e8f8e",
+      "type": "fix",
+      "message": "client search matching all records when query has no digits",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-01T20:03:48-03:00"
+    },
     {
       "hash": "9c6021d",
       "type": "feat",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-03-31T15:19:20-03:00"
-    },
-    {
-      "hash": "4a778f0",
-      "type": "fix",
-      "message": "implement Persistable<UUID> on BookingEntity to prevent merge on new entities",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-03-31T15:13:56-03:00"
     }
   ]
 }
