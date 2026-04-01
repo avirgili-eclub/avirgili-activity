@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-01T22:28:01Z",
+  "updated_at": "2026-04-01T22:37:42Z",
   "commits": [
+    {
+      "hash": "9c6021d",
+      "type": "feat",
+      "message": "enrich GET /api/v1/bookings/{id} with resourceName, serviceName, clientName, clientPhone",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-01T19:37:34-03:00"
+    },
     {
       "hash": "d167509",
       "type": "feat",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-03-31T15:13:56-03:00"
-    },
-    {
-      "hash": "d7bda78",
-      "type": "feat",
-      "message": ": improve multi-resource overlap readability",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-03-31T13:26:51-03:00"
     }
   ]
 }
