@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-02T01:19:21Z",
+  "updated_at": "2026-04-02T03:41:17Z",
   "commits": [
+    {
+      "hash": "40f8390",
+      "type": "feat",
+      "message": "add documento field to client entity and DTOs",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-02T00:41:02-03:00"
+    },
     {
       "hash": "0df984d",
       "type": "fix",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-03-31T18:10:26-03:00"
-    },
-    {
-      "hash": "37717d6",
-      "type": "other",
-      "message": "Merge pull request #2 from avirgili-eclub/dev",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-03-31T17:17:34-03:00"
     }
   ]
 }
