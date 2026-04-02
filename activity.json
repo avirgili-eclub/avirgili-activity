@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-02T03:41:17Z",
+  "updated_at": "2026-04-02T03:44:23Z",
   "commits": [
+    {
+      "hash": "d904c9f",
+      "type": "feat",
+      "message": ": align create payload and reusable transient feedback",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-04-02T00:44:08-03:00"
+    },
     {
       "hash": "40f8390",
       "type": "feat",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-03-31T18:36:19-03:00"
-    },
-    {
-      "hash": "19d5586",
-      "type": "feat",
-      "message": "capacity-aware bookings, BusinessCategory, and location schedule inheritance",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-03-31T18:10:26-03:00"
     }
   ]
 }
