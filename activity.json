@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-02T22:59:44Z",
+  "updated_at": "2026-04-02T23:04:55Z",
   "commits": [
+    {
+      "hash": "aeb1826",
+      "type": "fix",
+      "message": ": update tool tests to match current domain constructors",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-02T20:04:46-03:00"
+    },
     {
       "hash": "e3221c2",
       "type": "other",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-04-01T17:09:14-03:00"
-    },
-    {
-      "hash": "8965109",
-      "type": "fix",
-      "message": "not copying id — causing INSERT instead of UPDATE",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-04-01T15:18:16-03:00"
     }
   ]
 }
