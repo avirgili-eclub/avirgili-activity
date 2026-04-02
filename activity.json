@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-04-02T22:11:46Z",
+  "updated_at": "2026-04-02T22:59:44Z",
   "commits": [
+    {
+      "hash": "e3221c2",
+      "type": "other",
+      "message": "Merge pull request #4 from avirgili-eclub/feat/notification-center",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-04-02T19:59:36-03:00"
+    },
+    {
+      "hash": "92c4058",
+      "type": "feat",
+      "message": ": improve business hours editor ux",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-04-02T19:11:56-03:00"
+    },
     {
       "hash": "2bead54",
       "type": "feat",
@@ -8,6 +24,30 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-04-02T19:11:34-03:00"
+    },
+    {
+      "hash": "462e80f",
+      "type": "feat",
+      "message": ": use side panel editor and support business hours",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-04-02T15:32:16-03:00"
+    },
+    {
+      "hash": "a4f0ff6",
+      "type": "feat",
+      "message": ": wire locations and resources pages to global feedback",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-04-02T01:38:00-03:00"
+    },
+    {
+      "hash": "1a2a582",
+      "type": "feat",
+      "message": ": route calendar feedback to global notifications",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-04-02T01:37:05-03:00"
     },
     {
       "hash": "d904c9f",
@@ -120,46 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-04-01T15:18:16-03:00"
-    },
-    {
-      "hash": "2173cbd",
-      "type": "feat",
-      "message": ": integrate chat history cursor pagination",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-04-01T10:00:46-03:00"
-    },
-    {
-      "hash": "a856a8b",
-      "type": "fix",
-      "message": "update unit tests after capacity and location schedule changes",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-03-31T18:48:54-03:00"
-    },
-    {
-      "hash": "3da4430",
-      "type": "other",
-      "message": "Merge pull request #10 from avirgili-eclub/dev",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-03-31T18:43:22-03:00"
-    },
-    {
-      "hash": "41e01d4",
-      "type": "other",
-      "message": "Merge pull request #3 from avirgili-eclub/dev",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-03-31T18:40:30-03:00"
-    },
-    {
-      "hash": "697e3a4",
-      "type": "feat",
-      "message": ": align business hours contract fields",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-03-31T18:37:04-03:00"
     }
   ]
 }
