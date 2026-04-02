@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-02T00:16:57Z",
+  "updated_at": "2026-04-02T01:01:06Z",
   "commits": [
+    {
+      "hash": "0df984d",
+      "type": "fix",
+      "message": "increase dev container memory to 1g and capture logs before rollback",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-02T00:29:38Z"
+    },
     {
       "hash": "7c9bf2d",
       "type": "other",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-03-31T17:14:38-03:00"
-    },
-    {
-      "hash": "75ec4b3",
-      "type": "other",
-      "message": "Merge pull request #1 from avirgili-eclub/dev",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-03-31T16:12:54-03:00"
     }
   ]
 }
