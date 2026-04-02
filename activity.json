@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-01T23:04:01Z",
+  "updated_at": "2026-04-02T00:07:47Z",
   "commits": [
+    {
+      "hash": "61bf63d",
+      "type": "other",
+      "message": "increase dev health check timeout to 180s",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-01T21:07:35-03:00"
+    },
     {
       "hash": "47e8f8e",
       "type": "fix",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-03-31T15:52:53-03:00"
-    },
-    {
-      "hash": "8cb3b05",
-      "type": "refactor",
-      "message": "delegate UUID generation to JPA instead of domain layer",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-03-31T15:19:20-03:00"
     }
   ]
 }
