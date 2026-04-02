@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-02T01:01:06Z",
+  "updated_at": "2026-04-02T01:19:21Z",
   "commits": [
     {
       "hash": "0df984d",
@@ -8,6 +8,14 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-04-02T00:29:38Z"
+    },
+    {
+      "hash": "a632310",
+      "type": "feat",
+      "message": ": improve bookings detail fallback and clients search",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-04-01T22:19:12-03:00"
     },
     {
       "hash": "7c9bf2d",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-03-31T17:17:34-03:00"
-    },
-    {
-      "hash": "e5f880f",
-      "type": "chore",
-      "message": ": update resources panel wording to equipo",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-03-31T17:14:38-03:00"
     }
   ]
 }
