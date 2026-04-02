@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-02T00:16:48Z",
+  "updated_at": "2026-04-02T00:16:57Z",
   "commits": [
+    {
+      "hash": "7c9bf2d",
+      "type": "other",
+      "message": "Merge pull request #11 from avirgili-eclub/dev",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-01T21:16:46-03:00"
+    },
     {
       "hash": "094d6b3",
       "type": "other",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-03-31T16:12:54-03:00"
-    },
-    {
-      "hash": "f310e9d",
-      "type": "fix",
-      "message": "default validFrom to today when not provided in availability rule creation",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-03-31T16:07:40-03:00"
     }
   ]
 }
