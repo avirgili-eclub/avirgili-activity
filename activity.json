@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-03T03:34:44Z",
+  "updated_at": "2026-04-03T04:19:19Z",
   "commits": [
     {
       "hash": "bd504b6",
@@ -24,6 +24,22 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-04-03T02:22:58Z"
+    },
+    {
+      "hash": "37850d9",
+      "type": "feat",
+      "message": "improve bookings table UX - Merge pull request #6 from avirgili-eclub/feat/bookings-table-ux",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-04-03T01:19:12-03:00"
+    },
+    {
+      "hash": "8863d4d",
+      "type": "feat",
+      "message": ": improve table UX with reusable data table",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-04-03T01:17:49-03:00"
     },
     {
       "hash": "63daa38",
@@ -144,22 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-04-01T21:16:36-03:00"
-    },
-    {
-      "hash": "61bf63d",
-      "type": "other",
-      "message": "increase dev health check timeout to 180s",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-04-01T21:07:35-03:00"
-    },
-    {
-      "hash": "47e8f8e",
-      "type": "fix",
-      "message": "client search matching all records when query has no digits",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-04-01T20:03:48-03:00"
     }
   ]
 }
