@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-04-03T03:03:33Z",
+  "updated_at": "2026-04-03T03:34:44Z",
   "commits": [
+    {
+      "hash": "bd504b6",
+      "type": "chore",
+      "message": "refine mobile menu accessibility labels",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-04-03T02:28:36Z"
+    },
+    {
+      "hash": "788e28d",
+      "type": "feat",
+      "message": "make sidebar collapsible on mobile",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-04-03T02:27:08Z"
+    },
+    {
+      "hash": "694f829",
+      "type": "other",
+      "message": "Initial plan",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-04-03T02:22:58Z"
+    },
+    {
+      "hash": "63daa38",
+      "type": "other",
+      "message": "Merge pull request #5 from avirgili-eclub/copilot/feature-improve-mobile-navbar",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-04-03T00:34:35-03:00"
+    },
     {
       "hash": "3664a9e",
       "type": "feat",
@@ -128,38 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-04-01T20:03:48-03:00"
-    },
-    {
-      "hash": "9c6021d",
-      "type": "feat",
-      "message": "enrich GET /api/v1/bookings/{id} with resourceName, serviceName, clientName, clientPhone",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-04-01T19:37:34-03:00"
-    },
-    {
-      "hash": "d167509",
-      "type": "feat",
-      "message": "add server-side search on GET /api/v1/clients with booking count",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-04-01T19:27:52-03:00"
-    },
-    {
-      "hash": "a85af63",
-      "type": "feat",
-      "message": "enrich GET /api/v1/bookings with resourceName, serviceName, clientName, clientPhone",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-04-01T19:07:53-03:00"
-    },
-    {
-      "hash": "56a557d",
-      "type": "feat",
-      "message": ": add multi-status calendar filtering",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-04-01T18:40:19-03:00"
     }
   ]
 }
