@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-04T05:19:39Z",
+  "updated_at": "2026-04-04T16:32:37Z",
   "commits": [
+    {
+      "hash": "dd80844",
+      "type": "feat",
+      "message": "atomic reschedule booking tool with smart alternatives",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-04T13:32:23-03:00"
+    },
     {
       "hash": "c2ea185",
       "type": "feat",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-04-02T00:41:02-03:00"
-    },
-    {
-      "hash": "0df984d",
-      "type": "fix",
-      "message": "increase dev container memory to 1g and capture logs before rollback",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-04-02T00:29:38Z"
     }
   ]
 }
