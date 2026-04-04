@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-04T16:41:53Z",
+  "updated_at": "2026-04-04T21:46:44Z",
   "commits": [
+    {
+      "hash": "07161d3",
+      "type": "feat",
+      "message": ": add collapsible desktop sidebar",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-04-04T18:46:29-03:00"
+    },
     {
       "hash": "9731d66",
       "type": "feat",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-04-02T01:38:00-03:00"
-    },
-    {
-      "hash": "1a2a582",
-      "type": "feat",
-      "message": ": route calendar feedback to global notifications",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-04-02T01:37:05-03:00"
     }
   ]
 }
