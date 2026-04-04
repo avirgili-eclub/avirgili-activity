@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-04T16:39:50Z",
+  "updated_at": "2026-04-04T16:41:53Z",
   "commits": [
+    {
+      "hash": "9731d66",
+      "type": "feat",
+      "message": ": rename Recursos to Equipos in admin UI",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-04-04T13:41:45-03:00"
+    },
     {
       "hash": "8dcc5a8",
       "type": "feat",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-04-02T01:37:05-03:00"
-    },
-    {
-      "hash": "d904c9f",
-      "type": "feat",
-      "message": ": align create payload and reusable transient feedback",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-04-02T00:44:08-03:00"
     }
   ]
 }
