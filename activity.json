@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-04T16:32:37Z",
+  "updated_at": "2026-04-04T16:39:50Z",
   "commits": [
+    {
+      "hash": "8dcc5a8",
+      "type": "feat",
+      "message": ": rename recursos to equipos in admin",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-04-04T13:39:33-03:00"
+    },
     {
       "hash": "dd80844",
       "type": "feat",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-04-02T00:44:08-03:00"
-    },
-    {
-      "hash": "40f8390",
-      "type": "feat",
-      "message": "add documento field to client entity and DTOs",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-04-02T00:41:02-03:00"
     }
   ]
 }
