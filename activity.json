@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-04T02:46:22Z",
+  "updated_at": "2026-04-04T05:19:39Z",
   "commits": [
+    {
+      "hash": "c2ea185",
+      "type": "feat",
+      "message": ": migrate spanish routes to /py and add local fonts",
+      "repo": "agendateya-landing",
+      "repo_display": "AgendateYa Website",
+      "timestamp": "2026-04-04T02:19:03-03:00"
+    },
     {
       "hash": "cf84e53",
       "type": "chore",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-04-02T00:29:38Z"
-    },
-    {
-      "hash": "a632310",
-      "type": "feat",
-      "message": ": improve bookings detail fallback and clients search",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-04-01T22:19:12-03:00"
     }
   ]
 }
