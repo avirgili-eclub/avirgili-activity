@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-06T13:04:43Z",
+  "updated_at": "2026-04-06T13:26:00Z",
   "commits": [
+    {
+      "hash": "f3fafb6",
+      "type": "feat",
+      "message": ": pass last interaction timestamp to AI system prompt",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-06T10:25:50-03:00"
+    },
     {
       "hash": "2a53264",
       "type": "fix",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-04-03T02:05:59-03:00"
-    },
-    {
-      "hash": "37850d9",
-      "type": "feat",
-      "message": "improve bookings table UX - Merge pull request #6 from avirgili-eclub/feat/bookings-table-ux",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-04-03T01:19:12-03:00"
     }
   ]
 }
