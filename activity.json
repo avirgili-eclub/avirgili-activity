@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-06T01:54:39Z",
+  "updated_at": "2026-04-06T01:55:02Z",
   "commits": [
+    {
+      "hash": "bb8047b",
+      "type": "other",
+      "message": "Merge pull request #14 from avirgili-eclub/feature/google-calendar-sync",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-05T22:54:53-03:00"
+    },
     {
       "hash": "ebcd72a",
       "type": "feat",
@@ -10,12 +18,44 @@
       "timestamp": "2026-04-05T22:54:12-03:00"
     },
     {
+      "hash": "9317570",
+      "type": "fix",
+      "message": "fire Google Calendar sync after transaction commits, not before",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-05T22:44:50-03:00"
+    },
+    {
+      "hash": "ba36f8d",
+      "type": "feat",
+      "message": ": include resource name in Google Calendar event title",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-05T22:14:04-03:00"
+    },
+    {
+      "hash": "86dabb7",
+      "type": "feat",
+      "message": ": resource calendar lifecycle — provision + cleanup on delete",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-05T21:57:07-03:00"
+    },
+    {
       "hash": "5ce9f0a",
       "type": "feat",
       "message": ": handle oauth callback flow and alert notifications",
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-04-05T21:43:07-03:00"
+    },
+    {
+      "hash": "a39ab4f",
+      "type": "fix",
+      "message": ": handle Google OAuth errors and cancellations in callback",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-04T19:13:18-03:00"
     },
     {
       "hash": "07161d3",
@@ -120,46 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-04-03T00:34:35-03:00"
-    },
-    {
-      "hash": "3664a9e",
-      "type": "feat",
-      "message": ": Merge pull request #12 from avirgili-eclub/dev",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-04-03T00:03:23-03:00"
-    },
-    {
-      "hash": "aeb1826",
-      "type": "fix",
-      "message": ": update tool tests to match current domain constructors",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-04-02T20:04:46-03:00"
-    },
-    {
-      "hash": "e3221c2",
-      "type": "other",
-      "message": "Merge pull request #4 from avirgili-eclub/feat/notification-center",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-04-02T19:59:36-03:00"
-    },
-    {
-      "hash": "92c4058",
-      "type": "feat",
-      "message": ": improve business hours editor ux",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-04-02T19:11:56-03:00"
-    },
-    {
-      "hash": "2bead54",
-      "type": "feat",
-      "message": ": add timezone + inline business hours to location create/update",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-04-02T19:11:34-03:00"
     }
   ]
 }
