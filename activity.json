@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-06T13:33:04Z",
+  "updated_at": "2026-04-06T13:50:54Z",
   "commits": [
+    {
+      "hash": "8144630",
+      "type": "feat",
+      "message": ": add CHECK constraints to tenant_bot_config TEXT columns",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-06T10:50:42-03:00"
+    },
     {
       "hash": "f2e0a89",
       "type": "fix",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-04-03T02:27:08Z"
-    },
-    {
-      "hash": "694f829",
-      "type": "other",
-      "message": "Initial plan",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-04-03T02:22:58Z"
     }
   ]
 }
