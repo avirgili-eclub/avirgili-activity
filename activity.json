@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-06T15:43:46Z",
+  "updated_at": "2026-04-06T20:29:04Z",
   "commits": [
+    {
+      "hash": "8f69d39",
+      "type": "chore",
+      "message": ": ignore docs and playwright artifacts",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-04-06T17:28:37-03:00"
+    },
     {
       "hash": "a250007",
       "type": "feat",
@@ -152,14 +160,6 @@
       "repo": "agendateya-landing",
       "repo_display": "AgendateYa Website",
       "timestamp": "2026-04-04T02:19:03-03:00"
-    },
-    {
-      "hash": "cf84e53",
-      "type": "chore",
-      "message": ": add workflow files and remove template",
-      "repo": "agendateya-landing",
-      "repo_display": "AgendateYa Website",
-      "timestamp": "2026-04-03T23:42:43-03:00"
     }
   ]
 }
