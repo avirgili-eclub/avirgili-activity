@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-06T01:55:02Z",
+  "updated_at": "2026-04-06T03:11:25Z",
   "commits": [
+    {
+      "hash": "00b3b47",
+      "type": "feat",
+      "message": ": debounce incoming messages before AI processing",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-06T00:09:22-03:00"
+    },
     {
       "hash": "bb8047b",
       "type": "other",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-04-03T01:17:49-03:00"
-    },
-    {
-      "hash": "63daa38",
-      "type": "other",
-      "message": "Merge pull request #5 from avirgili-eclub/copilot/feature-improve-mobile-navbar",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-04-03T00:34:35-03:00"
     }
   ]
 }
