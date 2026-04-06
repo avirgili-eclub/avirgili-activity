@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-06T13:26:00Z",
+  "updated_at": "2026-04-06T13:33:04Z",
   "commits": [
+    {
+      "hash": "f2e0a89",
+      "type": "fix",
+      "message": ": remove duplicate customer phone from system prompt",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-06T10:32:53-03:00"
+    },
     {
       "hash": "f3fafb6",
       "type": "feat",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-04-03T02:22:58Z"
-    },
-    {
-      "hash": "e4378ce",
-      "type": "feat",
-      "message": "",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-04-03T02:05:59-03:00"
     }
   ]
 }
