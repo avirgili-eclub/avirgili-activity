@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-07T02:42:08Z",
+  "updated_at": "2026-04-07T02:46:04Z",
   "commits": [
+    {
+      "hash": "bc1039d",
+      "type": "other",
+      "message": "Merge remote-tracking branch origin/master into dev",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-06T23:45:51-03:00"
+    },
     {
       "hash": "d6d6184",
       "type": "other",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-04-05T21:43:07-03:00"
-    },
-    {
-      "hash": "a39ab4f",
-      "type": "fix",
-      "message": ": handle Google OAuth errors and cancellations in callback",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-04-04T19:13:18-03:00"
     }
   ]
 }
