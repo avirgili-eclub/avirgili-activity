@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-07T03:04:17Z",
+  "updated_at": "2026-04-07T03:08:56Z",
   "commits": [
+    {
+      "hash": "0ef4372",
+      "type": "other",
+      "message": "Merge pull request #9 from avirgili-eclub/dev",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-04-07T00:08:49-03:00"
+    },
     {
       "hash": "5fc8bf0",
       "type": "feat",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-04-05T22:44:50-03:00"
-    },
-    {
-      "hash": "ba36f8d",
-      "type": "feat",
-      "message": ": include resource name in Google Calendar event title",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-04-05T22:14:04-03:00"
     }
   ]
 }
