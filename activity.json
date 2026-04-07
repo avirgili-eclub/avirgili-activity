@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-07T15:23:39Z",
+  "updated_at": "2026-04-07T23:26:40Z",
   "commits": [
+    {
+      "hash": "7044a2f",
+      "type": "feat",
+      "message": "update nav with AI section and unify social proof background",
+      "repo": "agendateya-landing",
+      "repo_display": "AgendateYa Website",
+      "timestamp": "2026-04-07T20:26:14-03:00"
+    },
     {
       "hash": "c7e9fb6",
       "type": "feat",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-04-06T10:04:28-03:00"
-    },
-    {
-      "hash": "00b3b47",
-      "type": "feat",
-      "message": ": debounce incoming messages before AI processing",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-04-06T00:09:22-03:00"
     }
   ]
 }
