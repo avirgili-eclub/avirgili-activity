@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-04-06T20:29:04Z",
+  "updated_at": "2026-04-07T02:42:08Z",
   "commits": [
+    {
+      "hash": "d6d6184",
+      "type": "other",
+      "message": "Merge pull request #15 from avirgili-eclub/feature/auth-improvements",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-06T23:41:59-03:00"
+    },
+    {
+      "hash": "63118a0",
+      "type": "fix",
+      "message": ": skip audit log for Google users with no tenant yet",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-06T20:09:04-03:00"
+    },
+    {
+      "hash": "9cec963",
+      "type": "fix",
+      "message": ": remove manual UUID assignment in autoCreateGoogleUser",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-06T19:38:39-03:00"
+    },
+    {
+      "hash": "4934f7c",
+      "type": "feat",
+      "message": ": real logout with JWT token revocation via DB blacklist",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-06T18:55:07-03:00"
+    },
+    {
+      "hash": "9358038",
+      "type": "other",
+      "message": "OAuth state CSRF protection + tokens moved to URL hash fragment",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-06T18:29:19-03:00"
+    },
     {
       "hash": "8f69d39",
       "type": "chore",
@@ -120,46 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-04-04T19:13:18-03:00"
-    },
-    {
-      "hash": "07161d3",
-      "type": "feat",
-      "message": ": add collapsible desktop sidebar",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-04-04T18:46:29-03:00"
-    },
-    {
-      "hash": "9731d66",
-      "type": "feat",
-      "message": ": rename Recursos to Equipos in admin UI",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-04-04T13:41:45-03:00"
-    },
-    {
-      "hash": "8dcc5a8",
-      "type": "feat",
-      "message": ": rename recursos to equipos in admin",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-04-04T13:39:33-03:00"
-    },
-    {
-      "hash": "dd80844",
-      "type": "feat",
-      "message": "atomic reschedule booking tool with smart alternatives",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-04-04T13:32:23-03:00"
-    },
-    {
-      "hash": "c2ea185",
-      "type": "feat",
-      "message": ": migrate spanish routes to /py and add local fonts",
-      "repo": "agendateya-landing",
-      "repo_display": "AgendateYa Website",
-      "timestamp": "2026-04-04T02:19:03-03:00"
     }
   ]
 }
