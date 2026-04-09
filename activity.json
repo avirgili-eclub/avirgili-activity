@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-04-09T03:17:32Z",
+  "updated_at": "2026-04-09T03:37:33Z",
   "commits": [
+    {
+      "hash": "6dcf16a",
+      "type": "other",
+      "message": "Merge pull request #10 from avirgili-eclub/feature/professional-role-alignment",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-04-09T00:37:22-03:00"
+    },
+    {
+      "hash": "6b5746a",
+      "type": "feat",
+      "message": ": add responsive calendar views foundation",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-04-09T00:35:51-03:00"
+    },
     {
       "hash": "e7dc5ec",
       "type": "other",
@@ -8,6 +24,14 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-04-09T00:17:22-03:00"
+    },
+    {
+      "hash": "1eb0d17",
+      "type": "feat",
+      "message": "align professional role UX and scoping",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-04-07T20:26:39-03:00"
     },
     {
       "hash": "e7b55af",
@@ -136,30 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-04-06T18:55:07-03:00"
-    },
-    {
-      "hash": "9358038",
-      "type": "other",
-      "message": "OAuth state CSRF protection + tokens moved to URL hash fragment",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-04-06T18:29:19-03:00"
-    },
-    {
-      "hash": "8f69d39",
-      "type": "chore",
-      "message": ": ignore docs and playwright artifacts",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-04-06T17:28:37-03:00"
-    },
-    {
-      "hash": "a250007",
-      "type": "feat",
-      "message": ": refine login mobile visual balance",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-04-06T12:38:32-03:00"
     }
   ]
 }
