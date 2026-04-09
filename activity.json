@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-09T03:41:12Z",
+  "updated_at": "2026-04-09T17:56:19Z",
   "commits": [
+    {
+      "hash": "b7b2fe0",
+      "type": "feat",
+      "message": "polish mobile UX across pricing, hero, features, and footer",
+      "repo": "agendateya-landing",
+      "repo_display": "AgendateYa Website",
+      "timestamp": "2026-04-09T14:55:57-03:00"
+    },
     {
       "hash": "a49c3ff",
       "type": "other",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-04-06T20:09:04-03:00"
-    },
-    {
-      "hash": "9cec963",
-      "type": "fix",
-      "message": ": remove manual UUID assignment in autoCreateGoogleUser",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-04-06T19:38:39-03:00"
     }
   ]
 }
