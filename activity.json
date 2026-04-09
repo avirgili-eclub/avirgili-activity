@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-09T19:37:31Z",
+  "updated_at": "2026-04-09T19:55:17Z",
   "commits": [
+    {
+      "hash": "abebb6d",
+      "type": "fix",
+      "message": "localize pricing cards and extend comparison feature row",
+      "repo": "agendateya-landing",
+      "repo_display": "AgendateYa Website",
+      "timestamp": "2026-04-09T16:54:48-03:00"
+    },
     {
       "hash": "e7b8652",
       "type": "feat",
@@ -152,14 +160,6 @@
       "repo": "agendateya-landing",
       "repo_display": "AgendateYa Website",
       "timestamp": "2026-04-07T12:20:43-03:00"
-    },
-    {
-      "hash": "553d526",
-      "type": "feat",
-      "message": "redesign features bento section and localized heading",
-      "repo": "agendateya-landing",
-      "repo_display": "AgendateYa Website",
-      "timestamp": "2026-04-07T11:48:07-03:00"
     }
   ]
 }
