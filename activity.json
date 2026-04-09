@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-09T19:26:37Z",
+  "updated_at": "2026-04-09T19:37:31Z",
   "commits": [
+    {
+      "hash": "e7b8652",
+      "type": "feat",
+      "message": ": add team select-all toggle",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-04-09T16:37:13-03:00"
+    },
     {
       "hash": "d2521e3",
       "type": "feat",
@@ -152,14 +160,6 @@
       "repo": "agendateya-landing",
       "repo_display": "AgendateYa Website",
       "timestamp": "2026-04-07T11:48:07-03:00"
-    },
-    {
-      "hash": "a51020f",
-      "type": "feat",
-      "message": "add ai agent and faq sections with localized content",
-      "repo": "agendateya-landing",
-      "repo_display": "AgendateYa Website",
-      "timestamp": "2026-04-07T11:22:22-03:00"
     }
   ]
 }
