@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-09T17:56:19Z",
+  "updated_at": "2026-04-09T17:57:21Z",
   "commits": [
+    {
+      "hash": "824b00e",
+      "type": "other",
+      "message": "Merge pull request #17 from avirgili-eclub/feat/performance-p0-optimizations",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-09T14:57:03-03:00"
+    },
     {
       "hash": "b7b2fe0",
       "type": "feat",
@@ -8,6 +16,14 @@
       "repo": "agendateya-landing",
       "repo_display": "AgendateYa Website",
       "timestamp": "2026-04-09T14:55:57-03:00"
+    },
+    {
+      "hash": "6c4f29f",
+      "type": "perf",
+      "message": "P0 performance optimizations — JWT, cache, async email, N+1 fix",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-09T01:00:07-03:00"
     },
     {
       "hash": "a49c3ff",
@@ -144,22 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-04-06T23:45:51-03:00"
-    },
-    {
-      "hash": "d6d6184",
-      "type": "other",
-      "message": "Merge pull request #15 from avirgili-eclub/feature/auth-improvements",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-04-06T23:41:59-03:00"
-    },
-    {
-      "hash": "63118a0",
-      "type": "fix",
-      "message": ": skip audit log for Google users with no tenant yet",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-04-06T20:09:04-03:00"
     }
   ]
 }
