@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-09T03:37:33Z",
+  "updated_at": "2026-04-09T03:41:12Z",
   "commits": [
+    {
+      "hash": "a49c3ff",
+      "type": "other",
+      "message": "Merge pull request #11 from avirgili-eclub/dev",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-04-09T00:41:05-03:00"
+    },
     {
       "hash": "6dcf16a",
       "type": "other",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-04-06T19:38:39-03:00"
-    },
-    {
-      "hash": "4934f7c",
-      "type": "feat",
-      "message": ": real logout with JWT token revocation via DB blacklist",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-04-06T18:55:07-03:00"
     }
   ]
 }
