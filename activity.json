@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-04-07T23:26:40Z",
+  "updated_at": "2026-04-09T03:17:32Z",
   "commits": [
+    {
+      "hash": "e7dc5ec",
+      "type": "other",
+      "message": "Merge pull request #16 from avirgili-eclub/feature/professional-role-scoping",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-09T00:17:22-03:00"
+    },
+    {
+      "hash": "e7b55af",
+      "type": "fix",
+      "message": ": add ownership check to listRulesByResource",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-07T20:26:27-03:00"
+    },
     {
       "hash": "7044a2f",
       "type": "feat",
@@ -8,6 +24,30 @@
       "repo": "agendateya-landing",
       "repo_display": "AgendateYa Website",
       "timestamp": "2026-04-07T20:26:14-03:00"
+    },
+    {
+      "hash": "a76487b",
+      "type": "fix",
+      "message": ": allow GET /resources/{id}/services for own resource only",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-07T18:16:01-03:00"
+    },
+    {
+      "hash": "37692c0",
+      "type": "fix",
+      "message": ": allow GET /resources/{id} for PROFESSIONAL (own resource only)",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-07T17:59:09-03:00"
+    },
+    {
+      "hash": "5709c07",
+      "type": "fix",
+      "message": "restore findByGoogleEventId in BookingRepository port",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-07T17:12:14-03:00"
     },
     {
       "hash": "c7e9fb6",
@@ -120,46 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-04-06T12:38:32-03:00"
-    },
-    {
-      "hash": "df8cb01",
-      "type": "feat",
-      "message": ": improve login flow hierarchy and messaging",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-04-06T11:08:16-03:00"
-    },
-    {
-      "hash": "8144630",
-      "type": "feat",
-      "message": ": add CHECK constraints to tenant_bot_config TEXT columns",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-04-06T10:50:42-03:00"
-    },
-    {
-      "hash": "f2e0a89",
-      "type": "fix",
-      "message": ": remove duplicate customer phone from system prompt",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-04-06T10:32:53-03:00"
-    },
-    {
-      "hash": "f3fafb6",
-      "type": "feat",
-      "message": ": pass last interaction timestamp to AI system prompt",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-04-06T10:25:50-03:00"
-    },
-    {
-      "hash": "2a53264",
-      "type": "fix",
-      "message": ": normalize phone to E.164 at webhook entry point",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-04-06T10:04:28-03:00"
     }
   ]
 }
