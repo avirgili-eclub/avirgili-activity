@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-04-10T02:37:44Z",
+  "updated_at": "2026-04-10T03:18:18Z",
   "commits": [
+    {
+      "hash": "7c45700",
+      "type": "other",
+      "message": "Merge pull request #18 from avirgili-eclub/fix/slot-interval-and-bot-validate-tool",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-10T00:18:06-03:00"
+    },
+    {
+      "hash": "1b4b5cb",
+      "type": "fix",
+      "message": ": use 15-min interval for slot grid and add validateSlot bot tool",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-09T23:39:19-03:00"
+    },
     {
       "hash": "2ef5ed9",
       "type": "feat",
@@ -144,22 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-04-07T18:16:01-03:00"
-    },
-    {
-      "hash": "37692c0",
-      "type": "fix",
-      "message": ": allow GET /resources/{id} for PROFESSIONAL (own resource only)",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-04-07T17:59:09-03:00"
-    },
-    {
-      "hash": "5709c07",
-      "type": "fix",
-      "message": "restore findByGoogleEventId in BookingRepository port",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-04-07T17:12:14-03:00"
     }
   ]
 }
