@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-04-10T03:18:18Z",
+  "updated_at": "2026-04-10T11:55:42Z",
   "commits": [
+    {
+      "hash": "a7b7749",
+      "type": "perf",
+      "message": "P1 performance optimizations — cache, compression, indexes, readOnly",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-10T08:55:34-03:00"
+    },
+    {
+      "hash": "f6fc73a",
+      "type": "perf",
+      "message": "P1 performance optimizations — cache, compression, indexes, readOnly",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-10T00:51:39-03:00"
+    },
     {
       "hash": "7c45700",
       "type": "other",
@@ -144,22 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-04-07T20:26:27-03:00"
-    },
-    {
-      "hash": "7044a2f",
-      "type": "feat",
-      "message": "update nav with AI section and unify social proof background",
-      "repo": "agendateya-landing",
-      "repo_display": "AgendateYa Website",
-      "timestamp": "2026-04-07T20:26:14-03:00"
-    },
-    {
-      "hash": "a76487b",
-      "type": "fix",
-      "message": ": allow GET /resources/{id}/services for own resource only",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-04-07T18:16:01-03:00"
     }
   ]
 }
