@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-09T19:55:17Z",
+  "updated_at": "2026-04-10T02:37:44Z",
   "commits": [
+    {
+      "hash": "2ef5ed9",
+      "type": "feat",
+      "message": "refine AI section phone render and responsive position",
+      "repo": "agendateya-landing",
+      "repo_display": "AgendateYa Website",
+      "timestamp": "2026-04-09T23:37:17-03:00"
+    },
     {
       "hash": "abebb6d",
       "type": "fix",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-04-07T17:12:14-03:00"
-    },
-    {
-      "hash": "c7e9fb6",
-      "type": "feat",
-      "message": "use official integration logos and polish features marquee",
-      "repo": "agendateya-landing",
-      "repo_display": "AgendateYa Website",
-      "timestamp": "2026-04-07T12:20:43-03:00"
     }
   ]
 }
