@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-10T11:55:42Z",
+  "updated_at": "2026-04-10T17:53:25Z",
   "commits": [
+    {
+      "hash": "8ad8a11",
+      "type": "fix",
+      "message": ": upsert rules, bulk replace endpoint, location schedule fallback, and bot UUID guard",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-10T14:53:12-03:00"
+    },
     {
       "hash": "a7b7749",
       "type": "perf",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-04-07T20:26:39-03:00"
-    },
-    {
-      "hash": "e7b55af",
-      "type": "fix",
-      "message": ": add ownership check to listRulesByResource",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-04-07T20:26:27-03:00"
     }
   ]
 }
