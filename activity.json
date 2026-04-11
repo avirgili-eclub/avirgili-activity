@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-11T14:51:28Z",
+  "updated_at": "2026-04-11T19:33:12Z",
   "commits": [
+    {
+      "hash": "4ff1193",
+      "type": "test",
+      "message": "fix all test failures — zero failures in CI",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-11T16:32:58-03:00"
+    },
     {
       "hash": "63ff3a1",
       "type": "other",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-04-09T00:37:22-03:00"
-    },
-    {
-      "hash": "6b5746a",
-      "type": "feat",
-      "message": ": add responsive calendar views foundation",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-04-09T00:35:51-03:00"
     }
   ]
 }
