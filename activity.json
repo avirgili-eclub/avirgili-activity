@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-11T13:48:31Z",
+  "updated_at": "2026-04-11T14:51:28Z",
   "commits": [
+    {
+      "hash": "63ff3a1",
+      "type": "other",
+      "message": "Merge pull request #20 from avirgili-eclub/dev",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-11T11:51:20-03:00"
+    },
     {
       "hash": "79dab1c",
       "type": "fix",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-04-09T00:35:51-03:00"
-    },
-    {
-      "hash": "e7dc5ec",
-      "type": "other",
-      "message": "Merge pull request #16 from avirgili-eclub/feature/professional-role-scoping",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-04-09T00:17:22-03:00"
     }
   ]
 }
