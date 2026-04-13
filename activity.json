@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-11T19:33:12Z",
+  "updated_at": "2026-04-13T02:55:37Z",
   "commits": [
+    {
+      "hash": "7bbff3f",
+      "type": "fix",
+      "message": ": upsert token on reconnect instead of insert",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-12T23:55:23-03:00"
+    },
     {
       "hash": "4ff1193",
       "type": "test",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-04-09T00:41:05-03:00"
-    },
-    {
-      "hash": "6dcf16a",
-      "type": "other",
-      "message": "Merge pull request #10 from avirgili-eclub/feature/professional-role-alignment",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-04-09T00:37:22-03:00"
     }
   ]
 }
