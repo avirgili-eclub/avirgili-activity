@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-13T11:36:00Z",
+  "updated_at": "2026-04-14T03:36:45Z",
   "commits": [
+    {
+      "hash": "f3c146c",
+      "type": "fix",
+      "message": ": stop saving phone number as client name",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-14T00:36:31-03:00"
+    },
     {
       "hash": "fe25948",
       "type": "other",
@@ -152,14 +160,6 @@
       "repo": "agendateya-landing",
       "repo_display": "AgendateYa Website",
       "timestamp": "2026-04-09T15:15:34-03:00"
-    },
-    {
-      "hash": "824b00e",
-      "type": "other",
-      "message": "Merge pull request #17 from avirgili-eclub/feat/performance-p0-optimizations",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-04-09T14:57:03-03:00"
     }
   ]
 }
