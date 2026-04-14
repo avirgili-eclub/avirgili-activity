@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-14T18:46:29Z",
+  "updated_at": "2026-04-14T18:52:13Z",
   "commits": [
+    {
+      "hash": "d040f29",
+      "type": "fix",
+      "message": ": mock SitePublishedInterceptor in BookingControllerTest and MeControllerTest",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-14T15:52:00-03:00"
+    },
     {
       "hash": "6e1a6d5",
       "type": "fix",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-04-12T23:55:23-03:00"
-    },
-    {
-      "hash": "516a95a",
-      "type": "feat",
-      "message": "availability upsert rules improved",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-04-11T17:40:58-03:00"
     }
   ]
 }
