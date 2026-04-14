@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-14T06:23:15Z",
+  "updated_at": "2026-04-14T17:55:09Z",
   "commits": [
+    {
+      "hash": "a7a0e0c",
+      "type": "feat",
+      "message": ": add paginated booking history and resilient detail states",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-04-14T14:54:49-03:00"
+    },
     {
       "hash": "52f36bc",
       "type": "fix",
@@ -152,14 +160,6 @@
       "repo": "agendateya-landing",
       "repo_display": "AgendateYa Website",
       "timestamp": "2026-04-09T23:37:17-03:00"
-    },
-    {
-      "hash": "abebb6d",
-      "type": "fix",
-      "message": "localize pricing cards and extend comparison feature row",
-      "repo": "agendateya-landing",
-      "repo_display": "AgendateYa Website",
-      "timestamp": "2026-04-09T16:54:48-03:00"
     }
   ]
 }
