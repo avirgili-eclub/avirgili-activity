@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-14T03:36:45Z",
+  "updated_at": "2026-04-14T04:03:40Z",
   "commits": [
+    {
+      "hash": "cdc5bae",
+      "type": "feat",
+      "message": ": real-time SSE notification system + calendar sync alert",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-14T01:03:27-03:00"
+    },
     {
       "hash": "f3c146c",
       "type": "fix",
@@ -152,14 +160,6 @@
       "repo": "agendateya-landing",
       "repo_display": "AgendateYa Website",
       "timestamp": "2026-04-09T15:38:18-03:00"
-    },
-    {
-      "hash": "6e75ebb",
-      "type": "feat",
-      "message": "refine mobile hero badge and faster header scroll state",
-      "repo": "agendateya-landing",
-      "repo_display": "AgendateYa Website",
-      "timestamp": "2026-04-09T15:15:34-03:00"
     }
   ]
 }
