@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-14T18:34:55Z",
+  "updated_at": "2026-04-14T18:38:43Z",
   "commits": [
+    {
+      "hash": "bdcc02f",
+      "type": "feat",
+      "message": "public booking site backend + client history & summary",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-14T15:38:32-03:00"
+    },
     {
       "hash": "a6d787a",
       "type": "feat",
@@ -18,6 +26,14 @@
       "timestamp": "2026-04-14T15:17:04-03:00"
     },
     {
+      "hash": "03ba533",
+      "type": "feat",
+      "message": ": add bookingSummary to client detail response",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-14T15:09:49-03:00"
+    },
+    {
       "hash": "a7a0e0c",
       "type": "feat",
       "message": ": add paginated booking history and resilient detail states",
@@ -26,12 +42,36 @@
       "timestamp": "2026-04-14T14:54:49-03:00"
     },
     {
+      "hash": "19434b7",
+      "type": "feat",
+      "message": ": paginated booking history endpoint with resolved names",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-14T14:45:16-03:00"
+    },
+    {
       "hash": "52f36bc",
       "type": "fix",
       "message": ": refresh expired token on SSE error and reconnect with fresh token",
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-04-14T03:22:53-03:00"
+    },
+    {
+      "hash": "d73589c",
+      "type": "fix",
+      "message": ": handle AsyncRequestTimeoutException and HttpMediaTypeNotAcceptableException",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-14T02:24:13-03:00"
+    },
+    {
+      "hash": "aa41198",
+      "type": "fix",
+      "message": ": use webhook reception timestamp for customer messages",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-14T01:59:22-03:00"
     },
     {
       "hash": "c1bb80d",
@@ -120,46 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-04-11T11:51:20-03:00"
-    },
-    {
-      "hash": "79dab1c",
-      "type": "fix",
-      "message": ": centralize rules resolver, fix security gap, improve error handling",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-04-11T10:48:14-03:00"
-    },
-    {
-      "hash": "8ad8a11",
-      "type": "fix",
-      "message": ": upsert rules, bulk replace endpoint, location schedule fallback, and bot UUID guard",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-04-10T14:53:12-03:00"
-    },
-    {
-      "hash": "a7b7749",
-      "type": "perf",
-      "message": "P1 performance optimizations — cache, compression, indexes, readOnly",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-04-10T08:55:34-03:00"
-    },
-    {
-      "hash": "f6fc73a",
-      "type": "perf",
-      "message": "P1 performance optimizations — cache, compression, indexes, readOnly",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-04-10T00:51:39-03:00"
-    },
-    {
-      "hash": "7c45700",
-      "type": "other",
-      "message": "Merge pull request #18 from avirgili-eclub/fix/slot-interval-and-bot-validate-tool",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-04-10T00:18:06-03:00"
     }
   ]
 }
