@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-14T04:03:40Z",
+  "updated_at": "2026-04-14T04:10:59Z",
   "commits": [
+    {
+      "hash": "98f8fce",
+      "type": "fix",
+      "message": ": post-commit SSE, typed events, unreadCount on mutations",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-14T01:10:48-03:00"
+    },
     {
       "hash": "cdc5bae",
       "type": "feat",
@@ -152,14 +160,6 @@
       "repo": "agendateya-landing",
       "repo_display": "AgendateYa Website",
       "timestamp": "2026-04-09T15:42:33-03:00"
-    },
-    {
-      "hash": "a4e2a98",
-      "type": "feat",
-      "message": "simplify features highlight underline style",
-      "repo": "agendateya-landing",
-      "repo_display": "AgendateYa Website",
-      "timestamp": "2026-04-09T15:38:18-03:00"
     }
   ]
 }
