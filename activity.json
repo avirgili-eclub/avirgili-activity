@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-04-14T04:10:59Z",
+  "updated_at": "2026-04-14T04:58:17Z",
   "commits": [
+    {
+      "hash": "c1bb80d",
+      "type": "fix",
+      "message": ": prevent SSE URL crash on login",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-04-14T01:58:00-03:00"
+    },
+    {
+      "hash": "f5828c4",
+      "type": "feat",
+      "message": ": add SSE notifications flow and unread consistency handling",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-04-14T01:22:53-03:00"
+    },
     {
       "hash": "98f8fce",
       "type": "fix",
@@ -144,22 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-04-09T16:37:13-03:00"
-    },
-    {
-      "hash": "d2521e3",
-      "type": "feat",
-      "message": "implement legal center and legal-route header mode",
-      "repo": "agendateya-landing",
-      "repo_display": "AgendateYa Website",
-      "timestamp": "2026-04-09T16:26:15-03:00"
-    },
-    {
-      "hash": "6581c05",
-      "type": "fix",
-      "message": "avoid hero reveal flash on initial load",
-      "repo": "agendateya-landing",
-      "repo_display": "AgendateYa Website",
-      "timestamp": "2026-04-09T15:42:33-03:00"
     }
   ]
 }
