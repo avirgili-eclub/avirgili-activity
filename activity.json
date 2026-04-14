@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-14T18:17:48Z",
+  "updated_at": "2026-04-14T18:34:55Z",
   "commits": [
+    {
+      "hash": "a6d787a",
+      "type": "feat",
+      "message": ": streamline page headers and responsive action layout",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-04-14T15:34:35-03:00"
+    },
     {
       "hash": "aa5a46a",
       "type": "feat",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-04-10T00:18:06-03:00"
-    },
-    {
-      "hash": "1b4b5cb",
-      "type": "fix",
-      "message": ": use 15-min interval for slot grid and add validateSlot bot tool",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-04-09T23:39:19-03:00"
     }
   ]
 }
