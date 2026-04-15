@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-14T18:52:13Z",
+  "updated_at": "2026-04-15T14:10:13Z",
   "commits": [
+    {
+      "hash": "241adc8",
+      "type": "feat",
+      "message": ": remove duplicate page headers and refine action bar layouts",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-04-15T10:55:47-03:00"
+    },
     {
       "hash": "d040f29",
       "type": "fix",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-04-13T00:00:19-03:00"
-    },
-    {
-      "hash": "7bbff3f",
-      "type": "fix",
-      "message": ": upsert token on reconnect instead of insert",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-04-12T23:55:23-03:00"
     }
   ]
 }
