@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-15T14:32:35Z",
+  "updated_at": "2026-04-15T15:04:32Z",
   "commits": [
+    {
+      "hash": "70c6c0d",
+      "type": "feat",
+      "message": ": align business subtypes with backend contract",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-04-15T12:01:07-03:00"
+    },
     {
       "hash": "55548b9",
       "type": "fix",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-04-14T01:10:48-03:00"
-    },
-    {
-      "hash": "cdc5bae",
-      "type": "feat",
-      "message": ": real-time SSE notification system + calendar sync alert",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-04-14T01:03:27-03:00"
     }
   ]
 }
