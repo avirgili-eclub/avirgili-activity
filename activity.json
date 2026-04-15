@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-15T14:10:13Z",
+  "updated_at": "2026-04-15T14:16:01Z",
   "commits": [
+    {
+      "hash": "2776ab5",
+      "type": "feat",
+      "message": ": add BusinessSubType enum with parent BusinessType inference",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-15T11:15:45-03:00"
+    },
     {
       "hash": "241adc8",
       "type": "feat",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-04-13T08:35:52-03:00"
-    },
-    {
-      "hash": "1bb4511",
-      "type": "fix",
-      "message": ": support /settings callback path",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-04-13T00:00:19-03:00"
     }
   ]
 }
