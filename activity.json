@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-15T14:16:01Z",
+  "updated_at": "2026-04-15T14:19:28Z",
   "commits": [
+    {
+      "hash": "f4e3665",
+      "type": "feat",
+      "message": ": add DENTISTRY to HEALTH and RESTAURANT/BAR under new HOSPITALITY type",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-15T11:19:14-03:00"
+    },
     {
       "hash": "2776ab5",
       "type": "feat",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-04-14T00:36:31-03:00"
-    },
-    {
-      "hash": "fe25948",
-      "type": "other",
-      "message": "Merge pull request #12 from avirgili-eclub/feat/availability-bulk-replace-ui-day-removal",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-04-13T08:35:52-03:00"
     }
   ]
 }
