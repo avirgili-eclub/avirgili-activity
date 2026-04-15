@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-15T14:19:28Z",
+  "updated_at": "2026-04-15T14:32:35Z",
   "commits": [
+    {
+      "hash": "55548b9",
+      "type": "fix",
+      "message": ": update PublicTenantResponse constructor call with businessSubType field",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-15T11:32:23-03:00"
+    },
     {
       "hash": "f4e3665",
       "type": "feat",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-04-14T01:03:27-03:00"
-    },
-    {
-      "hash": "f3c146c",
-      "type": "fix",
-      "message": ": stop saving phone number as client name",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-04-14T00:36:31-03:00"
     }
   ]
 }
