@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-15T15:04:32Z",
+  "updated_at": "2026-04-23T18:29:43Z",
   "commits": [
+    {
+      "hash": "faa533a",
+      "type": "feat",
+      "message": ": add location listing and booking confirmation contract",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-23T15:29:28-03:00"
+    },
     {
       "hash": "70c6c0d",
       "type": "feat",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-04-14T01:22:53-03:00"
-    },
-    {
-      "hash": "98f8fce",
-      "type": "fix",
-      "message": ": post-commit SSE, typed events, unreadCount on mutations",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-04-14T01:10:48-03:00"
     }
   ]
 }
