@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-25T23:46:01Z",
+  "updated_at": "2026-04-25T23:58:45Z",
   "commits": [
+    {
+      "hash": "5b4166c",
+      "type": "other",
+      "message": ": sync repo with origin/dev before docker compose to keep compose files current",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-25T20:58:33-03:00"
+    },
     {
       "hash": "3d8c44c",
       "type": "other",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-04-14T15:52:00-03:00"
-    },
-    {
-      "hash": "6e1a6d5",
-      "type": "fix",
-      "message": ": add missing PublicSiteRateLimitFilter mock to WebMvcTest slices",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-04-14T15:46:18-03:00"
     }
   ]
 }
