@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-25T23:32:50Z",
+  "updated_at": "2026-04-25T23:35:29Z",
   "commits": [
+    {
+      "hash": "f41db0d",
+      "type": "fix",
+      "message": ": copy core module in root Dockerfile for multi-project build",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-25T20:35:18-03:00"
+    },
     {
       "hash": "b9b657b",
       "type": "other",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-04-14T15:40:02-03:00"
-    },
-    {
-      "hash": "bdcc02f",
-      "type": "feat",
-      "message": "public booking site backend + client history & summary",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-04-14T15:38:32-03:00"
     }
   ]
 }
