@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-23T18:29:43Z",
+  "updated_at": "2026-04-25T19:37:17Z",
   "commits": [
+    {
+      "hash": "a6cf5f5",
+      "type": "other",
+      "message": "Actualiza pricing por moneda y limpia/ajusta páginas legales",
+      "repo": "agendateya-landing",
+      "repo_display": "AgendateYa Website",
+      "timestamp": "2026-04-25T16:37:00-03:00"
+    },
     {
       "hash": "faa533a",
       "type": "feat",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-04-14T01:58:00-03:00"
-    },
-    {
-      "hash": "f5828c4",
-      "type": "feat",
-      "message": ": add SSE notifications flow and unread consistency handling",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-04-14T01:22:53-03:00"
     }
   ]
 }
