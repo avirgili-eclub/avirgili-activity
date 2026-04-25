@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-04-25T23:23:32Z",
+  "updated_at": "2026-04-25T23:29:14Z",
   "commits": [
+    {
+      "hash": "196d4a8",
+      "type": "other",
+      "message": "Merge pull request #22 from avirgili-eclub/feat/retell-voice-streaming",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-25T20:29:05-03:00"
+    },
+    {
+      "hash": "c9c23ff",
+      "type": "refactor",
+      "message": ": improve filler phrases for better UX",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-25T20:27:45-03:00"
+    },
     {
       "hash": "b50168a",
       "type": "feat",
@@ -32,6 +48,30 @@
       "repo": "agendateya-landing",
       "repo_display": "AgendateYa Website",
       "timestamp": "2026-04-25T16:37:00-03:00"
+    },
+    {
+      "hash": "3959f9b",
+      "type": "fix",
+      "message": ": end call gracefully + prevent UUID re-fetch + immediately call createBooking on confirmation",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-24T17:29:03-03:00"
+    },
+    {
+      "hash": "a2d5893",
+      "type": "fix",
+      "message": ": drop all source_channel constraints before recreating with RETELL_VOICE",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-24T16:41:13-03:00"
+    },
+    {
+      "hash": "407b09a",
+      "type": "fix",
+      "message": ": shared activeSinks for reconnect resilience + stronger 1-tool-call rule",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-24T16:31:55-03:00"
     },
     {
       "hash": "faa533a",
@@ -120,46 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-04-14T15:34:35-03:00"
-    },
-    {
-      "hash": "aa5a46a",
-      "type": "feat",
-      "message": ": show booking summary metrics in client detail",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-04-14T15:17:04-03:00"
-    },
-    {
-      "hash": "03ba533",
-      "type": "feat",
-      "message": ": add bookingSummary to client detail response",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-04-14T15:09:49-03:00"
-    },
-    {
-      "hash": "a7a0e0c",
-      "type": "feat",
-      "message": ": add paginated booking history and resilient detail states",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-04-14T14:54:49-03:00"
-    },
-    {
-      "hash": "19434b7",
-      "type": "feat",
-      "message": ": paginated booking history endpoint with resolved names",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-04-14T14:45:16-03:00"
-    },
-    {
-      "hash": "52f36bc",
-      "type": "fix",
-      "message": ": refresh expired token on SSE error and reconnect with fresh token",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-04-14T03:22:53-03:00"
     }
   ]
 }
