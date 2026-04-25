@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-25T21:25:34Z",
+  "updated_at": "2026-04-25T23:20:15Z",
   "commits": [
+    {
+      "hash": "25b34bf",
+      "type": "other",
+      "message": "Merge pull request #2 from avirgili-eclub/dev",
+      "repo": "agendateya-landing",
+      "repo_display": "AgendateYa Website",
+      "timestamp": "2026-04-25T20:20:07-03:00"
+    },
     {
       "hash": "9bee796",
       "type": "feat",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-04-14T02:24:13-03:00"
-    },
-    {
-      "hash": "aa41198",
-      "type": "fix",
-      "message": ": use webhook reception timestamp for customer messages",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-04-14T01:59:22-03:00"
     }
   ]
 }
