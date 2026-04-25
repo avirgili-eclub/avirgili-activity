@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-25T23:35:29Z",
+  "updated_at": "2026-04-25T23:46:01Z",
   "commits": [
+    {
+      "hash": "3d8c44c",
+      "type": "other",
+      "message": ": build/push voice-service image and deploy alongside API",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-25T20:45:50-03:00"
+    },
     {
       "hash": "f41db0d",
       "type": "fix",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-04-14T15:46:18-03:00"
-    },
-    {
-      "hash": "85f3b70",
-      "type": "feat",
-      "message": "notifications reliability and client/booking UI improvements",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-04-14T15:40:02-03:00"
     }
   ]
 }
