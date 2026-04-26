@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-26T01:41:22Z",
+  "updated_at": "2026-04-26T11:04:51Z",
   "commits": [
+    {
+      "hash": "0cc9463",
+      "type": "feat",
+      "message": "small UI improvements - Merge pull request #14 from avirgili-eclub/dev",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-04-26T08:04:43-03:00"
+    },
     {
       "hash": "e29ca79",
       "type": "feat",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-04-15T12:01:07-03:00"
-    },
-    {
-      "hash": "55548b9",
-      "type": "fix",
-      "message": ": update PublicTenantResponse constructor call with businessSubType field",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-04-15T11:32:23-03:00"
     }
   ]
 }
