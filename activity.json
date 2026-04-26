@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-26T00:12:22Z",
+  "updated_at": "2026-04-26T01:10:06Z",
   "commits": [
+    {
+      "hash": "b46fafe",
+      "type": "other",
+      "message": ": replace git-fetch sync with scp for docker-compose.dev.yml",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-25T22:09:53-03:00"
+    },
     {
       "hash": "44db816",
       "type": "fix",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-04-15T11:15:45-03:00"
-    },
-    {
-      "hash": "241adc8",
-      "type": "feat",
-      "message": ": remove duplicate page headers and refine action bar layouts",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-04-15T10:55:47-03:00"
     }
   ]
 }
