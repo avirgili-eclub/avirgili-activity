@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-25T23:58:45Z",
+  "updated_at": "2026-04-26T00:12:22Z",
   "commits": [
+    {
+      "hash": "44db816",
+      "type": "fix",
+      "message": ": bypass git ownership check on deploy host with safe.directory",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-25T21:12:12-03:00"
+    },
     {
       "hash": "5b4166c",
       "type": "other",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-04-15T10:55:47-03:00"
-    },
-    {
-      "hash": "d040f29",
-      "type": "fix",
-      "message": ": mock SitePublishedInterceptor in BookingControllerTest and MeControllerTest",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-04-14T15:52:00-03:00"
     }
   ]
 }
