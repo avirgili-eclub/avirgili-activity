@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-26T01:18:28Z",
+  "updated_at": "2026-04-26T01:41:22Z",
   "commits": [
+    {
+      "hash": "e29ca79",
+      "type": "feat",
+      "message": "unify canonical routes, legal updates and optimize about images",
+      "repo": "agendateya-landing",
+      "repo_display": "AgendateYa Website",
+      "timestamp": "2026-04-25T22:40:53-03:00"
+    },
     {
       "hash": "355dd8e",
       "type": "fix",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-04-15T11:32:23-03:00"
-    },
-    {
-      "hash": "f4e3665",
-      "type": "feat",
-      "message": ": add DENTISTRY to HEALTH and RESTAURANT/BAR under new HOSPITALITY type",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-04-15T11:19:14-03:00"
     }
   ]
 }
