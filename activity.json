@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-27T00:47:51Z",
+  "updated_at": "2026-04-27T02:06:15Z",
   "commits": [
+    {
+      "hash": "c7b93e6",
+      "type": "feat",
+      "message": "redirigir www.agendateya.com al dominio principal",
+      "repo": "agendateya-landing",
+      "repo_display": "AgendateYa Website",
+      "timestamp": "2026-04-26T23:06:04-03:00"
+    },
     {
       "hash": "434fd32",
       "type": "feat",
@@ -152,14 +160,6 @@
       "repo": "agendateya-landing",
       "repo_display": "AgendateYa Website",
       "timestamp": "2026-04-25T16:37:00-03:00"
-    },
-    {
-      "hash": "3959f9b",
-      "type": "fix",
-      "message": ": end call gracefully + prevent UUID re-fetch + immediately call createBooking on confirmation",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-04-24T17:29:03-03:00"
     }
   ]
 }
