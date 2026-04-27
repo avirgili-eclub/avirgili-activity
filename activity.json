@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-27T19:16:19Z",
+  "updated_at": "2026-04-27T19:21:05Z",
   "commits": [
+    {
+      "hash": "9e45c6f",
+      "type": "other",
+      "message": "build con whitelist mode activo en deploy",
+      "repo": "agendateya-landing",
+      "repo_display": "AgendateYa Website",
+      "timestamp": "2026-04-27T16:20:53-03:00"
+    },
     {
       "hash": "aada037",
       "type": "fix",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-04-26T08:04:43-03:00"
-    },
-    {
-      "hash": "e29ca79",
-      "type": "feat",
-      "message": "unify canonical routes, legal updates and optimize about images",
-      "repo": "agendateya-landing",
-      "repo_display": "AgendateYa Website",
-      "timestamp": "2026-04-25T22:40:53-03:00"
     }
   ]
 }
