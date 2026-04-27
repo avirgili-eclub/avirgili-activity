@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-27T00:46:15Z",
+  "updated_at": "2026-04-27T00:47:51Z",
   "commits": [
+    {
+      "hash": "434fd32",
+      "type": "feat",
+      "message": "redirect www to apex domain via Cloudflare Pages _redirects",
+      "repo": "agendateya-landing",
+      "repo_display": "AgendateYa Website",
+      "timestamp": "2026-04-26T21:47:41-03:00"
+    },
     {
       "hash": "dd49239",
       "type": "other",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-04-24T17:29:03-03:00"
-    },
-    {
-      "hash": "a2d5893",
-      "type": "fix",
-      "message": ": drop all source_channel constraints before recreating with RETELL_VOICE",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-04-24T16:41:13-03:00"
     }
   ]
 }
