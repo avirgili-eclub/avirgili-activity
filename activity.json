@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-27T02:07:02Z",
+  "updated_at": "2026-04-27T02:12:24Z",
   "commits": [
+    {
+      "hash": "a06c1fa",
+      "type": "other",
+      "message": "auto-sync dev branch after master merges",
+      "repo": "agendateya-landing",
+      "repo_display": "AgendateYa Website",
+      "timestamp": "2026-04-26T23:12:10-03:00"
+    },
     {
       "hash": "c7b93e6",
       "type": "feat",
@@ -152,14 +160,6 @@
       "repo": "agendateya-landing",
       "repo_display": "AgendateYa Website",
       "timestamp": "2026-04-25T18:25:06-03:00"
-    },
-    {
-      "hash": "a6cf5f5",
-      "type": "other",
-      "message": "Actualiza pricing por moneda y limpia/ajusta páginas legales",
-      "repo": "agendateya-landing",
-      "repo_display": "AgendateYa Website",
-      "timestamp": "2026-04-25T16:37:00-03:00"
     }
   ]
 }
