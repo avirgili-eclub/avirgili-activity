@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-27T19:46:31Z",
+  "updated_at": "2026-04-27T20:26:12Z",
   "commits": [
+    {
+      "hash": "eb40225",
+      "type": "feat",
+      "message": ": reply to non-text messages instead of persisting placeholder",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-27T17:25:58-03:00"
+    },
     {
       "hash": "3b1936b",
       "type": "other",
@@ -152,14 +160,6 @@
       "repo": "agendateya-landing",
       "repo_display": "AgendateYa Website",
       "timestamp": "2026-04-26T21:46:04-03:00"
-    },
-    {
-      "hash": "92ede14",
-      "type": "fix",
-      "message": "correct pages_build_output_dir field in wrangler.jsonc",
-      "repo": "agendateya-landing",
-      "repo_display": "AgendateYa Website",
-      "timestamp": "2026-04-26T21:42:48-03:00"
     }
   ]
 }
