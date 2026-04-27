@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-27T00:42:59Z",
+  "updated_at": "2026-04-27T00:46:15Z",
   "commits": [
+    {
+      "hash": "dd49239",
+      "type": "other",
+      "message": "Merge pull request #4 from avirgili-eclub/dev",
+      "repo": "agendateya-landing",
+      "repo_display": "AgendateYa Website",
+      "timestamp": "2026-04-26T21:46:04-03:00"
+    },
     {
       "hash": "92ede14",
       "type": "fix",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-04-24T16:41:13-03:00"
-    },
-    {
-      "hash": "407b09a",
-      "type": "fix",
-      "message": ": shared activeSinks for reconnect resilience + stronger 1-tool-call rule",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-04-24T16:31:55-03:00"
     }
   ]
 }
