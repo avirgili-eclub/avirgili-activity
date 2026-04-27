@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-04-27T14:58:37Z",
+  "updated_at": "2026-04-27T15:05:31Z",
   "commits": [
+    {
+      "hash": "6b66f72",
+      "type": "other",
+      "message": "Merge pull request #9 from avirgili-eclub/feat/whitelist-mode",
+      "repo": "agendateya-landing",
+      "repo_display": "AgendateYa Website",
+      "timestamp": "2026-04-27T12:05:18-03:00"
+    },
+    {
+      "hash": "d3f746e",
+      "type": "feat",
+      "message": "al estilo whitelist modal",
+      "repo": "agendateya-landing",
+      "repo_display": "AgendateYa Website",
+      "timestamp": "2026-04-27T12:04:05-03:00"
+    },
     {
       "hash": "dead319",
       "type": "other",
@@ -144,22 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-04-25T20:58:33-03:00"
-    },
-    {
-      "hash": "3d8c44c",
-      "type": "other",
-      "message": ": build/push voice-service image and deploy alongside API",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-04-25T20:45:50-03:00"
-    },
-    {
-      "hash": "f41db0d",
-      "type": "fix",
-      "message": ": copy core module in root Dockerfile for multi-project build",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-04-25T20:35:18-03:00"
     }
   ]
 }
