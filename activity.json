@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-27T19:22:03Z",
+  "updated_at": "2026-04-27T19:46:31Z",
   "commits": [
+    {
+      "hash": "3b1936b",
+      "type": "other",
+      "message": "Implement dark mode with theme toggle and tokenized palette",
+      "repo": "whoami-virgilitech",
+      "repo_display": "Whoami Virgilitech",
+      "timestamp": "2026-04-27T16:46:18-03:00"
+    },
     {
       "hash": "0b3af4c",
       "type": "other",
@@ -152,14 +160,6 @@
       "repo": "agendateya-landing",
       "repo_display": "AgendateYa Website",
       "timestamp": "2026-04-26T21:42:48-03:00"
-    },
-    {
-      "hash": "a207b18",
-      "type": "other",
-      "message": "replace Docker/VPS workflow with Cloudflare Pages deploy",
-      "repo": "agendateya-landing",
-      "repo_display": "AgendateYa Website",
-      "timestamp": "2026-04-26T21:18:43-03:00"
     }
   ]
 }
