@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-27T19:11:49Z",
+  "updated_at": "2026-04-27T19:14:43Z",
   "commits": [
+    {
+      "hash": "8c8d08f",
+      "type": "fix",
+      "message": "agregar cursor-pointer al Button component",
+      "repo": "agendateya-landing",
+      "repo_display": "AgendateYa Website",
+      "timestamp": "2026-04-27T16:14:30-03:00"
+    },
     {
       "hash": "87bf607",
       "type": "fix",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-04-25T22:18:15-03:00"
-    },
-    {
-      "hash": "b46fafe",
-      "type": "other",
-      "message": ": replace git-fetch sync with scp for docker-compose.dev.yml",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-04-25T22:09:53-03:00"
     }
   ]
 }
