@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-04-27T14:17:40Z",
+  "updated_at": "2026-04-27T14:58:37Z",
   "commits": [
+    {
+      "hash": "dead319",
+      "type": "other",
+      "message": "Merge pull request #8 from avirgili-eclub/feat/whitelist-mode",
+      "repo": "agendateya-landing",
+      "repo_display": "AgendateYa Website",
+      "timestamp": "2026-04-27T11:58:27-03:00"
+    },
+    {
+      "hash": "581eb96",
+      "type": "fix",
+      "message": "",
+      "repo": "agendateya-landing",
+      "repo_display": "AgendateYa Website",
+      "timestamp": "2026-04-27T11:55:14-03:00"
+    },
     {
       "hash": "8a41554",
       "type": "feat",
@@ -144,22 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-04-25T20:35:18-03:00"
-    },
-    {
-      "hash": "b9b657b",
-      "type": "other",
-      "message": "Merge pull request #3 from avirgili-eclub/dev",
-      "repo": "agendateya-landing",
-      "repo_display": "AgendateYa Website",
-      "timestamp": "2026-04-25T20:32:39-03:00"
-    },
-    {
-      "hash": "196d4a8",
-      "type": "other",
-      "message": "Merge pull request #22 from avirgili-eclub/feat/retell-voice-streaming",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-04-25T20:29:05-03:00"
     }
   ]
 }
