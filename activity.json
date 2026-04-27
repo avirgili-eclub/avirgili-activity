@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-04-27T02:15:12Z",
+  "updated_at": "2026-04-27T14:17:40Z",
   "commits": [
+    {
+      "hash": "8a41554",
+      "type": "feat",
+      "message": "whitelist mode — pre-launch signup flow",
+      "repo": "agendateya-landing",
+      "repo_display": "AgendateYa Website",
+      "timestamp": "2026-04-27T11:17:29-03:00"
+    },
+    {
+      "hash": "eb5f661",
+      "type": "chore",
+      "message": "whitelist and build:whitelist scripts",
+      "repo": "agendateya-landing",
+      "repo_display": "AgendateYa Website",
+      "timestamp": "2026-04-27T11:10:58-03:00"
+    },
+    {
+      "hash": "a648c71",
+      "type": "feat",
+      "message": "whitelist mode — pre-launch signup flow",
+      "repo": "agendateya-landing",
+      "repo_display": "AgendateYa Website",
+      "timestamp": "2026-04-27T11:03:48-03:00"
+    },
     {
       "hash": "0b111f0",
       "type": "other",
@@ -136,30 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-04-25T20:29:05-03:00"
-    },
-    {
-      "hash": "c9c23ff",
-      "type": "refactor",
-      "message": ": improve filler phrases for better UX",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-04-25T20:27:45-03:00"
-    },
-    {
-      "hash": "b50168a",
-      "type": "feat",
-      "message": "wire CTA and pricing buttons to platform URL",
-      "repo": "agendateya-landing",
-      "repo_display": "AgendateYa Website",
-      "timestamp": "2026-04-25T20:23:20-03:00"
-    },
-    {
-      "hash": "25b34bf",
-      "type": "other",
-      "message": "Merge pull request #2 from avirgili-eclub/dev",
-      "repo": "agendateya-landing",
-      "repo_display": "AgendateYa Website",
-      "timestamp": "2026-04-25T20:20:07-03:00"
     }
   ]
 }
