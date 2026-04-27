@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-26T11:04:51Z",
+  "updated_at": "2026-04-27T00:18:56Z",
   "commits": [
+    {
+      "hash": "a207b18",
+      "type": "other",
+      "message": "replace Docker/VPS workflow with Cloudflare Pages deploy",
+      "repo": "agendateya-landing",
+      "repo_display": "AgendateYa Website",
+      "timestamp": "2026-04-26T21:18:43-03:00"
+    },
     {
       "hash": "0cc9463",
       "type": "feat",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-04-23T15:29:28-03:00"
-    },
-    {
-      "hash": "70c6c0d",
-      "type": "feat",
-      "message": ": align business subtypes with backend contract",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-04-15T12:01:07-03:00"
     }
   ]
 }
