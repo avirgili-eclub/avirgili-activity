@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-27T15:05:31Z",
+  "updated_at": "2026-04-27T18:50:04Z",
   "commits": [
+    {
+      "hash": "05ebdf3",
+      "type": "other",
+      "message": "Refine projects UX and update portfolio content",
+      "repo": "whoami-virgilitech",
+      "repo_display": "Whoami Virgilitech",
+      "timestamp": "2026-04-27T15:49:52-03:00"
+    },
     {
       "hash": "6b66f72",
       "type": "other",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-04-25T21:12:12-03:00"
-    },
-    {
-      "hash": "5b4166c",
-      "type": "other",
-      "message": ": sync repo with origin/dev before docker compose to keep compose files current",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-04-25T20:58:33-03:00"
     }
   ]
 }
