@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-27T18:50:04Z",
+  "updated_at": "2026-04-27T19:11:49Z",
   "commits": [
+    {
+      "hash": "87bf607",
+      "type": "fix",
+      "message": "Alpine store no inicializa en dev + hamburger race condition",
+      "repo": "agendateya-landing",
+      "repo_display": "AgendateYa Website",
+      "timestamp": "2026-04-27T16:11:34-03:00"
+    },
     {
       "hash": "05ebdf3",
       "type": "other",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-04-25T22:09:53-03:00"
-    },
-    {
-      "hash": "44db816",
-      "type": "fix",
-      "message": ": bypass git ownership check on deploy host with safe.directory",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-04-25T21:12:12-03:00"
     }
   ]
 }
