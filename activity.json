@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-28T14:38:58Z",
+  "updated_at": "2026-04-28T14:59:34Z",
   "commits": [
+    {
+      "hash": "70cf637",
+      "type": "other",
+      "message": "Merge pull request #11 from avirgili-eclub/dev",
+      "repo": "agendateya-landing",
+      "repo_display": "AgendateYa Website",
+      "timestamp": "2026-04-28T11:59:20-03:00"
+    },
     {
       "hash": "d7efc8e",
       "type": "feat",
@@ -152,14 +160,6 @@
       "repo": "agendateya-landing",
       "repo_display": "AgendateYa Website",
       "timestamp": "2026-04-26T23:06:04-03:00"
-    },
-    {
-      "hash": "434fd32",
-      "type": "feat",
-      "message": "redirect www to apex domain via Cloudflare Pages _redirects",
-      "repo": "agendateya-landing",
-      "repo_display": "AgendateYa Website",
-      "timestamp": "2026-04-26T21:47:41-03:00"
     }
   ]
 }
