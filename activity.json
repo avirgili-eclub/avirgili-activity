@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-28T19:20:06Z",
+  "updated_at": "2026-04-28T19:22:12Z",
   "commits": [
+    {
+      "hash": "0874f1b",
+      "type": "fix",
+      "message": ": resume auto-scroll after drag",
+      "repo": "agendateya-landing",
+      "repo_display": "AgendateYa Website",
+      "timestamp": "2026-04-28T16:22:00-03:00"
+    },
     {
       "hash": "0c9d7db",
       "type": "fix",
@@ -152,14 +160,6 @@
       "repo": "agendateya-landing",
       "repo_display": "AgendateYa Website",
       "timestamp": "2026-04-27T11:55:14-03:00"
-    },
-    {
-      "hash": "8a41554",
-      "type": "feat",
-      "message": "whitelist mode — pre-launch signup flow",
-      "repo": "agendateya-landing",
-      "repo_display": "AgendateYa Website",
-      "timestamp": "2026-04-27T11:17:29-03:00"
     }
   ]
 }
