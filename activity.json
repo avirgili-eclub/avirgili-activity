@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-28T16:20:13Z",
+  "updated_at": "2026-04-28T18:49:41Z",
   "commits": [
+    {
+      "hash": "bfbd33e",
+      "type": "feat",
+      "message": "add industrias section with marquee, hub page and detail pages",
+      "repo": "agendateya-landing",
+      "repo_display": "AgendateYa Website",
+      "timestamp": "2026-04-28T15:49:25-03:00"
+    },
     {
       "hash": "3868767",
       "type": "other",
@@ -152,14 +160,6 @@
       "repo": "agendateya-landing",
       "repo_display": "AgendateYa Website",
       "timestamp": "2026-04-27T11:03:48-03:00"
-    },
-    {
-      "hash": "0b111f0",
-      "type": "other",
-      "message": "Merge pull request #6 from avirgili-eclub/dev",
-      "repo": "agendateya-landing",
-      "repo_display": "AgendateYa Website",
-      "timestamp": "2026-04-26T23:15:01-03:00"
     }
   ]
 }
