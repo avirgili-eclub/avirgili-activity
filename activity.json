@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-28T18:49:41Z",
+  "updated_at": "2026-04-28T19:06:25Z",
   "commits": [
+    {
+      "hash": "a3b1116",
+      "type": "fix",
+      "message": ": ajustar badges e iconos",
+      "repo": "agendateya-landing",
+      "repo_display": "AgendateYa Website",
+      "timestamp": "2026-04-28T16:06:06-03:00"
+    },
     {
       "hash": "bfbd33e",
       "type": "feat",
@@ -152,14 +160,6 @@
       "repo": "agendateya-landing",
       "repo_display": "AgendateYa Website",
       "timestamp": "2026-04-27T11:10:58-03:00"
-    },
-    {
-      "hash": "a648c71",
-      "type": "feat",
-      "message": "whitelist mode — pre-launch signup flow",
-      "repo": "agendateya-landing",
-      "repo_display": "AgendateYa Website",
-      "timestamp": "2026-04-27T11:03:48-03:00"
     }
   ]
 }
