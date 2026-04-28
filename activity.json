@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-28T14:59:34Z",
+  "updated_at": "2026-04-28T16:14:46Z",
   "commits": [
+    {
+      "hash": "19fe07a",
+      "type": "chore",
+      "message": ": add ZeptoMail diagnostic logs",
+      "repo": "agendateya-landing",
+      "repo_display": "AgendateYa Website",
+      "timestamp": "2026-04-28T13:14:17-03:00"
+    },
     {
       "hash": "70cf637",
       "type": "other",
@@ -152,14 +160,6 @@
       "repo": "agendateya-landing",
       "repo_display": "AgendateYa Website",
       "timestamp": "2026-04-26T23:12:10-03:00"
-    },
-    {
-      "hash": "c7b93e6",
-      "type": "feat",
-      "message": "redirigir www.agendateya.com al dominio principal",
-      "repo": "agendateya-landing",
-      "repo_display": "AgendateYa Website",
-      "timestamp": "2026-04-26T23:06:04-03:00"
     }
   ]
 }
