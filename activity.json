@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-27T20:26:12Z",
+  "updated_at": "2026-04-28T14:38:58Z",
   "commits": [
+    {
+      "hash": "d7efc8e",
+      "type": "feat",
+      "message": ": make ZeptoMail endpoint and sender configurable",
+      "repo": "agendateya-landing",
+      "repo_display": "AgendateYa Website",
+      "timestamp": "2026-04-28T11:38:39-03:00"
+    },
     {
       "hash": "eb40225",
       "type": "feat",
@@ -152,14 +160,6 @@
       "repo": "agendateya-landing",
       "repo_display": "AgendateYa Website",
       "timestamp": "2026-04-26T21:47:41-03:00"
-    },
-    {
-      "hash": "dd49239",
-      "type": "other",
-      "message": "Merge pull request #4 from avirgili-eclub/dev",
-      "repo": "agendateya-landing",
-      "repo_display": "AgendateYa Website",
-      "timestamp": "2026-04-26T21:46:04-03:00"
     }
   ]
 }
