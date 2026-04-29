@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-28T19:49:55Z",
+  "updated_at": "2026-04-29T02:28:30Z",
   "commits": [
+    {
+      "hash": "2fdf9ba",
+      "type": "fix",
+      "message": ": mobile drag resume without jump",
+      "repo": "agendateya-landing",
+      "repo_display": "AgendateYa Website",
+      "timestamp": "2026-04-28T23:28:05-03:00"
+    },
     {
       "hash": "f381aae",
       "type": "other",
@@ -152,14 +160,6 @@
       "repo": "agendateya-landing",
       "repo_display": "AgendateYa Website",
       "timestamp": "2026-04-27T12:05:18-03:00"
-    },
-    {
-      "hash": "d3f746e",
-      "type": "feat",
-      "message": "al estilo whitelist modal",
-      "repo": "agendateya-landing",
-      "repo_display": "AgendateYa Website",
-      "timestamp": "2026-04-27T12:04:05-03:00"
     }
   ]
 }
