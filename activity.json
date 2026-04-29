@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-29T02:28:30Z",
+  "updated_at": "2026-04-29T03:14:13Z",
   "commits": [
+    {
+      "hash": "5f14b5b",
+      "type": "other",
+      "message": "Merge pull request #14 from avirgili-eclub/dev",
+      "repo": "agendateya-landing",
+      "repo_display": "AgendateYa Website",
+      "timestamp": "2026-04-29T00:14:04-03:00"
+    },
     {
       "hash": "2fdf9ba",
       "type": "fix",
@@ -152,14 +160,6 @@
       "repo": "whoami-virgilitech",
       "repo_display": "Whoami Virgilitech",
       "timestamp": "2026-04-27T15:49:52-03:00"
-    },
-    {
-      "hash": "6b66f72",
-      "type": "other",
-      "message": "Merge pull request #9 from avirgili-eclub/feat/whitelist-mode",
-      "repo": "agendateya-landing",
-      "repo_display": "AgendateYa Website",
-      "timestamp": "2026-04-27T12:05:18-03:00"
     }
   ]
 }
