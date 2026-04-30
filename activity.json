@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-30T04:30:48Z",
+  "updated_at": "2026-04-30T04:33:23Z",
   "commits": [
+    {
+      "hash": "0727c2a",
+      "type": "other",
+      "message": "Merge pull request #23 from avirgili-eclub/feat/onboarding-plan-selection-trial-mvp",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-30T01:33:14-03:00"
+    },
     {
       "hash": "204b8f1",
       "type": "fix",
@@ -8,6 +16,22 @@
       "repo": "whoami-virgilitech",
       "repo_display": "Whoami Virgilitech",
       "timestamp": "2026-04-30T01:30:34-03:00"
+    },
+    {
+      "hash": "45869f3",
+      "type": "fix",
+      "message": ": rename V60 migration to V61 to avoid conflict with existing V60",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-30T01:17:44-03:00"
+    },
+    {
+      "hash": "0bb6912",
+      "type": "fix",
+      "message": ": update tenant business_type check constraint to include all enum values",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-30T01:15:51-03:00"
     },
     {
       "hash": "5f14b5b",
@@ -106,6 +130,22 @@
       "timestamp": "2026-04-28T11:38:39-03:00"
     },
     {
+      "hash": "7190e35",
+      "type": "feat",
+      "message": ": add professional invitation foundation and otp security",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-27T17:39:48-03:00"
+    },
+    {
+      "hash": "17b0ed8",
+      "type": "other",
+      "message": "Merge branch dev of github.com:avirgili-eclub/agendate-ya into feat/onboarding-plan-selection-trial-mvp",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-04-27T17:32:14-03:00"
+    },
+    {
       "hash": "eb40225",
       "type": "feat",
       "message": ": reply to non-text messages instead of persisting placeholder",
@@ -120,46 +160,6 @@
       "repo": "whoami-virgilitech",
       "repo_display": "Whoami Virgilitech",
       "timestamp": "2026-04-27T16:46:18-03:00"
-    },
-    {
-      "hash": "0b3af4c",
-      "type": "other",
-      "message": "Merge pull request #10 from avirgili-eclub/dev",
-      "repo": "agendateya-landing",
-      "repo_display": "AgendateYa Website",
-      "timestamp": "2026-04-27T16:21:51-03:00"
-    },
-    {
-      "hash": "9e45c6f",
-      "type": "other",
-      "message": "build con whitelist mode activo en deploy",
-      "repo": "agendateya-landing",
-      "repo_display": "AgendateYa Website",
-      "timestamp": "2026-04-27T16:20:53-03:00"
-    },
-    {
-      "hash": "aada037",
-      "type": "fix",
-      "message": "cursor-pointer en todos los botones del WhitelistModal",
-      "repo": "agendateya-landing",
-      "repo_display": "AgendateYa Website",
-      "timestamp": "2026-04-27T16:16:06-03:00"
-    },
-    {
-      "hash": "8c8d08f",
-      "type": "fix",
-      "message": "agregar cursor-pointer al Button component",
-      "repo": "agendateya-landing",
-      "repo_display": "AgendateYa Website",
-      "timestamp": "2026-04-27T16:14:30-03:00"
-    },
-    {
-      "hash": "87bf607",
-      "type": "fix",
-      "message": "Alpine store no inicializa en dev + hamburger race condition",
-      "repo": "agendateya-landing",
-      "repo_display": "AgendateYa Website",
-      "timestamp": "2026-04-27T16:11:34-03:00"
     }
   ]
 }
