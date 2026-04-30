@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-29T03:14:13Z",
+  "updated_at": "2026-04-30T04:30:48Z",
   "commits": [
+    {
+      "hash": "204b8f1",
+      "type": "fix",
+      "message": "sync EN experience years and update AgendateYA STT labels",
+      "repo": "whoami-virgilitech",
+      "repo_display": "Whoami Virgilitech",
+      "timestamp": "2026-04-30T01:30:34-03:00"
+    },
     {
       "hash": "5f14b5b",
       "type": "other",
@@ -152,14 +160,6 @@
       "repo": "agendateya-landing",
       "repo_display": "AgendateYa Website",
       "timestamp": "2026-04-27T16:11:34-03:00"
-    },
-    {
-      "hash": "05ebdf3",
-      "type": "other",
-      "message": "Refine projects UX and update portfolio content",
-      "repo": "whoami-virgilitech",
-      "repo_display": "Whoami Virgilitech",
-      "timestamp": "2026-04-27T15:49:52-03:00"
     }
   ]
 }
