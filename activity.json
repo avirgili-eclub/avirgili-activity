@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-30T04:33:23Z",
+  "updated_at": "2026-04-30T04:34:27Z",
   "commits": [
+    {
+      "hash": "0724d96",
+      "type": "other",
+      "message": "Merge pull request #15 from avirgili-eclub/feat/onboarding-plan-selection",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-04-30T01:34:18-03:00"
+    },
     {
       "hash": "0727c2a",
       "type": "other",
@@ -130,6 +138,14 @@
       "timestamp": "2026-04-28T11:38:39-03:00"
     },
     {
+      "hash": "6f1cdba",
+      "type": "feat",
+      "message": ": add plan selection to registration and onboarding flows",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-04-28T02:10:46-03:00"
+    },
+    {
       "hash": "7190e35",
       "type": "feat",
       "message": ": add professional invitation foundation and otp security",
@@ -144,22 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-04-27T17:32:14-03:00"
-    },
-    {
-      "hash": "eb40225",
-      "type": "feat",
-      "message": ": reply to non-text messages instead of persisting placeholder",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-04-27T17:25:58-03:00"
-    },
-    {
-      "hash": "3b1936b",
-      "type": "other",
-      "message": "Implement dark mode with theme toggle and tokenized palette",
-      "repo": "whoami-virgilitech",
-      "repo_display": "Whoami Virgilitech",
-      "timestamp": "2026-04-27T16:46:18-03:00"
     }
   ]
 }
