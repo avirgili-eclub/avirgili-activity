@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-05-01T19:29:51Z",
+  "updated_at": "2026-05-01T20:44:20Z",
   "commits": [
+    {
+      "hash": "080cb4c",
+      "type": "other",
+      "message": "Fix stale notification badge count when clearing or marking all read",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-05-01T17:44:06-03:00"
+    },
     {
       "hash": "939d611",
       "type": "feat",
@@ -152,14 +160,6 @@
       "repo": "agendateya-landing",
       "repo_display": "AgendateYa Website",
       "timestamp": "2026-04-28T15:49:25-03:00"
-    },
-    {
-      "hash": "3868767",
-      "type": "other",
-      "message": "Merge pull request #12 from avirgili-eclub/dev",
-      "repo": "agendateya-landing",
-      "repo_display": "AgendateYa Website",
-      "timestamp": "2026-04-28T13:20:02-03:00"
     }
   ]
 }
