@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-30T19:57:40Z",
+  "updated_at": "2026-05-01T04:39:50Z",
   "commits": [
+    {
+      "hash": "513e1c0",
+      "type": "feat",
+      "message": ": professional-first booking flow endpoints",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-01T01:39:37-03:00"
+    },
     {
       "hash": "da7ade1",
       "type": "fix",
@@ -152,14 +160,6 @@
       "repo": "agendateya-landing",
       "repo_display": "AgendateYa Website",
       "timestamp": "2026-04-28T11:59:20-03:00"
-    },
-    {
-      "hash": "d7efc8e",
-      "type": "feat",
-      "message": ": make ZeptoMail endpoint and sender configurable",
-      "repo": "agendateya-landing",
-      "repo_display": "AgendateYa Website",
-      "timestamp": "2026-04-28T11:38:39-03:00"
     }
   ]
 }
