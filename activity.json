@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-05-01T19:26:21Z",
+  "updated_at": "2026-05-01T19:29:51Z",
   "commits": [
+    {
+      "hash": "939d611",
+      "type": "feat",
+      "message": ": implement white-label branding configuration UI",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-05-01T16:29:31-03:00"
+    },
     {
       "hash": "b9924a1",
       "type": "other",
@@ -152,14 +160,6 @@
       "repo": "agendateya-landing",
       "repo_display": "AgendateYa Website",
       "timestamp": "2026-04-28T13:20:02-03:00"
-    },
-    {
-      "hash": "19fe07a",
-      "type": "chore",
-      "message": ": add ZeptoMail diagnostic logs",
-      "repo": "agendateya-landing",
-      "repo_display": "AgendateYa Website",
-      "timestamp": "2026-04-28T13:14:17-03:00"
     }
   ]
 }
