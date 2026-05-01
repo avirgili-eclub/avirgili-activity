@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-05-01T04:39:50Z",
+  "updated_at": "2026-05-01T19:26:21Z",
   "commits": [
+    {
+      "hash": "b9924a1",
+      "type": "other",
+      "message": "Fix branding uploads to use multipart FormData and show full image previews",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-05-01T16:26:08-03:00"
+    },
     {
       "hash": "513e1c0",
       "type": "feat",
@@ -152,14 +160,6 @@
       "repo": "agendateya-landing",
       "repo_display": "AgendateYa Website",
       "timestamp": "2026-04-28T13:14:17-03:00"
-    },
-    {
-      "hash": "70cf637",
-      "type": "other",
-      "message": "Merge pull request #11 from avirgili-eclub/dev",
-      "repo": "agendateya-landing",
-      "repo_display": "AgendateYa Website",
-      "timestamp": "2026-04-28T11:59:20-03:00"
     }
   ]
 }
