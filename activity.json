@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-05-01T20:44:20Z",
+  "updated_at": "2026-05-02T13:55:58Z",
   "commits": [
+    {
+      "hash": "3c9d0dd",
+      "type": "other",
+      "message": "Merge pull request #24 from avirgili-eclub/feat/white-label-booking-config",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-02T10:55:48-03:00"
+    },
+    {
+      "hash": "d75cc68",
+      "type": "docs",
+      "message": ": document R2 storage config",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-02T10:53:44-03:00"
+    },
     {
       "hash": "080cb4c",
       "type": "other",
@@ -24,6 +40,30 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-05-01T16:26:08-03:00"
+    },
+    {
+      "hash": "7a5bebc",
+      "type": "fix",
+      "message": ": increase multipart size limit to 10MB",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-01T16:26:02-03:00"
+    },
+    {
+      "hash": "280477a",
+      "type": "feat",
+      "message": "implement white-label booking config, branding uploads, and secure preview token flow",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-01T11:54:50-03:00"
+    },
+    {
+      "hash": "fcd6e61",
+      "type": "fix",
+      "message": ": resolve FileStoragePort bean not found on startup",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-01T03:06:26-03:00"
     },
     {
       "hash": "513e1c0",
@@ -120,46 +160,6 @@
       "repo": "agendateya-landing",
       "repo_display": "AgendateYa Website",
       "timestamp": "2026-04-28T16:49:46-03:00"
-    },
-    {
-      "hash": "1ef167a",
-      "type": "fix",
-      "message": ": stabilize UX and footer links",
-      "repo": "agendateya-landing",
-      "repo_display": "AgendateYa Website",
-      "timestamp": "2026-04-28T16:48:07-03:00"
-    },
-    {
-      "hash": "0874f1b",
-      "type": "fix",
-      "message": ": resume auto-scroll after drag",
-      "repo": "agendateya-landing",
-      "repo_display": "AgendateYa Website",
-      "timestamp": "2026-04-28T16:22:00-03:00"
-    },
-    {
-      "hash": "0c9d7db",
-      "type": "fix",
-      "message": ": reinit drag on page-load",
-      "repo": "agendateya-landing",
-      "repo_display": "AgendateYa Website",
-      "timestamp": "2026-04-28T16:19:55-03:00"
-    },
-    {
-      "hash": "a3b1116",
-      "type": "fix",
-      "message": ": ajustar badges e iconos",
-      "repo": "agendateya-landing",
-      "repo_display": "AgendateYa Website",
-      "timestamp": "2026-04-28T16:06:06-03:00"
-    },
-    {
-      "hash": "bfbd33e",
-      "type": "feat",
-      "message": "add industrias section with marquee, hub page and detail pages",
-      "repo": "agendateya-landing",
-      "repo_display": "AgendateYa Website",
-      "timestamp": "2026-04-28T15:49:25-03:00"
     }
   ]
 }
