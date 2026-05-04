@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-05-02T13:55:58Z",
+  "updated_at": "2026-05-04T04:31:52Z",
   "commits": [
+    {
+      "hash": "b17ecfb",
+      "type": "feat",
+      "message": ": add ElevenLabs as second voice provider",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-04T01:31:27-03:00"
+    },
     {
       "hash": "3c9d0dd",
       "type": "other",
@@ -152,14 +160,6 @@
       "repo": "agendateya-landing",
       "repo_display": "AgendateYa Website",
       "timestamp": "2026-04-28T23:28:05-03:00"
-    },
-    {
-      "hash": "f381aae",
-      "type": "other",
-      "message": "Merge pull request #13 from avirgili-eclub/dev",
-      "repo": "agendateya-landing",
-      "repo_display": "AgendateYa Website",
-      "timestamp": "2026-04-28T16:49:46-03:00"
     }
   ]
 }
