@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-05-05T18:33:38Z",
+  "updated_at": "2026-05-05T18:37:08Z",
   "commits": [
+    {
+      "hash": "d49c06e",
+      "type": "feat",
+      "message": ": add R2 image upload via multipart/form-data",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-05T15:36:45-03:00"
+    },
+    {
+      "hash": "bd69ef4",
+      "type": "feat",
+      "message": ": store google calendar htmlLink and send template URL via WhatsApp bot",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-05T15:36:36-03:00"
+    },
+    {
+      "hash": "5811281",
+      "type": "feat",
+      "message": ": add R2 image upload via multipart/form-data",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-05T15:36:25-03:00"
+    },
     {
       "hash": "6c5a142",
       "type": "feat",
@@ -136,30 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-05-01T03:06:26-03:00"
-    },
-    {
-      "hash": "513e1c0",
-      "type": "feat",
-      "message": ": professional-first booking flow endpoints",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-01T01:39:37-03:00"
-    },
-    {
-      "hash": "da7ade1",
-      "type": "fix",
-      "message": ": add @JdbcTypeCode for jsonb metadata column",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-04-30T16:57:19-03:00"
-    },
-    {
-      "hash": "1f25c8a",
-      "type": "feat",
-      "message": ": professional dashboard snapshot and calendar access",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-04-30T16:57:13-03:00"
     }
   ]
 }
