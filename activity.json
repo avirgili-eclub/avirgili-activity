@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-05-05T16:45:19Z",
+  "updated_at": "2026-05-05T18:33:38Z",
   "commits": [
+    {
+      "hash": "6c5a142",
+      "type": "feat",
+      "message": "add deferred image upload for locations and resources",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-05-05T15:33:19-03:00"
+    },
     {
       "hash": "f18bb4f",
       "type": "other",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-04-30T16:57:13-03:00"
-    },
-    {
-      "hash": "c6621ed",
-      "type": "feat",
-      "message": "add professional dashboard context and calendar agenda actions",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-04-30T16:56:30-03:00"
     }
   ]
 }
