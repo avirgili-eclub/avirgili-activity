@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-05-05T14:06:45Z",
+  "updated_at": "2026-05-05T16:44:29Z",
   "commits": [
+    {
+      "hash": "d9cbeb3",
+      "type": "other",
+      "message": "Fix booking site domain per environment",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-05-05T13:44:08-03:00"
+    },
     {
       "hash": "16350ed",
       "type": "other",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-04-30T01:34:18-03:00"
-    },
-    {
-      "hash": "0727c2a",
-      "type": "other",
-      "message": "Merge pull request #23 from avirgili-eclub/feat/onboarding-plan-selection-trial-mvp",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-04-30T01:33:14-03:00"
     }
   ]
 }
