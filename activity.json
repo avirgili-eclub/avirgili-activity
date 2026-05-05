@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-05-05T14:04:30Z",
+  "updated_at": "2026-05-05T14:06:45Z",
   "commits": [
+    {
+      "hash": "16350ed",
+      "type": "other",
+      "message": "Merge pull request #17 from avirgili-eclub/dev",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-05-05T11:05:01-03:00"
+    },
     {
       "hash": "c7ac0d2",
       "type": "other",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-04-30T01:33:14-03:00"
-    },
-    {
-      "hash": "204b8f1",
-      "type": "fix",
-      "message": "sync EN experience years and update AgendateYA STT labels",
-      "repo": "whoami-virgilitech",
-      "repo_display": "Whoami Virgilitech",
-      "timestamp": "2026-04-30T01:30:34-03:00"
     }
   ]
 }
