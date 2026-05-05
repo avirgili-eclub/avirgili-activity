@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-05-05T02:41:16Z",
+  "updated_at": "2026-05-05T13:56:47Z",
   "commits": [
+    {
+      "hash": "b942b99",
+      "type": "feat",
+      "message": ": add social media URL fields to tenant profile",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-05T10:56:29-03:00"
+    },
     {
       "hash": "c1f5f56",
       "type": "other",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-04-30T01:15:51-03:00"
-    },
-    {
-      "hash": "5f14b5b",
-      "type": "other",
-      "message": "Merge pull request #14 from avirgili-eclub/dev",
-      "repo": "agendateya-landing",
-      "repo_display": "AgendateYa Website",
-      "timestamp": "2026-04-29T00:14:04-03:00"
     }
   ]
 }
