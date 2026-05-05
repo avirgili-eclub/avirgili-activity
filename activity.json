@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-05-05T18:51:16Z",
+  "updated_at": "2026-05-05T18:54:28Z",
   "commits": [
+    {
+      "hash": "4b5f4cb",
+      "type": "other",
+      "message": "Merge pull request #19 from avirgili-eclub/dev",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-05-05T15:54:18-03:00"
+    },
     {
       "hash": "f337bd9",
       "type": "style",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-05-01T16:26:08-03:00"
-    },
-    {
-      "hash": "7a5bebc",
-      "type": "fix",
-      "message": ": increase multipart size limit to 10MB",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-01T16:26:02-03:00"
     }
   ]
 }
