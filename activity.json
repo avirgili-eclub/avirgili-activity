@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-05-05T18:50:33Z",
+  "updated_at": "2026-05-05T18:51:16Z",
   "commits": [
+    {
+      "hash": "f337bd9",
+      "type": "style",
+      "message": "compact resource cards and global UI sizing",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-05-05T15:50:57-03:00"
+    },
     {
       "hash": "193f023",
       "type": "test",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-05-01T16:26:02-03:00"
-    },
-    {
-      "hash": "280477a",
-      "type": "feat",
-      "message": "implement white-label booking config, branding uploads, and secure preview token flow",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-01T11:54:50-03:00"
     }
   ]
 }
