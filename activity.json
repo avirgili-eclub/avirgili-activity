@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-05-05T13:57:11Z",
+  "updated_at": "2026-05-05T14:04:30Z",
   "commits": [
+    {
+      "hash": "c7ac0d2",
+      "type": "other",
+      "message": "Fix tenant settings typecheck null guard",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-05-05T11:04:00-03:00"
+    },
     {
       "hash": "9a41a22",
       "type": "other",
@@ -152,14 +160,6 @@
       "repo": "whoami-virgilitech",
       "repo_display": "Whoami Virgilitech",
       "timestamp": "2026-04-30T01:30:34-03:00"
-    },
-    {
-      "hash": "45869f3",
-      "type": "fix",
-      "message": ": rename V60 migration to V61 to avoid conflict with existing V60",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-04-30T01:17:44-03:00"
     }
   ]
 }
