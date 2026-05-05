@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-05-05T18:37:08Z",
+  "updated_at": "2026-05-05T18:50:33Z",
   "commits": [
+    {
+      "hash": "193f023",
+      "type": "test",
+      "message": "fix BookingResponse and Booking constructor calls after new fields",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-05T15:50:05-03:00"
+    },
     {
       "hash": "d49c06e",
       "type": "feat",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-05-01T11:54:50-03:00"
-    },
-    {
-      "hash": "fcd6e61",
-      "type": "fix",
-      "message": ": resolve FileStoragePort bean not found on startup",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-01T03:06:26-03:00"
     }
   ]
 }
