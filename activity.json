@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-05-05T18:54:28Z",
+  "updated_at": "2026-05-07T02:15:34Z",
   "commits": [
+    {
+      "hash": "ffe9c0f",
+      "type": "feat",
+      "message": ": mostrar cod. de reserva",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-05-06T23:15:13-03:00"
+    },
     {
       "hash": "4b5f4cb",
       "type": "other",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-05-01T16:29:31-03:00"
-    },
-    {
-      "hash": "b9924a1",
-      "type": "other",
-      "message": "Fix branding uploads to use multipart FormData and show full image previews",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-05-01T16:26:08-03:00"
     }
   ]
 }
