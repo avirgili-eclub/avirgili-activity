@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-05-07T19:50:26Z",
+  "updated_at": "2026-05-07T20:21:35Z",
   "commits": [
+    {
+      "hash": "993fb67",
+      "type": "other",
+      "message": "Clientes: abrir detalle de turno sin panel anidado",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-05-07T17:21:15-03:00"
+    },
     {
       "hash": "0cc2945",
       "type": "other",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-05-04T23:41:07-03:00"
-    },
-    {
-      "hash": "b17ecfb",
-      "type": "feat",
-      "message": ": add ElevenLabs as second voice provider",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-04T01:31:27-03:00"
     }
   ]
 }
