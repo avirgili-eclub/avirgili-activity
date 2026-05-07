@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-05-07T20:28:49Z",
+  "updated_at": "2026-05-07T21:01:32Z",
   "commits": [
+    {
+      "hash": "e01c339",
+      "type": "other",
+      "message": "Fix mobile marquee drag behavior",
+      "repo": "agendateya-landing",
+      "repo_display": "AgendateYa Website",
+      "timestamp": "2026-05-07T18:01:10-03:00"
+    },
     {
       "hash": "eee3c3f",
       "type": "other",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-05-05T10:56:46-03:00"
-    },
-    {
-      "hash": "b942b99",
-      "type": "feat",
-      "message": ": add social media URL fields to tenant profile",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-05T10:56:29-03:00"
     }
   ]
 }
