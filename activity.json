@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-05-07T21:03:12Z",
+  "updated_at": "2026-05-08T18:35:11Z",
   "commits": [
+    {
+      "hash": "1b2cfa1",
+      "type": "other",
+      "message": "Fix iOS industries scroll and legal contact",
+      "repo": "agendateya-landing",
+      "repo_display": "AgendateYa Website",
+      "timestamp": "2026-05-08T15:34:58-03:00"
+    },
     {
       "hash": "5b6bfba",
       "type": "other",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-05-05T11:05:01-03:00"
-    },
-    {
-      "hash": "c7ac0d2",
-      "type": "other",
-      "message": "Fix tenant settings typecheck null guard",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-05-05T11:04:00-03:00"
     }
   ]
 }
