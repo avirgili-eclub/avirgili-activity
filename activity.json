@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-05-08T18:35:11Z",
+  "updated_at": "2026-05-08T18:39:19Z",
   "commits": [
+    {
+      "hash": "84555e6",
+      "type": "other",
+      "message": "Merge pull request #16 from avirgili-eclub/dev",
+      "repo": "agendateya-landing",
+      "repo_display": "AgendateYa Website",
+      "timestamp": "2026-05-08T15:39:06-03:00"
+    },
     {
       "hash": "1b2cfa1",
       "type": "other",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-05-05T13:44:08-03:00"
-    },
-    {
-      "hash": "16350ed",
-      "type": "other",
-      "message": "Merge pull request #17 from avirgili-eclub/dev",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-05-05T11:05:01-03:00"
     }
   ]
 }
