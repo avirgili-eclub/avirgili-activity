@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-05-09T16:07:58Z",
+  "updated_at": "2026-05-09T16:11:13Z",
   "commits": [
+    {
+      "hash": "df3ea8d",
+      "type": "other",
+      "message": "Merge pull request #25 from avirgili-eclub/dev",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-05-09T13:11:06-03:00"
+    },
     {
       "hash": "e049086",
       "type": "other",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-05-06T23:15:13-03:00"
-    },
-    {
-      "hash": "c11dd07",
-      "type": "feat",
-      "message": ": add reservationCode public identifier",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-06T23:15:12-03:00"
     }
   ]
 }
