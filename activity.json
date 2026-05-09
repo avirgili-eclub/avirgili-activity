@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-05-09T17:46:53Z",
+  "updated_at": "2026-05-09T18:00:45Z",
   "commits": [
+    {
+      "hash": "847057c",
+      "type": "fix",
+      "message": "mejorar trazas de webhook whatsapp",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-09T15:00:32-03:00"
+    },
     {
       "hash": "1ef6a3b",
       "type": "feat",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-05-07T17:21:15-03:00"
-    },
-    {
-      "hash": "0cc2945",
-      "type": "other",
-      "message": "Improve branding UX and reuse booking detail panel in dashboard",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-05-07T16:50:04-03:00"
     }
   ]
 }
