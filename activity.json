@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-05-08T18:39:19Z",
+  "updated_at": "2026-05-09T13:25:56Z",
   "commits": [
+    {
+      "hash": "087572a",
+      "type": "feat",
+      "message": "robustecer availability y reagendamiento IA",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-09T09:53:05-03:00"
+    },
     {
       "hash": "84555e6",
       "type": "other",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-05-05T13:45:07-03:00"
-    },
-    {
-      "hash": "d9cbeb3",
-      "type": "other",
-      "message": "Fix booking site domain per environment",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-05-05T13:44:08-03:00"
     }
   ]
 }
