@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-05-09T17:44:39Z",
+  "updated_at": "2026-05-09T17:46:53Z",
   "commits": [
+    {
+      "hash": "1ef6a3b",
+      "type": "feat",
+      "message": "Add Markdown bold support in chat bubbles",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-05-09T14:46:36-03:00"
+    },
     {
       "hash": "092b83b",
       "type": "feat",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-05-07T16:50:04-03:00"
-    },
-    {
-      "hash": "77b7f04",
-      "type": "feat",
-      "message": ": improve AI color suggestion prompt for visual coherence",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-07T16:40:14-03:00"
     }
   ]
 }
