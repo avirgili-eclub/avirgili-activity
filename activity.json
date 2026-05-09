@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-05-09T15:36:06Z",
+  "updated_at": "2026-05-09T15:44:41Z",
   "commits": [
+    {
+      "hash": "02c9dee",
+      "type": "other",
+      "message": "Merge pull request #22 from avirgili-eclub/claude/romantic-mcnulty-853958",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-05-09T12:44:32-03:00"
+    },
+    {
+      "hash": "bf3e928",
+      "type": "fix",
+      "message": ": sort messages by createdAt ASC on page merge",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-05-09T12:38:17-03:00"
+    },
     {
       "hash": "26bccb5",
       "type": "feat",
@@ -144,22 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-05-05T15:50:05-03:00"
-    },
-    {
-      "hash": "d49c06e",
-      "type": "feat",
-      "message": ": add R2 image upload via multipart/form-data",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-05T15:36:45-03:00"
-    },
-    {
-      "hash": "bd69ef4",
-      "type": "feat",
-      "message": ": store google calendar htmlLink and send template URL via WhatsApp bot",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-05T15:36:36-03:00"
     }
   ]
 }
