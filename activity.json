@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-05-09T18:00:45Z",
+  "updated_at": "2026-05-09T22:41:51Z",
   "commits": [
+    {
+      "hash": "c555651",
+      "type": "chore",
+      "message": "trigger deploy",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-09T19:41:39-03:00"
+    },
     {
       "hash": "847057c",
       "type": "fix",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-05-07T17:28:34-03:00"
-    },
-    {
-      "hash": "993fb67",
-      "type": "other",
-      "message": "Clientes: abrir detalle de turno sin panel anidado",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-05-07T17:21:15-03:00"
     }
   ]
 }
