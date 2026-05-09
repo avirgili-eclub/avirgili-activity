@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-05-09T15:48:35Z",
+  "updated_at": "2026-05-09T16:07:58Z",
   "commits": [
+    {
+      "hash": "e049086",
+      "type": "other",
+      "message": "Merge pull request #24 from avirgili-eclub/claude/romantic-mcnulty-853958",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-05-09T13:07:50-03:00"
+    },
+    {
+      "hash": "b725ff0",
+      "type": "feat",
+      "message": ": render markdown links and wrap long text in chat bubbles",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-05-09T12:58:34-03:00"
+    },
     {
       "hash": "49efa5c",
       "type": "other",
@@ -144,22 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-05-06T23:15:12-03:00"
-    },
-    {
-      "hash": "4b5f4cb",
-      "type": "other",
-      "message": "Merge pull request #19 from avirgili-eclub/dev",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-05-05T15:54:18-03:00"
-    },
-    {
-      "hash": "f337bd9",
-      "type": "style",
-      "message": "compact resource cards and global UI sizing",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-05-05T15:50:57-03:00"
     }
   ]
 }
