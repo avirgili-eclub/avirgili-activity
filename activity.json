@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-05-09T22:41:51Z",
+  "updated_at": "2026-05-10T17:38:16Z",
   "commits": [
+    {
+      "hash": "c09501f",
+      "type": "fix",
+      "message": "limpiar log de webhook status",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-10T13:02:46-03:00"
+    },
     {
       "hash": "c555651",
       "type": "chore",
@@ -152,14 +160,6 @@
       "repo": "agendateya-landing",
       "repo_display": "AgendateYa Website",
       "timestamp": "2026-05-07T18:01:10-03:00"
-    },
-    {
-      "hash": "eee3c3f",
-      "type": "other",
-      "message": "Merge pull request #21 from avirgili-eclub/dev",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-05-07T17:28:34-03:00"
     }
   ]
 }
