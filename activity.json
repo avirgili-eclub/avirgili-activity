@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-05-10T17:38:16Z",
+  "updated_at": "2026-05-11T20:03:22Z",
   "commits": [
+    {
+      "hash": "5d16c82",
+      "type": "other",
+      "message": "Mejora fechas del agente WhatsApp",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-11T17:03:06-03:00"
+    },
     {
       "hash": "c09501f",
       "type": "fix",
@@ -152,14 +160,6 @@
       "repo": "agendateya-landing",
       "repo_display": "AgendateYa Website",
       "timestamp": "2026-05-07T18:03:01-03:00"
-    },
-    {
-      "hash": "e01c339",
-      "type": "other",
-      "message": "Fix mobile marquee drag behavior",
-      "repo": "agendateya-landing",
-      "repo_display": "AgendateYa Website",
-      "timestamp": "2026-05-07T18:01:10-03:00"
     }
   ]
 }
