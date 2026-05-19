@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-05-19T21:19:13Z",
+  "updated_at": "2026-05-19T21:22:46Z",
   "commits": [
+    {
+      "hash": "209bd67",
+      "type": "feat",
+      "message": "Enhance memberships admin with creation, subscriptions, and locations",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-05-19T18:22:35-03:00"
+    },
     {
       "hash": "4060c9e",
       "type": "chore",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-05-19T12:29:33-03:00"
-    },
-    {
-      "hash": "cc0003f",
-      "type": "fix",
-      "message": ": limpiar cache al cerrar sesión",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-05-19T12:00:14-03:00"
     }
   ]
 }
