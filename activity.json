@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-05-19T21:07:43Z",
+  "updated_at": "2026-05-19T21:13:00Z",
   "commits": [
+    {
+      "hash": "df77a5c",
+      "type": "feat",
+      "message": ": agregar mapa en locales",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-05-19T18:12:49-03:00"
+    },
     {
       "hash": "43ad5e9",
       "type": "feat",
@@ -8,6 +16,14 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-05-19T18:02:41-03:00"
+    },
+    {
+      "hash": "f8e4b84",
+      "type": "feat",
+      "message": ": add map-based coordinates",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-05-19T18:00:11-03:00"
     },
     {
       "hash": "0e10f5d",
@@ -144,22 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-05-19T11:41:22-03:00"
-    },
-    {
-      "hash": "5d16c82",
-      "type": "other",
-      "message": "Mejora fechas del agente WhatsApp",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-11T17:03:06-03:00"
-    },
-    {
-      "hash": "c09501f",
-      "type": "fix",
-      "message": "limpiar log de webhook status",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-10T13:02:46-03:00"
     }
   ]
 }
