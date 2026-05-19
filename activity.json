@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-05-19T19:07:36Z",
+  "updated_at": "2026-05-19T19:36:28Z",
   "commits": [
+    {
+      "hash": "bfb7d27",
+      "type": "other",
+      "message": "Merge pull request #27 from avirgili-eclub/claude/festive-neumann-9660cb",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-19T16:36:19-03:00"
+    },
+    {
+      "hash": "a4717db",
+      "type": "fix",
+      "message": ": batch-load resources and services in GetMySubscriptionUseCase to eliminate N+1 queries",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-19T16:35:20-03:00"
+    },
     {
       "hash": "dc448f1",
       "type": "feat",
@@ -144,22 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-05-09T14:42:03-03:00"
-    },
-    {
-      "hash": "df3ea8d",
-      "type": "other",
-      "message": "Merge pull request #25 from avirgili-eclub/dev",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-05-09T13:11:06-03:00"
-    },
-    {
-      "hash": "e049086",
-      "type": "other",
-      "message": "Merge pull request #24 from avirgili-eclub/claude/romantic-mcnulty-853958",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-05-09T13:07:50-03:00"
     }
   ]
 }
