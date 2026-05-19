@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-05-19T21:22:46Z",
+  "updated_at": "2026-05-19T22:24:34Z",
   "commits": [
+    {
+      "hash": "6d71a3d",
+      "type": "fix",
+      "message": ": move app.storage config from waba to app prefix, add debug logs",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-19T19:24:22-03:00"
+    },
     {
       "hash": "209bd67",
       "type": "feat",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-05-19T12:37:02-03:00"
-    },
-    {
-      "hash": "0193296",
-      "type": "feat",
-      "message": ": enabledByTenant module toggle — second activation layer",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-19T12:29:33-03:00"
     }
   ]
 }
