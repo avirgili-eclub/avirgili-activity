@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-05-19T17:35:10Z",
+  "updated_at": "2026-05-19T19:07:36Z",
   "commits": [
+    {
+      "hash": "dc448f1",
+      "type": "feat",
+      "message": ": per-professional booking notification via Spring Events",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-19T16:07:21-03:00"
+    },
     {
       "hash": "0677cf0",
       "type": "feat",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-05-09T13:07:50-03:00"
-    },
-    {
-      "hash": "b725ff0",
-      "type": "feat",
-      "message": ": render markdown links and wrap long text in chat bubbles",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-05-09T12:58:34-03:00"
     }
   ]
 }
