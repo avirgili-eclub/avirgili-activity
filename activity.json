@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-05-19T21:13:00Z",
+  "updated_at": "2026-05-19T21:19:13Z",
   "commits": [
+    {
+      "hash": "4060c9e",
+      "type": "chore",
+      "message": ": remove admin-client-memberships sdd docs",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-05-19T18:18:53-03:00"
+    },
     {
       "hash": "df77a5c",
       "type": "feat",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-05-19T12:00:14-03:00"
-    },
-    {
-      "hash": "9171aa3",
-      "type": "fix",
-      "message": ": corregir overlays de paneles",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-05-19T11:41:22-03:00"
     }
   ]
 }
