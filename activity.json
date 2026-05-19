@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-05-19T20:21:50Z",
+  "updated_at": "2026-05-19T21:02:52Z",
   "commits": [
+    {
+      "hash": "43ad5e9",
+      "type": "feat",
+      "message": ": expose latitude/longitude in create and update API",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-19T18:02:41-03:00"
+    },
     {
       "hash": "0e10f5d",
       "type": "feat",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-05-10T13:02:46-03:00"
-    },
-    {
-      "hash": "c555651",
-      "type": "chore",
-      "message": "trigger deploy",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-09T19:41:39-03:00"
     }
   ]
 }
