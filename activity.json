@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-05-19T15:57:16Z",
+  "updated_at": "2026-05-19T17:35:10Z",
   "commits": [
+    {
+      "hash": "0677cf0",
+      "type": "feat",
+      "message": ": pilates & membership model — B2C client subscriptions",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-19T14:34:56-03:00"
+    },
+    {
+      "hash": "50c537c",
+      "type": "test",
+      "message": "fix TenantCapabilitiesControllerTest missing MockBean + GetUpcomingBookings stubEnrichment duplicate key",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-19T13:10:43-03:00"
+    },
     {
       "hash": "433ace8",
       "type": "other",
@@ -24,6 +40,30 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-05-19T12:49:28-03:00"
+    },
+    {
+      "hash": "5142f9e",
+      "type": "other",
+      "message": "updated aplication properties",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-19T12:48:32-03:00"
+    },
+    {
+      "hash": "868c3f2",
+      "type": "refactor",
+      "message": ": merge TenantSettingsController into TenantController",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-19T12:37:02-03:00"
+    },
+    {
+      "hash": "0193296",
+      "type": "feat",
+      "message": ": enabledByTenant module toggle — second activation layer",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-19T12:29:33-03:00"
     },
     {
       "hash": "cc0003f",
@@ -120,46 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-05-09T12:58:34-03:00"
-    },
-    {
-      "hash": "49efa5c",
-      "type": "other",
-      "message": "Merge pull request #23 from avirgili-eclub/dev",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-05-09T12:48:28-03:00"
-    },
-    {
-      "hash": "02c9dee",
-      "type": "other",
-      "message": "Merge pull request #22 from avirgili-eclub/claude/romantic-mcnulty-853958",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-05-09T12:44:32-03:00"
-    },
-    {
-      "hash": "bf3e928",
-      "type": "fix",
-      "message": ": sort messages by createdAt ASC on page merge",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-05-09T12:38:17-03:00"
-    },
-    {
-      "hash": "26bccb5",
-      "type": "feat",
-      "message": "mejorar trazabilidad whatsapp",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-09T12:35:53-03:00"
-    },
-    {
-      "hash": "b55cd45",
-      "type": "chore",
-      "message": "agregar MDC para tenant",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-09T12:20:09-03:00"
     }
   ]
 }
