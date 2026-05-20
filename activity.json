@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-05-19T22:24:34Z",
+  "updated_at": "2026-05-20T19:20:33Z",
   "commits": [
+    {
+      "hash": "376d604",
+      "type": "feat",
+      "message": ": shared booking create form with client search",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-05-20T16:20:17-03:00"
+    },
+    {
+      "hash": "2447138",
+      "type": "fix",
+      "message": ": corregir z-index de dropdowns en side panels",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-05-20T14:10:44-03:00"
+    },
     {
       "hash": "6d71a3d",
       "type": "fix",
@@ -144,22 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-05-19T12:49:28-03:00"
-    },
-    {
-      "hash": "5142f9e",
-      "type": "other",
-      "message": "updated aplication properties",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-19T12:48:32-03:00"
-    },
-    {
-      "hash": "868c3f2",
-      "type": "refactor",
-      "message": ": merge TenantSettingsController into TenantController",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-19T12:37:02-03:00"
     }
   ]
 }
