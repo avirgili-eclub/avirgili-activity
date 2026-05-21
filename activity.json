@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-21T11:16:23Z",
+  "updated_at": "2026-05-21T11:29:15Z",
   "commits": [
     {
       "hash": "ed251eb",
@@ -16,6 +16,14 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-05-21T08:15:29-03:00"
+    },
+    {
+      "hash": "249a320",
+      "type": "feat",
+      "message": ": recovery flag + 60min cupos grid + booking kind badge",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-05-21T08:15:21-03:00"
     },
     {
       "hash": "5ea247d",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-05-19T18:12:49-03:00"
-    },
-    {
-      "hash": "43ad5e9",
-      "type": "feat",
-      "message": ": expose latitude/longitude in create and update API",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-19T18:02:41-03:00"
     }
   ]
 }
