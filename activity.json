@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-05-21T18:56:32Z",
+  "updated_at": "2026-05-21T19:19:08Z",
   "commits": [
+    {
+      "hash": "15d0ebb",
+      "type": "feat",
+      "message": ": show quota breakdown",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-05-21T16:18:58-03:00"
+    },
     {
       "hash": "4da4a1f",
       "type": "feat",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-05-20T17:46:06-03:00"
-    },
-    {
-      "hash": "376d604",
-      "type": "feat",
-      "message": ": shared booking create form with client search",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-05-20T16:20:17-03:00"
     }
   ]
 }
