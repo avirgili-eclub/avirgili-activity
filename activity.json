@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-05-21T00:38:28Z",
+  "updated_at": "2026-05-21T11:15:41Z",
   "commits": [
+    {
+      "hash": "c3663de",
+      "type": "other",
+      "message": "Merge pull request #30 from avirgili-eclub/feat/booking-kind-enum",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-21T08:15:29-03:00"
+    },
+    {
+      "hash": "297e6d1",
+      "type": "other",
+      "message": "Merge remote-tracking branch origin/dev into feat/booking-kind-enum",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-20T21:40:35-03:00"
+    },
     {
       "hash": "3e8f821",
       "type": "other",
@@ -8,6 +24,22 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-05-20T21:38:20-03:00"
+    },
+    {
+      "hash": "747df18",
+      "type": "test",
+      "message": ": update direct BookingResponse constructors for new bookingKind fields",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-20T21:11:00-03:00"
+    },
+    {
+      "hash": "dc401df",
+      "type": "feat",
+      "message": ": expose bookingKind in all five booking response DTOs",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-20T21:10:53-03:00"
     },
     {
       "hash": "9d220a2",
@@ -128,38 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-05-19T17:18:50-03:00"
-    },
-    {
-      "hash": "6183aed",
-      "type": "test",
-      "message": ": mock ApplicationEventPublisher in CreateBookingUseCase tests",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-19T17:17:36-03:00"
-    },
-    {
-      "hash": "bfb7d27",
-      "type": "other",
-      "message": "Merge pull request #27 from avirgili-eclub/claude/festive-neumann-9660cb",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-19T16:36:19-03:00"
-    },
-    {
-      "hash": "a4717db",
-      "type": "fix",
-      "message": ": batch-load resources and services in GetMySubscriptionUseCase to eliminate N+1 queries",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-19T16:35:20-03:00"
-    },
-    {
-      "hash": "dc448f1",
-      "type": "feat",
-      "message": ": per-professional booking notification via Spring Events",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-19T16:07:21-03:00"
     }
   ]
 }
