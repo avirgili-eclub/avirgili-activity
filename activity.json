@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-05-20T19:20:33Z",
+  "updated_at": "2026-05-21T00:38:28Z",
   "commits": [
+    {
+      "hash": "3e8f821",
+      "type": "other",
+      "message": "Merge pull request #29 from avirgili-eclub/feat/auto-link-booking-to-subscription",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-20T21:38:20-03:00"
+    },
+    {
+      "hash": "9d220a2",
+      "type": "refactor",
+      "message": ": tag subscription link source and tighten concurrency test",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-20T19:55:54-03:00"
+    },
+    {
+      "hash": "7b7d538",
+      "type": "test",
+      "message": ": add 12 subscription auto-link unit tests and concurrency IT",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-20T17:52:57-03:00"
+    },
+    {
+      "hash": "5492b9a",
+      "type": "feat",
+      "message": ": auto-link booking to active client subscription",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-20T17:47:19-03:00"
+    },
+    {
+      "hash": "b3e6230",
+      "type": "feat",
+      "message": ": add pessimistic-locked port methods and JPA+adapter implementations",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-20T17:46:06-03:00"
+    },
     {
       "hash": "376d604",
       "type": "feat",
@@ -120,46 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-05-19T16:07:21-03:00"
-    },
-    {
-      "hash": "0677cf0",
-      "type": "feat",
-      "message": ": pilates & membership model — B2C client subscriptions",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-19T14:34:56-03:00"
-    },
-    {
-      "hash": "50c537c",
-      "type": "test",
-      "message": "fix TenantCapabilitiesControllerTest missing MockBean + GetUpcomingBookings stubEnrichment duplicate key",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-19T13:10:43-03:00"
-    },
-    {
-      "hash": "433ace8",
-      "type": "other",
-      "message": "Merge pull request #28 from avirgili-eclub/feat/admin-client-memberships",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-05-19T12:57:04-03:00"
-    },
-    {
-      "hash": "e8f13eb",
-      "type": "feat",
-      "message": ": completar flujo cliente/cupos",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-05-19T12:54:06-03:00"
-    },
-    {
-      "hash": "f2501a3",
-      "type": "feat",
-      "message": ": activación por tenant",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-05-19T12:49:28-03:00"
     }
   ]
 }
