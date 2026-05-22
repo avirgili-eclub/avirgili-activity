@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-05-22T04:09:17Z",
+  "updated_at": "2026-05-22T04:28:49Z",
   "commits": [
+    {
+      "hash": "9ba1b56",
+      "type": "feat",
+      "message": ": add billing identity fields to client entity",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-22T01:28:37-03:00"
+    },
     {
       "hash": "1c51775",
       "type": "feat",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-05-20T17:52:57-03:00"
-    },
-    {
-      "hash": "5492b9a",
-      "type": "feat",
-      "message": ": auto-link booking to active client subscription",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-20T17:47:19-03:00"
     }
   ]
 }
