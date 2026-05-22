@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-05-22T19:19:02Z",
+  "updated_at": "2026-05-22T20:18:27Z",
   "commits": [
+    {
+      "hash": "e8bd4b7",
+      "type": "other",
+      "message": "Merge pull request #37 from avirgili-eclub/feat/metrics-api-s1-data-infra",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-22T17:18:17-03:00"
+    },
+    {
+      "hash": "ab66407",
+      "type": "fix",
+      "message": ": make live client visits and professional topServices consistent with rollups",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-22T16:37:27-03:00"
+    },
+    {
+      "hash": "772f9ac",
+      "type": "test",
+      "message": ": cover adapter SQL shaping, cache wiring and 402 mapping",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-22T16:27:40-03:00"
+    },
+    {
+      "hash": "2916022",
+      "type": "feat",
+      "message": ": add read port, JDBC adapter, cache and 402 mapping",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-22T16:25:42-03:00"
+    },
+    {
+      "hash": "c6fc591",
+      "type": "feat",
+      "message": ": add metrics-api response DTOs and Granularity enum",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-22T16:22:30-03:00"
+    },
     {
       "hash": "9085658",
       "type": "feat",
@@ -120,46 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-05-21T08:15:29-03:00"
-    },
-    {
-      "hash": "249a320",
-      "type": "feat",
-      "message": ": recovery flag + 60min cupos grid + booking kind badge",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-05-21T08:15:21-03:00"
-    },
-    {
-      "hash": "5ea247d",
-      "type": "refactor",
-      "message": ": remove dead methods and deprecated factories",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-21T08:06:00-03:00"
-    },
-    {
-      "hash": "94e0892",
-      "type": "refactor",
-      "message": ": rename countQuotaConsumingBookings to countHistoricallyConsumedBookings",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-21T08:05:54-03:00"
-    },
-    {
-      "hash": "293a719",
-      "type": "test",
-      "message": ": reframe stale auto-link tests, add recovery and hasActiveSubscription scenarios",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-21T00:31:08-03:00"
-    },
-    {
-      "hash": "297e6d1",
-      "type": "other",
-      "message": "Merge remote-tracking branch origin/dev into feat/booking-kind-enum",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-20T21:40:35-03:00"
     }
   ]
 }
