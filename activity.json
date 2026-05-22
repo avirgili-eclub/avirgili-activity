@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-05-22T04:28:49Z",
+  "updated_at": "2026-05-22T19:19:02Z",
   "commits": [
+    {
+      "hash": "9085658",
+      "type": "feat",
+      "message": ": metrics-foundation — daily rollup data plumbing",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-22T16:18:51-03:00"
+    },
+    {
+      "hash": "cefa547",
+      "type": "docs",
+      "message": ": note intentional feature-flag gating on availability notifier",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-22T11:48:16-03:00"
+    },
+    {
+      "hash": "dbb22fe",
+      "type": "other",
+      "message": "Merge pull request #35 from avirgili-eclub/feat/metrics-foundation-s3-scheduler-notifier",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-22T11:40:13-03:00"
+    },
+    {
+      "hash": "56f7eb1",
+      "type": "fix",
+      "message": ": gate AvailabilityNotConfiguredNotifier behind metrics.feature.enabled",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-22T11:35:14-03:00"
+    },
+    {
+      "hash": "ddfc0fc",
+      "type": "test",
+      "message": ": add Slice 3 tests for scheduler, notifier, dedup, and recipient targeting",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-22T11:29:29-03:00"
+    },
     {
       "hash": "9ba1b56",
       "type": "feat",
@@ -120,46 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-05-20T21:40:35-03:00"
-    },
-    {
-      "hash": "3e8f821",
-      "type": "other",
-      "message": "Merge pull request #29 from avirgili-eclub/feat/auto-link-booking-to-subscription",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-20T21:38:20-03:00"
-    },
-    {
-      "hash": "747df18",
-      "type": "test",
-      "message": ": update direct BookingResponse constructors for new bookingKind fields",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-20T21:11:00-03:00"
-    },
-    {
-      "hash": "dc401df",
-      "type": "feat",
-      "message": ": expose bookingKind in all five booking response DTOs",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-20T21:10:53-03:00"
-    },
-    {
-      "hash": "9d220a2",
-      "type": "refactor",
-      "message": ": tag subscription link source and tighten concurrency test",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-20T19:55:54-03:00"
-    },
-    {
-      "hash": "7b7d538",
-      "type": "test",
-      "message": ": add 12 subscription auto-link unit tests and concurrency IT",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-20T17:52:57-03:00"
     }
   ]
 }
