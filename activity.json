@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-05-22T20:18:27Z",
+  "updated_at": "2026-05-22T23:22:01Z",
   "commits": [
+    {
+      "hash": "c58f8b4",
+      "type": "other",
+      "message": "Merge pull request #38 from avirgili-eclub/feat/metrics-api-s2-usecase-controller",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-22T20:21:49-03:00"
+    },
+    {
+      "hash": "b4a0bb5",
+      "type": "fix",
+      "message": ": clamp future range, scope professional topServices, include today in topResources",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-22T17:48:20-03:00"
+    },
+    {
+      "hash": "d210962",
+      "type": "test",
+      "message": ": add MetricsControllerTest and GetMetricsUseCaseTest for PR-2b",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-22T17:32:56-03:00"
+    },
+    {
+      "hash": "5d65b06",
+      "type": "feat",
+      "message": ": add MetricsController + MissingServletRequestParameterException handler",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-22T17:32:52-03:00"
+    },
+    {
+      "hash": "3575000",
+      "type": "feat",
+      "message": ": add GetMetricsUseCase — hybrid historical+live assembly",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-22T17:32:49-03:00"
+    },
     {
       "hash": "e8bd4b7",
       "type": "other",
@@ -120,46 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-05-21T15:50:06-03:00"
-    },
-    {
-      "hash": "0268591",
-      "type": "test",
-      "message": ": audit and extend tests for unified-quota-breakdown",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-21T15:18:48-03:00"
-    },
-    {
-      "hash": "1e06414",
-      "type": "feat",
-      "message": ": delete countHistoricallyConsumedBookings from port, JPA repo, and adapter",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-21T15:13:48-03:00"
-    },
-    {
-      "hash": "d357e29",
-      "type": "feat",
-      "message": ": wire computeBreakdown into all 7 use cases, remove countHistoricallyConsumedBookings usage",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-21T15:13:42-03:00"
-    },
-    {
-      "hash": "ed251eb",
-      "type": "other",
-      "message": "Merge pull request #31 from avirgili-eclub/feat/recovery-flag-and-quota-fix",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-21T08:16:11-03:00"
-    },
-    {
-      "hash": "c3663de",
-      "type": "other",
-      "message": "Merge pull request #30 from avirgili-eclub/feat/booking-kind-enum",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-21T08:15:29-03:00"
     }
   ]
 }
