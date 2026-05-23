@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-05-22T23:22:01Z",
+  "updated_at": "2026-05-23T23:21:40Z",
   "commits": [
+    {
+      "hash": "0539a0a",
+      "type": "fix",
+      "message": "classify NoResourceFoundException as 404 and reject null-tenant calls on /metrics/tenant with 400",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-23T19:40:33-03:00"
+    },
+    {
+      "hash": "d185e88",
+      "type": "feat",
+      "message": ": add admin backfill endpoint for arbitrary date ranges",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-23T18:50:42-03:00"
+    },
+    {
+      "hash": "82cac4d",
+      "type": "feat",
+      "message": ": expose display names in top-N responses + capabilities feature block",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-23T18:37:39-03:00"
+    },
     {
       "hash": "c58f8b4",
       "type": "other",
@@ -136,30 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-05-22T01:09:01-03:00"
-    },
-    {
-      "hash": "15d0ebb",
-      "type": "feat",
-      "message": ": show quota breakdown",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-05-21T16:18:58-03:00"
-    },
-    {
-      "hash": "4da4a1f",
-      "type": "feat",
-      "message": ": unified quota breakdown across admin + public channels",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-21T15:56:20-03:00"
-    },
-    {
-      "hash": "75a62b6",
-      "type": "refactor",
-      "message": ": convert QuotaBreakdown and DTO fields from long to int",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-21T15:50:06-03:00"
     }
   ]
 }
