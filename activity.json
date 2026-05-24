@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-05-24T15:46:00Z",
+  "updated_at": "2026-05-24T15:47:51Z",
   "commits": [
+    {
+      "hash": "3930bc5",
+      "type": "feat",
+      "message": ": revenue comparison chart",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-05-24T12:47:43-03:00"
+    },
     {
       "hash": "2ec4358",
       "type": "feat",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-05-22T20:21:49-03:00"
-    },
-    {
-      "hash": "b4a0bb5",
-      "type": "fix",
-      "message": ": clamp future range, scope professional topServices, include today in topResources",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-22T17:48:20-03:00"
     }
   ]
 }
