@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-05-24T00:40:09Z",
+  "updated_at": "2026-05-24T00:44:09Z",
   "commits": [
+    {
+      "hash": "aa005e8",
+      "type": "other",
+      "message": "merge metrics playwright fixtures",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-05-23T21:42:25-03:00"
+    },
+    {
+      "hash": "01ce07b",
+      "type": "fix",
+      "message": ": prevent mobile overflow in top cards",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-05-23T21:23:51-03:00"
+    },
+    {
+      "hash": "54f45b2",
+      "type": "fix",
+      "message": ": correct revenue tooltip label",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-05-23T20:32:59-03:00"
+    },
+    {
+      "hash": "da10277",
+      "type": "fix",
+      "message": ": tighten card density",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-05-23T20:27:01-03:00"
+    },
     {
       "hash": "0539a0a",
       "type": "fix",
@@ -24,6 +56,14 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-05-23T18:37:39-03:00"
+    },
+    {
+      "hash": "b038329",
+      "type": "fix",
+      "message": ": show top item names",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-05-23T16:56:35-03:00"
     },
     {
       "hash": "c72362c",
@@ -120,46 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-05-22T16:37:27-03:00"
-    },
-    {
-      "hash": "772f9ac",
-      "type": "test",
-      "message": ": cover adapter SQL shaping, cache wiring and 402 mapping",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-22T16:27:40-03:00"
-    },
-    {
-      "hash": "2916022",
-      "type": "feat",
-      "message": ": add read port, JDBC adapter, cache and 402 mapping",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-22T16:25:42-03:00"
-    },
-    {
-      "hash": "c6fc591",
-      "type": "feat",
-      "message": ": add metrics-api response DTOs and Granularity enum",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-22T16:22:30-03:00"
-    },
-    {
-      "hash": "9085658",
-      "type": "feat",
-      "message": ": metrics-foundation — daily rollup data plumbing",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-22T16:18:51-03:00"
-    },
-    {
-      "hash": "cefa547",
-      "type": "docs",
-      "message": ": note intentional feature-flag gating on availability notifier",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-22T11:48:16-03:00"
     }
   ]
 }
