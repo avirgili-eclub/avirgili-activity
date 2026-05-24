@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-05-24T00:44:09Z",
+  "updated_at": "2026-05-24T00:57:42Z",
   "commits": [
+    {
+      "hash": "1dffa46",
+      "type": "fix",
+      "message": ": allow closing occupancy warning",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-05-23T21:52:18-03:00"
+    },
     {
       "hash": "aa005e8",
       "type": "other",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-05-22T17:18:17-03:00"
-    },
-    {
-      "hash": "ab66407",
-      "type": "fix",
-      "message": ": make live client visits and professional topServices consistent with rollups",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-22T16:37:27-03:00"
     }
   ]
 }
