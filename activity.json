@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-05-24T01:32:57Z",
+  "updated_at": "2026-05-24T14:22:50Z",
   "commits": [
+    {
+      "hash": "9a2fd12",
+      "type": "fix",
+      "message": ": limitar top lists a 5",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-24T11:22:35-03:00"
+    },
     {
       "hash": "59c0438",
       "type": "feat",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-05-22T17:32:52-03:00"
-    },
-    {
-      "hash": "3575000",
-      "type": "feat",
-      "message": ": add GetMetricsUseCase — hybrid historical+live assembly",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-22T17:32:49-03:00"
     }
   ]
 }
