@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-05-24T22:46:12Z",
+  "updated_at": "2026-05-24T22:55:13Z",
   "commits": [
+    {
+      "hash": "f6f7fb7",
+      "type": "feat",
+      "message": ": canonicalize booking notification targets",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-24T19:55:00-03:00"
+    },
     {
       "hash": "c3c6395",
       "type": "other",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-05-23T11:46:01-03:00"
-    },
-    {
-      "hash": "4ddb19c",
-      "type": "other",
-      "message": "merge metrics page ui",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-05-23T01:56:17-03:00"
     }
   ]
 }
