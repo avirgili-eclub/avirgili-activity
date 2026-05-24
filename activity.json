@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-05-24T00:57:42Z",
+  "updated_at": "2026-05-24T01:32:57Z",
   "commits": [
+    {
+      "hash": "59c0438",
+      "type": "feat",
+      "message": ": ship metrics module updates",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-05-23T22:32:49-03:00"
+    },
     {
       "hash": "1dffa46",
       "type": "fix",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-05-22T17:32:49-03:00"
-    },
-    {
-      "hash": "e8bd4b7",
-      "type": "other",
-      "message": "Merge pull request #37 from avirgili-eclub/feat/metrics-api-s1-data-infra",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-22T17:18:17-03:00"
     }
   ]
 }
