@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-05-24T16:58:04Z",
+  "updated_at": "2026-05-24T22:04:10Z",
   "commits": [
+    {
+      "hash": "3e9fb6a",
+      "type": "fix",
+      "message": ": support legacy notification deep links",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-05-24T19:03:59-03:00"
+    },
     {
       "hash": "c243058",
       "type": "fix",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-05-23T01:56:13-03:00"
-    },
-    {
-      "hash": "146a6c9",
-      "type": "other",
-      "message": "merge metrics foundation",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-05-23T01:44:29-03:00"
     }
   ]
 }
