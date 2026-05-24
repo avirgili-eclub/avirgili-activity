@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-23T23:21:40Z",
+  "updated_at": "2026-05-24T00:40:09Z",
   "commits": [
     {
       "hash": "0539a0a",
@@ -24,6 +24,46 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-05-23T18:37:39-03:00"
+    },
+    {
+      "hash": "c72362c",
+      "type": "other",
+      "message": "merge metrics states qa",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-05-23T11:46:09-03:00"
+    },
+    {
+      "hash": "4b88017",
+      "type": "feat",
+      "message": ": polish metrics states",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-05-23T11:46:01-03:00"
+    },
+    {
+      "hash": "4ddb19c",
+      "type": "other",
+      "message": "merge metrics page ui",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-05-23T01:56:17-03:00"
+    },
+    {
+      "hash": "3e9f945",
+      "type": "feat",
+      "message": ": add metrics page UI",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-05-23T01:56:13-03:00"
+    },
+    {
+      "hash": "146a6c9",
+      "type": "other",
+      "message": "merge metrics foundation",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-05-23T01:44:29-03:00"
     },
     {
       "hash": "c58f8b4",
@@ -120,46 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-05-22T11:48:16-03:00"
-    },
-    {
-      "hash": "dbb22fe",
-      "type": "other",
-      "message": "Merge pull request #35 from avirgili-eclub/feat/metrics-foundation-s3-scheduler-notifier",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-22T11:40:13-03:00"
-    },
-    {
-      "hash": "56f7eb1",
-      "type": "fix",
-      "message": ": gate AvailabilityNotConfiguredNotifier behind metrics.feature.enabled",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-22T11:35:14-03:00"
-    },
-    {
-      "hash": "ddfc0fc",
-      "type": "test",
-      "message": ": add Slice 3 tests for scheduler, notifier, dedup, and recipient targeting",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-22T11:29:29-03:00"
-    },
-    {
-      "hash": "9ba1b56",
-      "type": "feat",
-      "message": ": add billing identity fields to client entity",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-22T01:28:37-03:00"
-    },
-    {
-      "hash": "1c51775",
-      "type": "feat",
-      "message": ": add billing side panel",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-05-22T01:09:01-03:00"
     }
   ]
 }
