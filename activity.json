@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-05-24T15:45:27Z",
+  "updated_at": "2026-05-24T15:46:00Z",
   "commits": [
+    {
+      "hash": "2ec4358",
+      "type": "feat",
+      "message": ": add revenue comparison endpoints",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-24T12:45:45-03:00"
+    },
     {
       "hash": "1962b1a",
       "type": "feat",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-05-22T17:48:20-03:00"
-    },
-    {
-      "hash": "d210962",
-      "type": "test",
-      "message": ": add MetricsControllerTest and GetMetricsUseCaseTest for PR-2b",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-22T17:32:56-03:00"
     }
   ]
 }
