@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-05-25T19:36:45Z",
+  "updated_at": "2026-05-25T19:37:59Z",
   "commits": [
+    {
+      "hash": "50a7888",
+      "type": "feat",
+      "message": ": scheduling policy settings in admin",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-05-25T16:37:49-03:00"
+    },
     {
       "hash": "e061c16",
       "type": "feat",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-05-23T20:27:01-03:00"
-    },
-    {
-      "hash": "0539a0a",
-      "type": "fix",
-      "message": "classify NoResourceFoundException as 404 and reject null-tenant calls on /metrics/tenant with 400",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-23T19:40:33-03:00"
     }
   ]
 }
