@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-05-25T19:07:11Z",
+  "updated_at": "2026-05-25T19:16:58Z",
   "commits": [
+    {
+      "hash": "0ca168d",
+      "type": "fix",
+      "message": ": resolve policy verify warnings",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-25T16:16:47-03:00"
+    },
     {
       "hash": "dd16d97",
       "type": "feat",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-05-23T18:50:42-03:00"
-    },
-    {
-      "hash": "82cac4d",
-      "type": "feat",
-      "message": ": expose display names in top-N responses + capabilities feature block",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-23T18:37:39-03:00"
     }
   ]
 }
