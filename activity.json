@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-05-25T19:06:05Z",
+  "updated_at": "2026-05-25T19:06:14Z",
   "commits": [
+    {
+      "hash": "06f1d50",
+      "type": "feat",
+      "message": ": expose admin policy settings",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-25T11:19:01-03:00"
+    },
     {
       "hash": "8b63cab",
       "type": "feat",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-05-23T16:56:35-03:00"
-    },
-    {
-      "hash": "c72362c",
-      "type": "other",
-      "message": "merge metrics states qa",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-05-23T11:46:09-03:00"
     }
   ]
 }
