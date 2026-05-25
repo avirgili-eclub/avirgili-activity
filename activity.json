@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-05-25T19:16:58Z",
+  "updated_at": "2026-05-25T19:36:45Z",
   "commits": [
+    {
+      "hash": "e061c16",
+      "type": "feat",
+      "message": ": add scheduling policy settings management",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-05-25T16:36:29-03:00"
+    },
     {
       "hash": "0ca168d",
       "type": "fix",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-05-23T19:40:33-03:00"
-    },
-    {
-      "hash": "d185e88",
-      "type": "feat",
-      "message": ": add admin backfill endpoint for arbitrary date ranges",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-23T18:50:42-03:00"
     }
   ]
 }
