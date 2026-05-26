@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-05-26T19:36:14Z",
+  "updated_at": "2026-05-26T19:57:41Z",
   "commits": [
+    {
+      "hash": "cbb9365",
+      "type": "feat",
+      "message": ": add manual outbound chat send with 24h window guard",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-26T16:55:05-03:00"
+    },
     {
       "hash": "aac6c6a",
       "type": "feat",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-05-23T21:52:18-03:00"
-    },
-    {
-      "hash": "aa005e8",
-      "type": "other",
-      "message": "merge metrics playwright fixtures",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-05-23T21:42:25-03:00"
     }
   ]
 }
