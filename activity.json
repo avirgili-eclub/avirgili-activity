@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-05-26T18:47:16Z",
+  "updated_at": "2026-05-26T19:36:14Z",
   "commits": [
+    {
+      "hash": "aac6c6a",
+      "type": "feat",
+      "message": ": add Kapso provider and tenant integration endpoints",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-26T16:34:32-03:00"
+    },
     {
       "hash": "54fb284",
       "type": "feat",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-05-23T21:42:25-03:00"
-    },
-    {
-      "hash": "01ce07b",
-      "type": "fix",
-      "message": ": prevent mobile overflow in top cards",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-05-23T21:23:51-03:00"
     }
   ]
 }
