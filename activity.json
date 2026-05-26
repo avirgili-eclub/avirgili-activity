@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-05-26T18:19:15Z",
+  "updated_at": "2026-05-26T18:47:16Z",
   "commits": [
+    {
+      "hash": "54fb284",
+      "type": "feat",
+      "message": ": add provider foundation",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-26T15:35:11-03:00"
+    },
     {
       "hash": "6820fc7",
       "type": "fix",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-05-23T21:23:51-03:00"
-    },
-    {
-      "hash": "54f45b2",
-      "type": "fix",
-      "message": ": correct revenue tooltip label",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-05-23T20:32:59-03:00"
     }
   ]
 }
