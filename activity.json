@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-05-27T14:16:10Z",
+  "updated_at": "2026-05-27T14:39:34Z",
   "commits": [
+    {
+      "hash": "9e66342",
+      "type": "feat",
+      "message": ": polish onboarding UX and tests",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-05-27T11:39:19-03:00"
+    },
+    {
+      "hash": "3153bd1",
+      "type": "feat",
+      "message": ": polish onboarding UX and tests",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-05-27T11:34:29-03:00"
+    },
     {
       "hash": "0a16f5e",
       "type": "feat",
@@ -144,22 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-05-25T16:37:49-03:00"
-    },
-    {
-      "hash": "e061c16",
-      "type": "feat",
-      "message": ": add scheduling policy settings management",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-05-25T16:36:29-03:00"
-    },
-    {
-      "hash": "0ca168d",
-      "type": "fix",
-      "message": ": resolve policy verify warnings",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-25T16:16:47-03:00"
     }
   ]
 }
