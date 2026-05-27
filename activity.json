@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-05-27T16:53:28Z",
+  "updated_at": "2026-05-27T17:12:23Z",
   "commits": [
+    {
+      "hash": "742351b",
+      "type": "feat",
+      "message": ": Implement WhatsApp Business integration with onboarding and UI updates",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-05-27T14:12:09-03:00"
+    },
     {
       "hash": "da21fb6",
       "type": "style",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-05-27T09:50:37-03:00"
-    },
-    {
-      "hash": "35d8eea",
-      "type": "feat",
-      "message": ": add Kapso onboarding provider and self-serve start endpoint",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-27T09:33:24-03:00"
     }
   ]
 }
