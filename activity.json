@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-05-27T15:38:33Z",
+  "updated_at": "2026-05-27T15:47:12Z",
   "commits": [
+    {
+      "hash": "2e34510",
+      "type": "feat",
+      "message": ": open onboarding in popup",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-05-27T12:46:58-03:00"
+    },
+    {
+      "hash": "a00a3e8",
+      "type": "feat",
+      "message": ": open onboarding in popup",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-05-27T12:41:51-03:00"
+    },
     {
       "hash": "5f39e4c",
       "type": "chore",
@@ -144,22 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-05-26T16:55:05-03:00"
-    },
-    {
-      "hash": "aac6c6a",
-      "type": "feat",
-      "message": ": add Kapso provider and tenant integration endpoints",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-26T16:34:32-03:00"
-    },
-    {
-      "hash": "54fb284",
-      "type": "feat",
-      "message": ": add provider foundation",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-26T15:35:11-03:00"
     }
   ]
 }
