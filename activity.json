@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-05-27T16:21:30Z",
+  "updated_at": "2026-05-27T16:40:32Z",
   "commits": [
+    {
+      "hash": "124e1f7",
+      "type": "fix",
+      "message": ": resolve onboarding session by most-recent to avoid NonUniqueResult",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-27T13:40:18-03:00"
+    },
     {
       "hash": "ec70069",
       "type": "fix",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-05-27T09:30:14-03:00"
-    },
-    {
-      "hash": "6893543",
-      "type": "feat",
-      "message": ": add whatsapp business service contract",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-05-27T01:16:00-03:00"
     }
   ]
 }
