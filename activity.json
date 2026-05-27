@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-05-27T13:44:47Z",
+  "updated_at": "2026-05-27T14:16:10Z",
   "commits": [
+    {
+      "hash": "0a16f5e",
+      "type": "feat",
+      "message": ": add self-serve onboarding contract",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-05-27T11:15:53-03:00"
+    },
+    {
+      "hash": "98eb9fe",
+      "type": "feat",
+      "message": ": add self-serve onboarding contract",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-05-27T11:12:10-03:00"
+    },
     {
       "hash": "fc5c110",
       "type": "fix",
@@ -144,22 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-05-25T16:16:47-03:00"
-    },
-    {
-      "hash": "dd16d97",
-      "type": "feat",
-      "message": ": apply policy to booking flow",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-25T11:36:56-03:00"
-    },
-    {
-      "hash": "06f1d50",
-      "type": "feat",
-      "message": ": expose admin policy settings",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-25T11:19:01-03:00"
     }
   ]
 }
