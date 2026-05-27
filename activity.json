@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-05-26T19:57:41Z",
+  "updated_at": "2026-05-27T04:06:00Z",
   "commits": [
+    {
+      "hash": "adde868",
+      "type": "feat",
+      "message": ": add provider-neutral onboarding foundation",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-27T01:04:23-03:00"
+    },
     {
       "hash": "cbb9365",
       "type": "feat",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-05-23T22:32:49-03:00"
-    },
-    {
-      "hash": "1dffa46",
-      "type": "fix",
-      "message": ": allow closing occupancy warning",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-05-23T21:52:18-03:00"
     }
   ]
 }
