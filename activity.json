@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-05-27T16:17:49Z",
+  "updated_at": "2026-05-27T16:21:30Z",
   "commits": [
+    {
+      "hash": "ec70069",
+      "type": "fix",
+      "message": ": prevent duplicate connect clicks",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-05-27T13:21:08-03:00"
+    },
     {
       "hash": "ca157be",
       "type": "fix",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-05-27T01:16:00-03:00"
-    },
-    {
-      "hash": "adde868",
-      "type": "feat",
-      "message": ": add provider-neutral onboarding foundation",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-27T01:04:23-03:00"
     }
   ]
 }
