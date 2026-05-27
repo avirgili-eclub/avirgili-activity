@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-05-27T13:24:56Z",
+  "updated_at": "2026-05-27T13:44:47Z",
   "commits": [
+    {
+      "hash": "fc5c110",
+      "type": "fix",
+      "message": ": correct Kapso customer payload and reuse customer by external id",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-27T10:44:25-03:00"
+    },
     {
       "hash": "c7e0a48",
       "type": "test",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-05-25T11:19:01-03:00"
-    },
-    {
-      "hash": "8b63cab",
-      "type": "feat",
-      "message": ": add tenant policy foundation",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-25T11:18:11-03:00"
     }
   ]
 }
