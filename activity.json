@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-05-27T04:06:00Z",
+  "updated_at": "2026-05-27T12:30:27Z",
   "commits": [
+    {
+      "hash": "74b591d",
+      "type": "feat",
+      "message": ": add whatsapp business service contract",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-05-27T09:30:14-03:00"
+    },
+    {
+      "hash": "6893543",
+      "type": "feat",
+      "message": ": add whatsapp business service contract",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-05-27T01:16:00-03:00"
+    },
     {
       "hash": "adde868",
       "type": "feat",
@@ -8,6 +24,14 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-05-27T01:04:23-03:00"
+    },
+    {
+      "hash": "e8832c2",
+      "type": "fix",
+      "message": "membership botton submite",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-05-26T23:32:08-03:00"
     },
     {
       "hash": "cbb9365",
@@ -136,30 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-05-24T12:45:45-03:00"
-    },
-    {
-      "hash": "1962b1a",
-      "type": "feat",
-      "message": ": add revenue comparison chart",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-05-24T12:45:12-03:00"
-    },
-    {
-      "hash": "9a2fd12",
-      "type": "fix",
-      "message": ": limitar top lists a 5",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-24T11:22:35-03:00"
-    },
-    {
-      "hash": "59c0438",
-      "type": "feat",
-      "message": ": ship metrics module updates",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-05-23T22:32:49-03:00"
     }
   ]
 }
