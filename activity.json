@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-05-27T13:10:34Z",
+  "updated_at": "2026-05-27T13:24:56Z",
   "commits": [
+    {
+      "hash": "c7e0a48",
+      "type": "test",
+      "message": ": cover whatsapp business journey",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-05-27T10:24:43-03:00"
+    },
+    {
+      "hash": "1120518",
+      "type": "test",
+      "message": ": cover whatsapp business journey",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-05-27T10:20:56-03:00"
+    },
     {
       "hash": "f2ff03d",
       "type": "feat",
@@ -144,22 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-05-25T11:18:11-03:00"
-    },
-    {
-      "hash": "f6f7fb7",
-      "type": "feat",
-      "message": ": canonicalize booking notification targets",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-24T19:55:00-03:00"
-    },
-    {
-      "hash": "c3c6395",
-      "type": "other",
-      "message": "Merge pull request #33 from avirgili-eclub/dev",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-05-24T19:46:04-03:00"
     }
   ]
 }
