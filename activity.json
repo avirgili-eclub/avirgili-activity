@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-05-27T15:59:47Z",
+  "updated_at": "2026-05-27T16:17:49Z",
   "commits": [
+    {
+      "hash": "ca157be",
+      "type": "fix",
+      "message": ": supersede stale onboarding sessions and handle phone_number.deleted",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-27T13:17:34-03:00"
+    },
     {
       "hash": "b1ba5dd",
       "type": "fix",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-05-27T01:04:23-03:00"
-    },
-    {
-      "hash": "e8832c2",
-      "type": "fix",
-      "message": "membership botton submite",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-05-26T23:32:08-03:00"
     }
   ]
 }
