@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-05-27T15:17:14Z",
+  "updated_at": "2026-05-27T15:38:33Z",
   "commits": [
+    {
+      "hash": "5f39e4c",
+      "type": "chore",
+      "message": "Update application properties open ai opt to use ENV",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-27T12:38:10-03:00"
+    },
     {
       "hash": "811a713",
       "type": "feat",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-05-26T15:35:11-03:00"
-    },
-    {
-      "hash": "6820fc7",
-      "type": "fix",
-      "message": ": enforce recurring quota projection",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-26T15:18:57-03:00"
     }
   ]
 }
