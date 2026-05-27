@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-05-27T17:12:23Z",
+  "updated_at": "2026-05-27T17:23:30Z",
   "commits": [
+    {
+      "hash": "0706547",
+      "type": "feat",
+      "message": ": enrich provisioned number with provider metadata (async + admin retry)",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-27T14:23:14-03:00"
+    },
     {
       "hash": "742351b",
       "type": "feat",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-05-27T10:02:25-03:00"
-    },
-    {
-      "hash": "f0c9b68",
-      "type": "feat",
-      "message": ": add whatsapp business card",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-05-27T09:50:37-03:00"
     }
   ]
 }
