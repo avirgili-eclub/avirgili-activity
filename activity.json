@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-05-27T15:47:12Z",
+  "updated_at": "2026-05-27T15:59:47Z",
   "commits": [
+    {
+      "hash": "b1ba5dd",
+      "type": "fix",
+      "message": ": read Kapso platform webhook event type from X-Webhook-Event header",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-27T12:59:32-03:00"
+    },
     {
       "hash": "2e34510",
       "type": "feat",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-05-26T23:32:08-03:00"
-    },
-    {
-      "hash": "cbb9365",
-      "type": "feat",
-      "message": ": add manual outbound chat send with 24h window guard",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-26T16:55:05-03:00"
     }
   ]
 }
