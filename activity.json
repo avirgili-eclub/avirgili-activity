@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-05-27T19:17:43Z",
+  "updated_at": "2026-05-28T14:26:04Z",
   "commits": [
+    {
+      "hash": "def8cfb",
+      "type": "feat",
+      "message": ": auto-register inbound message webhook and propagate disconnect to Kapso",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-28T11:25:48-03:00"
+    },
     {
       "hash": "3ed598a",
       "type": "fix",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-05-27T10:20:56-03:00"
-    },
-    {
-      "hash": "f2ff03d",
-      "type": "feat",
-      "message": ": add whatsapp business card",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-05-27T10:10:21-03:00"
     }
   ]
 }
