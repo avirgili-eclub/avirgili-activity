@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-05-28T14:26:04Z",
+  "updated_at": "2026-05-28T17:04:52Z",
   "commits": [
+    {
+      "hash": "5c17858",
+      "type": "feat",
+      "message": ": add inbound webhook retry UX",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-05-28T14:04:42-03:00"
+    },
+    {
+      "hash": "7799991",
+      "type": "feat",
+      "message": ": add inbound webhook retry UX",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-05-28T13:57:33-03:00"
+    },
     {
       "hash": "def8cfb",
       "type": "feat",
@@ -144,22 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-05-27T10:44:25-03:00"
-    },
-    {
-      "hash": "c7e0a48",
-      "type": "test",
-      "message": ": cover whatsapp business journey",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-05-27T10:24:43-03:00"
-    },
-    {
-      "hash": "1120518",
-      "type": "test",
-      "message": ": cover whatsapp business journey",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-05-27T10:20:56-03:00"
     }
   ]
 }
