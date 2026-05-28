@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-05-28T17:04:52Z",
+  "updated_at": "2026-05-28T17:08:49Z",
   "commits": [
+    {
+      "hash": "e70983e",
+      "type": "other",
+      "message": "Merge pull request #48 from avirgili-eclub/dev",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-05-28T14:08:39-03:00"
+    },
     {
       "hash": "5c17858",
       "type": "feat",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-05-27T11:12:10-03:00"
-    },
-    {
-      "hash": "fc5c110",
-      "type": "fix",
-      "message": ": correct Kapso customer payload and reuse customer by external id",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-27T10:44:25-03:00"
     }
   ]
 }
