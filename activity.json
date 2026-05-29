@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-05-28T18:37:28Z",
+  "updated_at": "2026-05-29T03:20:33Z",
   "commits": [
+    {
+      "hash": "7dce1b4",
+      "type": "chore",
+      "message": ": document OpenAI config swap (reasoning vs non-reasoning)",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-29T00:20:21-03:00"
+    },
     {
       "hash": "d582927",
       "type": "fix",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-05-27T12:38:10-03:00"
-    },
-    {
-      "hash": "811a713",
-      "type": "feat",
-      "message": ": brand Kapso onboarding page with es language and Veinticuatro7 theme",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-27T12:16:58-03:00"
     }
   ]
 }
