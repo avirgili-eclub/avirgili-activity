@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-05-29T17:27:56Z",
+  "updated_at": "2026-05-29T17:31:33Z",
   "commits": [
+    {
+      "hash": "6647a94",
+      "type": "feat",
+      "message": ": email verification gate + branded transactional emails + password recovery hardening",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-29T14:31:21-03:00"
+    },
     {
       "hash": "152861c",
       "type": "feat",
@@ -16,6 +24,38 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-05-29T14:24:41-03:00"
+    },
+    {
+      "hash": "7c84bbf",
+      "type": "other",
+      "message": "Merge pull request #54 from avirgili-eclub/feat/evr-b5-login-block",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-29T10:45:26-03:00"
+    },
+    {
+      "hash": "034567f",
+      "type": "fix",
+      "message": ": PR5 verify follow-ups W1+W2+S1",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-29T10:44:51-03:00"
+    },
+    {
+      "hash": "136e44a",
+      "type": "test",
+      "message": ": cover login block flag combinations and G1 regression guard (EMAIL_NOT_VERIFIED)",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-29T10:35:26-03:00"
+    },
+    {
+      "hash": "cd6a0c0",
+      "type": "chore",
+      "message": ": set email-verification.required defaults per profile (prod=true via env, dev=false)",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-29T10:27:11-03:00"
     },
     {
       "hash": "7dce1b4",
@@ -120,46 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-05-27T13:53:14-03:00"
-    },
-    {
-      "hash": "124e1f7",
-      "type": "fix",
-      "message": ": resolve onboarding session by most-recent to avoid NonUniqueResult",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-27T13:40:18-03:00"
-    },
-    {
-      "hash": "ec70069",
-      "type": "fix",
-      "message": ": prevent duplicate connect clicks",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-05-27T13:21:08-03:00"
-    },
-    {
-      "hash": "ca157be",
-      "type": "fix",
-      "message": ": supersede stale onboarding sessions and handle phone_number.deleted",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-27T13:17:34-03:00"
-    },
-    {
-      "hash": "b1ba5dd",
-      "type": "fix",
-      "message": ": read Kapso platform webhook event type from X-Webhook-Event header",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-27T12:59:32-03:00"
-    },
-    {
-      "hash": "2e34510",
-      "type": "feat",
-      "message": ": open onboarding in popup",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-05-27T12:46:58-03:00"
     }
   ]
 }
