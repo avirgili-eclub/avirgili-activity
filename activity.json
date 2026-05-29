@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-05-29T03:20:33Z",
+  "updated_at": "2026-05-29T17:27:56Z",
   "commits": [
+    {
+      "hash": "152861c",
+      "type": "feat",
+      "message": ": align email verification and recovery UX",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-05-29T14:27:43-03:00"
+    },
+    {
+      "hash": "15375fc",
+      "type": "other",
+      "message": "﻿feat(auth): align email verification and recovery UX",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-05-29T14:24:41-03:00"
+    },
     {
       "hash": "7dce1b4",
       "type": "chore",
@@ -144,22 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-05-27T12:46:58-03:00"
-    },
-    {
-      "hash": "a00a3e8",
-      "type": "feat",
-      "message": ": open onboarding in popup",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-05-27T12:41:51-03:00"
-    },
-    {
-      "hash": "5f39e4c",
-      "type": "chore",
-      "message": "Update application properties open ai opt to use ENV",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-27T12:38:10-03:00"
     }
   ]
 }
