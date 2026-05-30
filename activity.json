@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-05-29T17:31:33Z",
+  "updated_at": "2026-05-30T04:17:08Z",
   "commits": [
+    {
+      "hash": "751cfb0",
+      "type": "other",
+      "message": "Merge pull request #56 from avirgili-eclub/feat/whatsapp-reminders-foundation",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-30T01:16:58-03:00"
+    },
+    {
+      "hash": "efc0692",
+      "type": "fix",
+      "message": ": fail-fast on null templateKey and wrap Meta sendTemplate stub",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-30T01:12:21-03:00"
+    },
+    {
+      "hash": "d0774df",
+      "type": "feat",
+      "message": ": extend send seam with sendTemplate and add template provider resolver",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-30T00:46:23-03:00"
+    },
+    {
+      "hash": "8498d70",
+      "type": "feat",
+      "message": ": add persistence stack for tenant templates and booking reminders",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-30T00:46:07-03:00"
+    },
+    {
+      "hash": "c67d8bb",
+      "type": "feat",
+      "message": ": add domain models, enums, VOs, and ports for reminder foundation",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-30T00:45:52-03:00"
+    },
     {
       "hash": "6647a94",
       "type": "feat",
@@ -120,46 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-05-28T13:57:33-03:00"
-    },
-    {
-      "hash": "def8cfb",
-      "type": "feat",
-      "message": ": auto-register inbound message webhook and propagate disconnect to Kapso",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-28T11:25:48-03:00"
-    },
-    {
-      "hash": "3ed598a",
-      "type": "fix",
-      "message": ": logout no muestra mensaje de sesión expirada (#46)",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-05-27T16:17:29-03:00"
-    },
-    {
-      "hash": "0706547",
-      "type": "feat",
-      "message": ": enrich provisioned number with provider metadata (async + admin retry)",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-27T14:23:14-03:00"
-    },
-    {
-      "hash": "742351b",
-      "type": "feat",
-      "message": ": Implement WhatsApp Business integration with onboarding and UI updates",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-05-27T14:12:09-03:00"
-    },
-    {
-      "hash": "da21fb6",
-      "type": "style",
-      "message": ": use lighter brand blue (#2c4f82) as Kapso setup-link primary",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-27T13:53:14-03:00"
     }
   ]
 }
