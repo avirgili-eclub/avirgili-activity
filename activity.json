@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-05-30T04:17:08Z",
+  "updated_at": "2026-05-30T05:11:58Z",
   "commits": [
+    {
+      "hash": "4c6e804",
+      "type": "other",
+      "message": "Merge pull request #57 from avirgili-eclub/feat/whatsapp-reminders-template-lifecycle",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-30T02:11:49-03:00"
+    },
+    {
+      "hash": "6aa1860",
+      "type": "docs",
+      "message": ": document REJECTED template as intentionally terminal",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-30T02:04:33-03:00"
+    },
+    {
+      "hash": "654a9c5",
+      "type": "fix",
+      "message": ": gate template-init listener by feature flag and harden init race",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-30T02:00:19-03:00"
+    },
+    {
+      "hash": "687e6fd",
+      "type": "feat",
+      "message": ": WhatsAppTemplateStatusScheduler + config + repository extension",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-30T01:51:00-03:00"
+    },
+    {
+      "hash": "0544ffb",
+      "type": "feat",
+      "message": ": WhatsAppReminderTemplateInitListener",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-30T01:50:40-03:00"
+    },
     {
       "hash": "751cfb0",
       "type": "other",
@@ -120,46 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-05-28T15:15:03-03:00"
-    },
-    {
-      "hash": "19f946e",
-      "type": "fix",
-      "message": ": use max-completion-tokens for OpenAI reasoning models (gpt-5*)",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-28T15:08:02-03:00"
-    },
-    {
-      "hash": "72b96c2",
-      "type": "fix",
-      "message": ": re-activate stale row and re-trigger async work on re-onboarding",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-28T15:00:44-03:00"
-    },
-    {
-      "hash": "e70983e",
-      "type": "other",
-      "message": "Merge pull request #48 from avirgili-eclub/dev",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-05-28T14:08:39-03:00"
-    },
-    {
-      "hash": "5c17858",
-      "type": "feat",
-      "message": ": add inbound webhook retry UX",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-05-28T14:04:42-03:00"
-    },
-    {
-      "hash": "7799991",
-      "type": "feat",
-      "message": ": add inbound webhook retry UX",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-05-28T13:57:33-03:00"
     }
   ]
 }
