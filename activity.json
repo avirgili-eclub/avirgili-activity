@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-05-30T05:11:58Z",
+  "updated_at": "2026-05-31T22:47:10Z",
   "commits": [
+    {
+      "hash": "9b8939b",
+      "type": "other",
+      "message": "Merge pull request #58 from avirgili-eclub/feat/whatsapp-reminders-dispatch",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-31T19:46:59-03:00"
+    },
+    {
+      "hash": "344ff87",
+      "type": "fix",
+      "message": ": add example.body_text to template submission payload",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-30T13:19:56-03:00"
+    },
+    {
+      "hash": "56948c8",
+      "type": "fix",
+      "message": ": null-tenant guard, bounded follow-up query, idempotency comment, resolved timezone",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-30T03:02:39-03:00"
+    },
+    {
+      "hash": "9dd7a07",
+      "type": "fix",
+      "message": ": use Locale.ROOT for Maps URL coordinates to prevent comma-decimal on es/fr JVMs",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-30T03:02:23-03:00"
+    },
+    {
+      "hash": "84dc194",
+      "type": "feat",
+      "message": ": BookingReminderScheduler — TEMPLATE_24H idempotency + sendFollowups() with 24h-window check",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-05-30T02:38:01-03:00"
+    },
     {
       "hash": "4c6e804",
       "type": "other",
@@ -120,46 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-05-29T10:44:51-03:00"
-    },
-    {
-      "hash": "136e44a",
-      "type": "test",
-      "message": ": cover login block flag combinations and G1 regression guard (EMAIL_NOT_VERIFIED)",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-29T10:35:26-03:00"
-    },
-    {
-      "hash": "cd6a0c0",
-      "type": "chore",
-      "message": ": set email-verification.required defaults per profile (prod=true via env, dev=false)",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-29T10:27:11-03:00"
-    },
-    {
-      "hash": "7dce1b4",
-      "type": "chore",
-      "message": ": document OpenAI config swap (reasoning vs non-reasoning)",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-29T00:20:21-03:00"
-    },
-    {
-      "hash": "d582927",
-      "type": "fix",
-      "message": ": fix application properties for use of the model gpt reasoning gpt-5-mini",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-28T15:37:09-03:00"
-    },
-    {
-      "hash": "494df05",
-      "type": "fix",
-      "message": ": support both reasoning and non-reasoning OpenAI models without yml changes",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-28T15:15:03-03:00"
     }
   ]
 }
