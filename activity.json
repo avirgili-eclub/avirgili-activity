@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-05-31T22:47:10Z",
+  "updated_at": "2026-06-01T12:16:58Z",
   "commits": [
+    {
+      "hash": "3bd60be",
+      "type": "other",
+      "message": "Merge pull request #59 from avirgili-eclub/feat/whatsapp-subscription-expiry",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-06-01T09:16:45-03:00"
+    },
+    {
+      "hash": "3940efe",
+      "type": "feat",
+      "message": ": DB-backed template catalog + 24h subscription expiry warning + admin endpoints",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-06-01T09:14:56-03:00"
+    },
     {
       "hash": "9b8939b",
       "type": "other",
@@ -144,22 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-05-29T14:24:41-03:00"
-    },
-    {
-      "hash": "7c84bbf",
-      "type": "other",
-      "message": "Merge pull request #54 from avirgili-eclub/feat/evr-b5-login-block",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-29T10:45:26-03:00"
-    },
-    {
-      "hash": "034567f",
-      "type": "fix",
-      "message": ": PR5 verify follow-ups W1+W2+S1",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-29T10:44:51-03:00"
     }
   ]
 }
