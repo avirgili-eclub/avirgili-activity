@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-06-02T17:48:52Z",
+  "updated_at": "2026-06-02T18:50:03Z",
   "commits": [
+    {
+      "hash": "8454eda",
+      "type": "refactor",
+      "message": ": centralize entity to Virtech Studio and migrate emails",
+      "repo": "agendateya-landing",
+      "repo_display": "Veinticuatro7 Website",
+      "timestamp": "2026-06-02T15:49:07-03:00"
+    },
+    {
+      "hash": "bfc9933",
+      "type": "fix",
+      "message": ": lower seed baseline to 15 and reconcile counter to server total",
+      "repo": "agendateya-landing",
+      "repo_display": "Veinticuatro7 Website",
+      "timestamp": "2026-06-02T15:48:57-03:00"
+    },
+    {
+      "hash": "2d21543",
+      "type": "fix",
+      "message": "update whitelist counter in real-time after successful signup",
+      "repo": "agendateya-landing",
+      "repo_display": "Veinticuatro7 Website",
+      "timestamp": "2026-06-02T15:00:08-03:00"
+    },
     {
       "hash": "60ca683",
       "type": "refactor",
@@ -136,30 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-05-30T02:38:01-03:00"
-    },
-    {
-      "hash": "4c6e804",
-      "type": "other",
-      "message": "Merge pull request #57 from avirgili-eclub/feat/whatsapp-reminders-template-lifecycle",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-30T02:11:49-03:00"
-    },
-    {
-      "hash": "6aa1860",
-      "type": "docs",
-      "message": ": document REJECTED template as intentionally terminal",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-30T02:04:33-03:00"
-    },
-    {
-      "hash": "654a9c5",
-      "type": "fix",
-      "message": ": gate template-init listener by feature flag and harden init race",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-30T02:00:19-03:00"
     }
   ]
 }
