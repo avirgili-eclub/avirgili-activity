@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-06-02T13:46:43Z",
+  "updated_at": "2026-06-02T16:55:21Z",
   "commits": [
+    {
+      "hash": "b12dc56",
+      "type": "refactor",
+      "message": "rebrand AgendateYA to Veinticuatro7",
+      "repo": "agendateya-landing",
+      "repo_display": "Veinticuatro7 Website",
+      "timestamp": "2026-06-02T13:53:55-03:00"
+    },
     {
       "hash": "91de7d3",
       "type": "other",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-05-30T01:50:40-03:00"
-    },
-    {
-      "hash": "751cfb0",
-      "type": "other",
-      "message": "Merge pull request #56 from avirgili-eclub/feat/whatsapp-reminders-foundation",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-30T01:16:58-03:00"
     }
   ]
 }
