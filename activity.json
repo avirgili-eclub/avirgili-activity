@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-06-02T02:48:33Z",
+  "updated_at": "2026-06-02T03:27:20Z",
   "commits": [
+    {
+      "hash": "f9f4ce7",
+      "type": "other",
+      "message": ": make production deploy a manual workflow_dispatch gate",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-06-02T00:27:10-03:00"
+    },
     {
       "hash": "954e0fc",
       "type": "other",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-05-30T01:12:21-03:00"
-    },
-    {
-      "hash": "d0774df",
-      "type": "feat",
-      "message": ": extend send seam with sendTemplate and add template provider resolver",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-30T00:46:23-03:00"
     }
   ]
 }
