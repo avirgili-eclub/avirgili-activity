@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-06-02T16:55:21Z",
+  "updated_at": "2026-06-02T17:11:29Z",
   "commits": [
+    {
+      "hash": "b255394",
+      "type": "refactor",
+      "message": "point canonical domain and platform CTAs to veinticuatro7.app",
+      "repo": "agendateya-landing",
+      "repo_display": "Veinticuatro7 Website",
+      "timestamp": "2026-06-02T14:10:24-03:00"
+    },
     {
       "hash": "b12dc56",
       "type": "refactor",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-05-30T01:51:00-03:00"
-    },
-    {
-      "hash": "0544ffb",
-      "type": "feat",
-      "message": ": WhatsAppReminderTemplateInitListener",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-30T01:50:40-03:00"
     }
   ]
 }
