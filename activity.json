@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-06-02T18:50:03Z",
+  "updated_at": "2026-06-02T19:10:39Z",
   "commits": [
+    {
+      "hash": "de67188",
+      "type": "fix",
+      "message": ": recategorize subscription expiry template to UTILITY-safe wording",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-06-02T16:10:21-03:00"
+    },
     {
       "hash": "8454eda",
       "type": "refactor",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-05-30T03:02:23-03:00"
-    },
-    {
-      "hash": "84dc194",
-      "type": "feat",
-      "message": ": BookingReminderScheduler — TEMPLATE_24H idempotency + sendFollowups() with 24h-window check",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-30T02:38:01-03:00"
     }
   ]
 }
