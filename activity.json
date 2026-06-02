@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-06-02T03:27:20Z",
+  "updated_at": "2026-06-02T13:46:43Z",
   "commits": [
+    {
+      "hash": "91de7d3",
+      "type": "other",
+      "message": "Merge pull request #60 from avirgili-eclub/dev",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-06-02T10:46:27-03:00"
+    },
     {
       "hash": "f9f4ce7",
       "type": "other",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-05-30T01:16:58-03:00"
-    },
-    {
-      "hash": "efc0692",
-      "type": "fix",
-      "message": ": fail-fast on null templateKey and wrap Meta sendTemplate stub",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-30T01:12:21-03:00"
     }
   ]
 }
