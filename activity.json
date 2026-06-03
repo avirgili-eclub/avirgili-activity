@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-06-03T02:00:43Z",
+  "updated_at": "2026-06-03T20:41:59Z",
   "commits": [
+    {
+      "hash": "4101b8d",
+      "type": "feat",
+      "message": ": add searchable business specialty select",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-06-03T17:41:43-03:00"
+    },
     {
       "hash": "bd9dc18",
       "type": "other",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-06-01T09:14:56-03:00"
-    },
-    {
-      "hash": "9b8939b",
-      "type": "other",
-      "message": "Merge pull request #58 from avirgili-eclub/feat/whatsapp-reminders-dispatch",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-31T19:46:59-03:00"
     }
   ]
 }
