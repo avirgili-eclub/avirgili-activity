@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-06-03T01:49:34Z",
+  "updated_at": "2026-06-03T01:59:12Z",
   "commits": [
+    {
+      "hash": "feac624",
+      "type": "other",
+      "message": "add release-triggered production deploy for admin site",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-06-02T22:58:48-03:00"
+    },
     {
       "hash": "8d92fd0",
       "type": "fix",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-05-30T13:19:56-03:00"
-    },
-    {
-      "hash": "56948c8",
-      "type": "fix",
-      "message": ": null-tenant guard, bounded follow-up query, idempotency comment, resolved timezone",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-30T03:02:39-03:00"
     }
   ]
 }
