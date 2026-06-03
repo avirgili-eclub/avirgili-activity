@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-06-02T19:10:39Z",
+  "updated_at": "2026-06-03T01:49:34Z",
   "commits": [
+    {
+      "hash": "8d92fd0",
+      "type": "fix",
+      "message": ": recategorize subscription expiry template to UTILITY-safe wording",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-06-02T22:49:24-03:00"
+    },
     {
       "hash": "de67188",
       "type": "fix",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-05-30T03:02:39-03:00"
-    },
-    {
-      "hash": "9dd7a07",
-      "type": "fix",
-      "message": ": use Locale.ROOT for Maps URL coordinates to prevent comma-decimal on es/fr JVMs",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-30T03:02:23-03:00"
     }
   ]
 }
