@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-06-03T01:59:12Z",
+  "updated_at": "2026-06-03T02:00:43Z",
   "commits": [
+    {
+      "hash": "bd9dc18",
+      "type": "other",
+      "message": "add release-triggered production deploy for admin site",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-06-02T23:00:33-03:00"
+    },
     {
       "hash": "feac624",
       "type": "other",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-05-31T19:46:59-03:00"
-    },
-    {
-      "hash": "344ff87",
-      "type": "fix",
-      "message": ": add example.body_text to template submission payload",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-05-30T13:19:56-03:00"
     }
   ]
 }
