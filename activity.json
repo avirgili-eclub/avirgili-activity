@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-06-04T12:05:59Z",
+  "updated_at": "2026-06-04T18:29:27Z",
   "commits": [
+    {
+      "hash": "aecd7c6",
+      "type": "refactor",
+      "message": ": pass tenantId and caller identity via ToolContext instead of ThreadLocal",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-06-04T15:29:16-03:00"
+    },
+    {
+      "hash": "6781df2",
+      "type": "refactor",
+      "message": ": pass tenantId and caller identity via ToolContext instead of ThreadLocal",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-06-04T15:26:58-03:00"
+    },
     {
       "hash": "4fe3da4",
       "type": "feat",
@@ -144,22 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-06-01T23:48:18-03:00"
-    },
-    {
-      "hash": "efb71e1",
-      "type": "feat",
-      "message": ": show template approval status",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-06-01T12:54:43-03:00"
-    },
-    {
-      "hash": "43b782a",
-      "type": "feat",
-      "message": ": show template approval status",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-06-01T11:47:32-03:00"
     }
   ]
 }
