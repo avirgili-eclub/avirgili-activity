@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-06-03T20:41:59Z",
+  "updated_at": "2026-06-04T12:05:59Z",
   "commits": [
+    {
+      "hash": "4fe3da4",
+      "type": "feat",
+      "message": ": dynamic per-tenant subscription tool exposure",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-06-04T09:05:47-03:00"
+    },
+    {
+      "hash": "2f2801a",
+      "type": "feat",
+      "message": ": wire ConversationToolResolver into WhatsAppConversationService",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-06-04T01:01:36-03:00"
+    },
+    {
+      "hash": "3bcc275",
+      "type": "feat",
+      "message": ": add ConversationToolResolver with ToolSet value object",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-06-04T01:01:28-03:00"
+    },
+    {
+      "hash": "be026d6",
+      "type": "feat",
+      "message": ": add ListSubscriptionPlansTool for active subscription plans",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-06-04T01:01:20-03:00"
+    },
     {
       "hash": "4101b8d",
       "type": "feat",
@@ -128,38 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-06-01T11:47:32-03:00"
-    },
-    {
-      "hash": "c6f20c8",
-      "type": "feat",
-      "message": ": expose template approval status in admin integration status",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-06-01T11:43:01-03:00"
-    },
-    {
-      "hash": "38d868e",
-      "type": "fix",
-      "message": ": prevent wabaId lost-update on webhook register and fix reminder template body",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-06-01T11:06:25-03:00"
-    },
-    {
-      "hash": "3bd60be",
-      "type": "other",
-      "message": "Merge pull request #59 from avirgili-eclub/feat/whatsapp-subscription-expiry",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-06-01T09:16:45-03:00"
-    },
-    {
-      "hash": "3940efe",
-      "type": "feat",
-      "message": ": DB-backed template catalog + 24h subscription expiry warning + admin endpoints",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-06-01T09:14:56-03:00"
     }
   ]
 }
