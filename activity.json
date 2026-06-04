@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-06-04T18:50:59Z",
+  "updated_at": "2026-06-04T19:00:45Z",
   "commits": [
+    {
+      "hash": "f9090a8",
+      "type": "feat",
+      "message": ": add tenant plan status and usage",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-06-04T16:00:26-03:00"
+    },
     {
       "hash": "aecd7c6",
       "type": "refactor",
@@ -18,12 +26,36 @@
       "timestamp": "2026-06-04T15:26:58-03:00"
     },
     {
+      "hash": "b3981dc",
+      "type": "feat",
+      "message": ": enforce plan downgrade limits",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-06-04T15:18:17-03:00"
+    },
+    {
+      "hash": "43f5d49",
+      "type": "feat",
+      "message": ": meter whatsapp usage",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-06-04T09:26:39-03:00"
+    },
+    {
       "hash": "4fe3da4",
       "type": "feat",
       "message": ": dynamic per-tenant subscription tool exposure",
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-06-04T09:05:47-03:00"
+    },
+    {
+      "hash": "2049f35",
+      "type": "feat",
+      "message": ": add tenant status endpoint",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-06-04T08:59:53-03:00"
     },
     {
       "hash": "2f2801a",
@@ -128,38 +160,6 @@
       "repo": "agendateya-landing",
       "repo_display": "Veinticuatro7 Website",
       "timestamp": "2026-06-02T14:10:24-03:00"
-    },
-    {
-      "hash": "b12dc56",
-      "type": "refactor",
-      "message": "rebrand AgendateYA to Veinticuatro7",
-      "repo": "agendateya-landing",
-      "repo_display": "Veinticuatro7 Website",
-      "timestamp": "2026-06-02T13:53:55-03:00"
-    },
-    {
-      "hash": "91de7d3",
-      "type": "other",
-      "message": "Merge pull request #60 from avirgili-eclub/dev",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-06-02T10:46:27-03:00"
-    },
-    {
-      "hash": "f9f4ce7",
-      "type": "other",
-      "message": ": make production deploy a manual workflow_dispatch gate",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-06-02T00:27:10-03:00"
-    },
-    {
-      "hash": "954e0fc",
-      "type": "other",
-      "message": ": enable production deployment pipeline",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-06-01T23:48:18-03:00"
     }
   ]
 }
