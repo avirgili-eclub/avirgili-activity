@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-06-05T17:42:30Z",
+  "updated_at": "2026-06-05T17:44:59Z",
   "commits": [
+    {
+      "hash": "04496c5",
+      "type": "feat",
+      "message": ": improve plan usage UI",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-06-05T14:44:37-03:00"
+    },
     {
       "hash": "ee2fede",
       "type": "other",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-06-04T01:01:20-03:00"
-    },
-    {
-      "hash": "4101b8d",
-      "type": "feat",
-      "message": ": add searchable business specialty select",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-06-03T17:41:43-03:00"
     }
   ]
 }
