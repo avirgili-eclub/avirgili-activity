@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-06-05T02:20:57Z",
+  "updated_at": "2026-06-05T17:42:30Z",
   "commits": [
+    {
+      "hash": "ee2fede",
+      "type": "other",
+      "message": "Merge pull request #75 from avirgili-eclub/feat/subscription-status-v2",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-06-05T14:42:16-03:00"
+    },
+    {
+      "hash": "3b675b3",
+      "type": "other",
+      "message": "Merge pull request #73 from avirgili-eclub/feat/subscription-status-v2-pr3-status-contract",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-06-05T13:48:35-03:00"
+    },
+    {
+      "hash": "2b3177f",
+      "type": "other",
+      "message": "Merge pull request #74 from avirgili-eclub/feat/subscription-status-v2-pr2-limits",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-06-05T13:48:04-03:00"
+    },
+    {
+      "hash": "70a527b",
+      "type": "other",
+      "message": "Merge pull request #71 from avirgili-eclub/feat/subscription-status-v2-pr1-billing-foundation",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-06-05T13:42:50-03:00"
+    },
+    {
+      "hash": "bf5f397",
+      "type": "test",
+      "message": ": cover anonymous 401 and FREE billing null fields (verify W-1/W-2)",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-06-05T13:27:38-03:00"
+    },
     {
       "hash": "5982e02",
       "type": "feat",
@@ -120,46 +160,6 @@
       "repo": "agendate-ya-admin",
       "repo_display": "AgendateYa Admin",
       "timestamp": "2026-06-03T17:41:43-03:00"
-    },
-    {
-      "hash": "bd9dc18",
-      "type": "other",
-      "message": "add release-triggered production deploy for admin site",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-06-02T23:00:33-03:00"
-    },
-    {
-      "hash": "feac624",
-      "type": "other",
-      "message": "add release-triggered production deploy for admin site",
-      "repo": "agendate-ya-admin",
-      "repo_display": "AgendateYa Admin",
-      "timestamp": "2026-06-02T22:58:48-03:00"
-    },
-    {
-      "hash": "8d92fd0",
-      "type": "fix",
-      "message": ": recategorize subscription expiry template to UTILITY-safe wording",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-06-02T22:49:24-03:00"
-    },
-    {
-      "hash": "de67188",
-      "type": "fix",
-      "message": ": recategorize subscription expiry template to UTILITY-safe wording",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-06-02T16:10:21-03:00"
-    },
-    {
-      "hash": "8454eda",
-      "type": "refactor",
-      "message": ": centralize entity to Virtech Studio and migrate emails",
-      "repo": "agendateya-landing",
-      "repo_display": "Veinticuatro7 Website",
-      "timestamp": "2026-06-02T15:49:07-03:00"
     }
   ]
 }
