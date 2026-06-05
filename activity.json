@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-06-05T01:58:19Z",
+  "updated_at": "2026-06-05T02:20:57Z",
   "commits": [
+    {
+      "hash": "5982e02",
+      "type": "feat",
+      "message": ": add Google Maps link to location info",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-06-04T23:20:45-03:00"
+    },
     {
       "hash": "fdb3008",
       "type": "feat",
@@ -152,14 +160,6 @@
       "repo": "agendateya-landing",
       "repo_display": "Veinticuatro7 Website",
       "timestamp": "2026-06-02T15:49:07-03:00"
-    },
-    {
-      "hash": "bfc9933",
-      "type": "fix",
-      "message": ": lower seed baseline to 15 and reconcile counter to server total",
-      "repo": "agendateya-landing",
-      "repo_display": "Veinticuatro7 Website",
-      "timestamp": "2026-06-02T15:48:57-03:00"
     }
   ]
 }
