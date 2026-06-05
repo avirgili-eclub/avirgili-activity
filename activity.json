@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-06-05T00:33:48Z",
+  "updated_at": "2026-06-05T01:58:19Z",
   "commits": [
+    {
+      "hash": "fdb3008",
+      "type": "feat",
+      "message": ": typing indicator on debounce flush",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-06-04T22:58:11-03:00"
+    },
+    {
+      "hash": "580fa75",
+      "type": "feat",
+      "message": ": show typing indicator on debounce flush",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-06-04T22:41:42-03:00"
+    },
     {
       "hash": "44f8031",
       "type": "fix",
@@ -144,22 +160,6 @@
       "repo": "agendateya-landing",
       "repo_display": "Veinticuatro7 Website",
       "timestamp": "2026-06-02T15:48:57-03:00"
-    },
-    {
-      "hash": "2d21543",
-      "type": "fix",
-      "message": "update whitelist counter in real-time after successful signup",
-      "repo": "agendateya-landing",
-      "repo_display": "Veinticuatro7 Website",
-      "timestamp": "2026-06-02T15:00:08-03:00"
-    },
-    {
-      "hash": "60ca683",
-      "type": "refactor",
-      "message": "rebrand to Veinticuatro7 and migrate canonical domain to veinticuatro7.app",
-      "repo": "agendateya-landing",
-      "repo_display": "Veinticuatro7 Website",
-      "timestamp": "2026-06-02T14:48:37-03:00"
     }
   ]
 }
