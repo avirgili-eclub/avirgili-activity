@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-06-04T19:00:45Z",
+  "updated_at": "2026-06-05T00:33:48Z",
   "commits": [
+    {
+      "hash": "44f8031",
+      "type": "fix",
+      "message": ": enforce business scope and capability honesty in agent prompts",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-06-04T21:33:34-03:00"
+    },
     {
       "hash": "f9090a8",
       "type": "feat",
@@ -152,14 +160,6 @@
       "repo": "agendateya-landing",
       "repo_display": "Veinticuatro7 Website",
       "timestamp": "2026-06-02T14:48:37-03:00"
-    },
-    {
-      "hash": "b255394",
-      "type": "refactor",
-      "message": "point canonical domain and platform CTAs to veinticuatro7.app",
-      "repo": "agendateya-landing",
-      "repo_display": "Veinticuatro7 Website",
-      "timestamp": "2026-06-02T14:10:24-03:00"
     }
   ]
 }
