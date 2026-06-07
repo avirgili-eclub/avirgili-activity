@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-06-07T17:36:43Z",
+  "updated_at": "2026-06-07T17:50:48Z",
   "commits": [
+    {
+      "hash": "29acbb5",
+      "type": "feat",
+      "message": ": improve plan usage UI",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-06-07T14:50:38-03:00"
+    },
+    {
+      "hash": "01da5fb",
+      "type": "fix",
+      "message": ": map billing status labels",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-06-07T14:43:52-03:00"
+    },
     {
       "hash": "854cbfd",
       "type": "other",
@@ -144,22 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-06-04T15:26:58-03:00"
-    },
-    {
-      "hash": "b3981dc",
-      "type": "feat",
-      "message": ": enforce plan downgrade limits",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-06-04T15:18:17-03:00"
-    },
-    {
-      "hash": "43f5d49",
-      "type": "feat",
-      "message": ": meter whatsapp usage",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-06-04T09:26:39-03:00"
     }
   ]
 }
