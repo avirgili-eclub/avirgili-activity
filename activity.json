@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-06-07T18:12:49Z",
+  "updated_at": "2026-06-07T18:17:31Z",
   "commits": [
+    {
+      "hash": "fb5866d",
+      "type": "other",
+      "message": "billing + subscription-status v2, manual payments, calendar alert dedup",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-06-07T15:17:23-03:00"
+    },
     {
       "hash": "2388e48",
       "type": "fix",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-06-04T16:00:26-03:00"
-    },
-    {
-      "hash": "aecd7c6",
-      "type": "refactor",
-      "message": ": pass tenantId and caller identity via ToolContext instead of ThreadLocal",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-06-04T15:29:16-03:00"
     }
   ]
 }
