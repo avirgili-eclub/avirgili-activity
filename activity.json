@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-06-07T17:50:48Z",
+  "updated_at": "2026-06-07T18:12:49Z",
   "commits": [
+    {
+      "hash": "2388e48",
+      "type": "fix",
+      "message": ": dedupe Google Calendar sync-failure alerts per (recipient, type)",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-06-07T15:09:17-03:00"
+    },
     {
       "hash": "29acbb5",
       "type": "feat",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-06-04T15:29:16-03:00"
-    },
-    {
-      "hash": "6781df2",
-      "type": "refactor",
-      "message": ": pass tenantId and caller identity via ToolContext instead of ThreadLocal",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-06-04T15:26:58-03:00"
     }
   ]
 }
