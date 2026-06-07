@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-06-05T17:44:59Z",
+  "updated_at": "2026-06-07T17:36:43Z",
   "commits": [
+    {
+      "hash": "854cbfd",
+      "type": "other",
+      "message": "Merge pull request #79 from avirgili-eclub/feat/manual-billing-payment",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-06-07T14:36:35-03:00"
+    },
+    {
+      "hash": "789f01a",
+      "type": "feat",
+      "message": ": add GET /api/v1/admin/tenants/{tenantId}/payments with multi-role isolation and tests",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-06-06T21:06:46-03:00"
+    },
+    {
+      "hash": "9e514ae",
+      "type": "feat",
+      "message": ": add GetTenantPaymentHistoryUseCase for paginated payment history read",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-06-06T21:01:53-03:00"
+    },
+    {
+      "hash": "92c0c3f",
+      "type": "feat",
+      "message": ": add paginated port+adapter+JPA methods to TenantPaymentEventRepository",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-06-06T21:01:36-03:00"
+    },
+    {
+      "hash": "7ef31dc",
+      "type": "docs",
+      "message": ": confirm DataIntegrityViolationException re-throw is cleanly mapped (SUGG-3)",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-06-06T19:04:19-03:00"
+    },
     {
       "hash": "04496c5",
       "type": "feat",
@@ -120,46 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-06-04T09:26:39-03:00"
-    },
-    {
-      "hash": "4fe3da4",
-      "type": "feat",
-      "message": ": dynamic per-tenant subscription tool exposure",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-06-04T09:05:47-03:00"
-    },
-    {
-      "hash": "2049f35",
-      "type": "feat",
-      "message": ": add tenant status endpoint",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-06-04T08:59:53-03:00"
-    },
-    {
-      "hash": "2f2801a",
-      "type": "feat",
-      "message": ": wire ConversationToolResolver into WhatsAppConversationService",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-06-04T01:01:36-03:00"
-    },
-    {
-      "hash": "3bcc275",
-      "type": "feat",
-      "message": ": add ConversationToolResolver with ToolSet value object",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-06-04T01:01:28-03:00"
-    },
-    {
-      "hash": "be026d6",
-      "type": "feat",
-      "message": ": add ListSubscriptionPlansTool for active subscription plans",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-06-04T01:01:20-03:00"
     }
   ]
 }
