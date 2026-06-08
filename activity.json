@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-06-07T18:17:31Z",
+  "updated_at": "2026-06-08T15:31:36Z",
   "commits": [
+    {
+      "hash": "ad97774",
+      "type": "other",
+      "message": "trigger dev CI/CD from dev branch instead of main",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-06-08T12:26:55-03:00"
+    },
     {
       "hash": "fb5866d",
       "type": "other",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-06-04T21:33:34-03:00"
-    },
-    {
-      "hash": "f9090a8",
-      "type": "feat",
-      "message": ": add tenant plan status and usage",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-06-04T16:00:26-03:00"
     }
   ]
 }
