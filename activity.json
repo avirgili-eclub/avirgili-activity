@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-06-08T15:31:36Z",
+  "updated_at": "2026-06-09T16:38:06Z",
   "commits": [
+    {
+      "hash": "1103983",
+      "type": "feat",
+      "message": ": make upcoming classes clickable in subscription detail",
+      "repo": "agendate-ya-admin",
+      "repo_display": "AgendateYa Admin",
+      "timestamp": "2026-06-09T13:37:49-03:00"
+    },
     {
       "hash": "ad97774",
       "type": "other",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-06-04T22:41:42-03:00"
-    },
-    {
-      "hash": "44f8031",
-      "type": "fix",
-      "message": ": enforce business scope and capability honesty in agent prompts",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-06-04T21:33:34-03:00"
     }
   ]
 }
