@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-06-11T03:45:04Z",
+  "updated_at": "2026-06-11T03:49:10Z",
   "commits": [
+    {
+      "hash": "a760ab6",
+      "type": "other",
+      "message": "Merge pull request #18 from avirgili-eclub/dev",
+      "repo": "agendateya-landing",
+      "repo_display": "Veinticuatro7 Website",
+      "timestamp": "2026-06-11T00:49:00-03:00"
+    },
     {
       "hash": "73595b6",
       "type": "feat",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-06-05T13:27:38-03:00"
-    },
-    {
-      "hash": "5982e02",
-      "type": "feat",
-      "message": ": add Google Maps link to location info",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-06-04T23:20:45-03:00"
     }
   ]
 }
