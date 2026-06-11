@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-06-09T16:38:06Z",
+  "updated_at": "2026-06-11T03:32:17Z",
   "commits": [
+    {
+      "hash": "8d68e49",
+      "type": "fix",
+      "message": "remove pricing card ring offset gap",
+      "repo": "agendateya-landing",
+      "repo_display": "Veinticuatro7 Website",
+      "timestamp": "2026-06-11T00:31:59-03:00"
+    },
     {
       "hash": "1103983",
       "type": "feat",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-06-04T22:58:11-03:00"
-    },
-    {
-      "hash": "580fa75",
-      "type": "feat",
-      "message": ": show typing indicator on debounce flush",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-06-04T22:41:42-03:00"
     }
   ]
 }
