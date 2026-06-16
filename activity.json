@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-06-11T19:17:14Z",
+  "updated_at": "2026-06-16T17:32:43Z",
   "commits": [
+    {
+      "hash": "5fdb7ea",
+      "type": "docs",
+      "message": ": document intentional last-write-wins in ToolOutcomeHolder",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-06-16T14:32:31-03:00"
+    },
+    {
+      "hash": "d017faf",
+      "type": "fix",
+      "message": ": confirm completed reschedule/cancel when model returns empty content",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-06-16T14:08:53-03:00"
+    },
+    {
+      "hash": "b2f65de",
+      "type": "fix",
+      "message": ": confirm completed booking when model returns empty content after tool call",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-06-16T13:51:44-03:00"
+    },
     {
       "hash": "2fcda50",
       "type": "fix",
@@ -136,30 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-06-05T14:42:16-03:00"
-    },
-    {
-      "hash": "3b675b3",
-      "type": "other",
-      "message": "Merge pull request #73 from avirgili-eclub/feat/subscription-status-v2-pr3-status-contract",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-06-05T13:48:35-03:00"
-    },
-    {
-      "hash": "2b3177f",
-      "type": "other",
-      "message": "Merge pull request #74 from avirgili-eclub/feat/subscription-status-v2-pr2-limits",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-06-05T13:48:04-03:00"
-    },
-    {
-      "hash": "70a527b",
-      "type": "other",
-      "message": "Merge pull request #71 from avirgili-eclub/feat/subscription-status-v2-pr1-billing-foundation",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-06-05T13:42:50-03:00"
     }
   ]
 }
