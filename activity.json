@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-06-19T02:32:03Z",
+  "updated_at": "2026-06-19T02:40:37Z",
   "commits": [
+    {
+      "hash": "3654e68",
+      "type": "feat",
+      "message": ": auto-enable WhatsApp reminder channel on template approval",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-06-18T23:40:26-03:00"
+    },
     {
       "hash": "e56d53a",
       "type": "feat",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-06-06T21:01:53-03:00"
-    },
-    {
-      "hash": "92c0c3f",
-      "type": "feat",
-      "message": ": add paginated port+adapter+JPA methods to TenantPaymentEventRepository",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-06-06T21:01:36-03:00"
     }
   ]
 }
