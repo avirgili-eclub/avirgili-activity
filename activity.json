@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-06-16T21:38:11Z",
+  "updated_at": "2026-06-19T02:32:03Z",
   "commits": [
+    {
+      "hash": "e56d53a",
+      "type": "feat",
+      "message": ": auto-enable WhatsApp reminder channel on template approval",
+      "repo": "agendate-ya",
+      "repo_display": "AgendateYa",
+      "timestamp": "2026-06-18T23:31:50-03:00"
+    },
     {
       "hash": "373a739",
       "type": "other",
@@ -152,14 +160,6 @@
       "repo": "agendate-ya",
       "repo_display": "AgendateYa",
       "timestamp": "2026-06-06T21:01:36-03:00"
-    },
-    {
-      "hash": "7ef31dc",
-      "type": "docs",
-      "message": ": confirm DataIntegrityViolationException re-throw is cleanly mapped (SUGG-3)",
-      "repo": "agendate-ya",
-      "repo_display": "AgendateYa",
-      "timestamp": "2026-06-06T19:04:19-03:00"
     }
   ]
 }
